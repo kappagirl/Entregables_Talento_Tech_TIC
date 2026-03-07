@@ -1,0 +1,2001 @@
+Año,Departamento,Institución,Matrícula_Inicial,Matrícula_Final,Tasa_Deserción,Causa_Probable,Estrato_Promedio,Distancia_Promedio_Km
+2020,Amazonas,Ellis-Gray Rural,239,209,0.125,Trabajo infantil,1.4,6.58
+2021,Cauca,Johnson Ltd Rural,223,202,0.093,Otro,1.1,4.56
+2023,Amazonas,Little Inc Rural,57,51,0.088,Económica,1.3,0.3
+2024,Amazonas,"Gallegos, Benson and Hill Rural",193,176,0.088,Migración,2.1,10.06
+2024,Casanare,Mueller-Miller Rural,106,87,0.179,Acceso,1.9,0.1
+2020,La Guajira,"Pierce, Kirby and Martinez Rural",228,196,0.138,Acceso,1.5,17.52
+2021,Nariño,Alvarado-Ortiz Rural,295,272,0.077,Trabajo infantil,1.2,1.0
+2023,Cauca,Stephenson and Sons Rural,141,123,0.127,Trabajo infantil,1.9,1.01
+2020,Meta,Collier Ltd Rural,187,166,0.112,Económica,2.5,2.83
+2023,Cauca,"Moore, Stone and Johnson Rural",191,190,0.004,Trabajo infantil,2.2,1.72
+2024,Putumayo,Cameron Inc Rural,197,187,0.049,Migración,2.1,1.73
+2020,Nariño,Williams PLC Rural,247,218,0.116,Trabajo infantil,2.5,2.28
+2021,Cauca,"Simmons, Gomez and Mcclain Rural",147,121,0.173,Trabajo infantil,1.7,1.11
+2022,La Guajira,Fox Ltd Rural,144,131,0.089,Trabajo infantil,1.3,3.61
+2022,Cauca,"Tran, Suarez and Boone Rural",205,190,0.073,Migración,1.8,4.68
+2021,La Guajira,Fuller and Sons Rural,168,150,0.106,Acceso,1.4,0.93
+2024,Nariño,Calhoun-Robinson Rural,225,209,0.07,Trabajo infantil,2.3,5.76
+2020,Nariño,Hicks-Curtis Rural,260,237,0.085,Económica,2.2,2.9
+2023,Chocó,"Miller, Hancock and Davis Rural",66,59,0.099,Migración,2.4,0.17
+2024,Putumayo,"Spencer, Kramer and Carter Rural",104,99,0.047,Acceso,1.6,12.0
+2023,La Guajira,Day-Williams Rural,117,100,0.141,Migración,1.4,1.87
+2024,Guaviare,Harrison LLC Rural,117,112,0.039,Otro,1.6,3.67
+2024,Casanare,Hood-Williams Rural,142,137,0.034,Migración,2.5,17.46
+2021,Guaviare,"Lara, Cowan and King Rural",176,156,0.11,Económica,2.1,7.46
+2020,La Guajira,Miller-Hernandez Rural,210,181,0.137,Migración,2.2,0.46
+2023,Cauca,"Hernandez, Powell and Waller Rural",148,131,0.109,Acceso,1.9,1.09
+2023,Guaviare,Schmidt-Nelson Rural,114,103,0.094,Otro,2.3,2.46
+2020,Cauca,Mann-Lucero Rural,224,204,0.085,Otro,2.1,1.58
+2022,Cauca,Young-Yoder Rural,125,115,0.077,Acceso,1.2,1.65
+2020,Chocó,Mays-Vincent Rural,298,252,0.153,Otro,2.1,3.91
+2024,Cauca,Parker Inc Rural,272,240,0.116,Trabajo infantil,2.3,0.39
+2024,Nariño,Moore-Hoover Rural,89,81,0.081,Trabajo infantil,2.1,21.67
+2024,Guaviare,Hanson-Tate Rural,285,266,0.066,Económica,1.9,0.03
+2023,Amazonas,"Richardson, Poole and Floyd Rural",78,67,0.131,Trabajo infantil,2.3,8.45
+2022,Nariño,Smith PLC Rural,64,54,0.152,Migración,2.3,7.38
+2020,Cauca,Lopez Inc Rural,237,202,0.147,Acceso,2.2,0.38
+2024,La Guajira,"Payne, Townsend and Hendricks Rural",82,77,0.058,Acceso,2.4,9.94
+2021,Chocó,Mathis Ltd Rural,185,169,0.085,Otro,1.6,4.88
+2021,Guaviare,"Reynolds, Taylor and Sanders Rural",243,224,0.076,Migración,2.1,1.86
+2023,Putumayo,"Sullivan, Jackson and Chambers Rural",162,147,0.091,Otro,1.7,1.97
+2021,Nariño,Acosta-Hernandez Rural,66,56,0.141,Trabajo infantil,1.0,10.91
+2024,Nariño,"Gillespie, Greer and Henson Rural",200,166,0.168,Migración,1.0,3.2
+2020,Nariño,Brewer-Parker Rural,67,59,0.118,Económica,2.3,7.15
+2020,Guaviare,Diaz-Velazquez Rural,110,102,0.068,Trabajo infantil,2.0,4.12
+2021,Guaviare,Roberts-Kennedy Rural,83,74,0.098,Otro,1.9,3.7
+2021,Meta,Ward-Huffman Rural,256,210,0.178,Acceso,1.3,2.79
+2020,Casanare,"Young, Chavez and George Rural",140,125,0.104,Acceso,1.6,1.89
+2020,Cauca,"Smith, Cross and Haley Rural",65,59,0.085,Acceso,2.1,3.55
+2020,Nariño,Leonard PLC Rural,99,90,0.089,Migración,1.8,2.64
+2021,Casanare,Rangel-Thompson Rural,96,84,0.118,Trabajo infantil,1.7,7.04
+2020,Meta,Harris-Mckinney Rural,256,240,0.06,Otro,1.1,13.27
+2024,Amazonas,"Patterson, Lucero and Lee Rural",298,275,0.075,Económica,2.4,8.25
+2021,La Guajira,Rodriguez-Conrad Rural,154,131,0.146,Acceso,1.7,8.14
+2023,Amazonas,Valenzuela and Sons Rural,92,81,0.116,Acceso,1.0,1.03
+2023,Chocó,"Cochran, Baker and Powers Rural",287,256,0.105,Acceso,1.4,8.24
+2024,Meta,"Higgins, Tran and Lewis Rural",89,75,0.148,Migración,1.4,11.32
+2020,Guaviare,Curry Ltd Rural,65,60,0.065,Trabajo infantil,1.1,1.29
+2024,Meta,Blair and Sons Rural,178,163,0.084,Otro,1.2,2.79
+2024,Cauca,"Brennan, Brady and Mcknight Rural",267,236,0.115,Migración,1.1,0.03
+2020,Nariño,Montgomery-Miller Rural,153,135,0.113,Económica,2.4,3.57
+2024,Nariño,Morris-Walters Rural,198,192,0.029,Otro,1.1,0.64
+2020,Casanare,Smith-Diaz Rural,218,200,0.079,Otro,1.8,2.06
+2022,Chocó,Davis-Floyd Rural,102,92,0.092,Trabajo infantil,1.4,3.66
+2023,La Guajira,"Odom, Ortega and Holt Rural",221,194,0.12,Trabajo infantil,1.7,6.07
+2020,Amazonas,Smith-Harvey Rural,167,148,0.113,Otro,2.5,16.41
+2020,Cauca,"Young, Berry and Stone Rural",187,169,0.096,Migración,1.8,1.45
+2021,Putumayo,Gonzalez-Rocha Rural,275,273,0.004,Económica,2.3,1.68
+2022,Chocó,"Rivera, Hale and Osborne Rural",90,81,0.099,Acceso,2.3,0.19
+2022,Guaviare,Boyd and Sons Rural,52,46,0.103,Otro,1.4,0.26
+2020,La Guajira,Mitchell-Williams Rural,117,90,0.223,Económica,2.3,1.63
+2024,La Guajira,Roberts-Hunt Rural,119,108,0.09,Trabajo infantil,1.9,0.78
+2022,Nariño,Ferguson Inc Rural,225,199,0.115,Trabajo infantil,1.8,3.36
+2022,Amazonas,"Thomas, Davis and Lutz Rural",73,61,0.157,Acceso,2.2,1.36
+2020,Amazonas,Woods LLC Rural,135,116,0.138,Migración,2.0,6.51
+2022,La Guajira,Walker-Delgado Rural,239,198,0.17,Acceso,1.8,5.02
+2023,Guaviare,"Scott, Greer and Garcia Rural",52,50,0.03,Económica,1.1,3.84
+2021,Guaviare,Gordon LLC Rural,59,56,0.05,Trabajo infantil,1.9,0.21
+2021,Casanare,Collins-Garcia Rural,82,76,0.072,Económica,1.5,4.47
+2020,Putumayo,"Collins, Hill and Roy Rural",103,100,0.022,Migración,2.0,5.18
+2022,Guaviare,Summers-Barber Rural,276,247,0.103,Acceso,2.5,0.96
+2021,Nariño,"Wilson, Johnson and Cox Rural",271,256,0.054,Migración,2.5,13.8
+2021,Casanare,Gibson LLC Rural,56,46,0.177,Migración,2.1,0.74
+2022,Casanare,"Anderson, Davenport and Gibson Rural",255,239,0.061,Migración,1.4,12.93
+2020,Casanare,"Cruz, Raymond and Boyd Rural",273,250,0.084,Económica,2.3,10.49
+2021,Nariño,Blair LLC Rural,259,222,0.141,Acceso,1.5,8.5
+2021,Nariño,"Stark, Neal and Bishop Rural",56,53,0.038,Migración,1.6,4.05
+2022,Cauca,Williams Inc Rural,297,291,0.02,Trabajo infantil,1.5,0.49
+2024,Casanare,Cameron LLC Rural,223,198,0.109,Otro,1.5,11.38
+2020,Cauca,Estrada-Jones Rural,274,243,0.113,Trabajo infantil,1.3,2.07
+2022,Amazonas,Collins and Sons Rural,77,66,0.139,Otro,1.7,2.15
+2022,Casanare,Tapia-Hernandez Rural,205,179,0.126,Otro,1.2,10.91
+2024,Nariño,Mcpherson-Hill Rural,115,101,0.115,Económica,2.1,7.57
+2020,Guaviare,Arias Group Rural,286,267,0.066,Otro,2.0,0.88
+2021,Putumayo,"Smith, Clark and Collier Rural",160,142,0.112,Económica,2.4,11.44
+2022,Putumayo,"Nolan, Potter and Cline Rural",219,193,0.115,Económica,2.1,0.03
+2022,Guaviare,"Lee, English and Hunt Rural",129,120,0.064,Acceso,1.5,0.88
+2022,Guaviare,Jackson-Hernandez Rural,82,66,0.193,Migración,1.6,5.28
+2023,La Guajira,Martin Ltd Rural,207,181,0.124,Otro,1.5,1.27
+2024,Amazonas,Stout-Tanner Rural,127,120,0.051,Trabajo infantil,1.3,1.97
+2024,Putumayo,Reese-Small Rural,169,145,0.139,Acceso,1.7,6.86
+2021,Guaviare,"Paul, Marshall and Young Rural",171,145,0.148,Migración,2.0,5.36
+2022,Guaviare,Brewer Group Rural,219,192,0.121,Otro,1.5,4.2
+2021,Chocó,Grant-Evans Rural,107,97,0.088,Migración,1.2,1.54
+2020,Nariño,Costa PLC Rural,171,160,0.062,Otro,2.3,1.4
+2020,Meta,Campbell-Mendoza Rural,156,141,0.096,Otro,1.3,11.13
+2023,Meta,Olsen Group Rural,152,134,0.117,Migración,1.2,4.99
+2020,Cauca,Baker-Davis Rural,249,223,0.101,Acceso,1.3,4.3
+2024,Meta,Gibbs Inc Rural,62,51,0.173,Otro,1.4,3.39
+2020,Meta,"Rodriguez, Nixon and Sweeney Rural",84,72,0.131,Acceso,2.0,1.65
+2024,Putumayo,Morgan LLC Rural,293,276,0.057,Acceso,1.9,0.12
+2024,Casanare,Hansen and Sons Rural,262,249,0.046,Otro,1.7,14.11
+2021,Meta,"Huerta, Mccullough and Harrell Rural",165,144,0.124,Trabajo infantil,2.1,15.39
+2022,Guaviare,"Petty, Garrett and Jacobs Rural",174,158,0.089,Migración,1.4,0.08
+2020,Chocó,Shea-Smith Rural,110,95,0.136,Trabajo infantil,1.5,13.18
+2024,Cauca,Bryant Group Rural,85,74,0.124,Migración,1.3,16.57
+2021,Nariño,"Chen, Baldwin and Petersen Rural",66,59,0.096,Acceso,1.6,9.59
+2024,Meta,House-Jennings Rural,156,146,0.058,Económica,1.3,9.52
+2023,Casanare,Young and Sons Rural,281,274,0.024,Otro,2.4,1.91
+2020,Casanare,Mcdonald Group Rural,172,152,0.111,Económica,2.4,13.76
+2022,Casanare,Macias Group Rural,268,257,0.038,Acceso,1.8,5.95
+2024,Nariño,"Jackson, Gonzalez and Evans Rural",174,164,0.056,Migración,1.4,4.77
+2023,Amazonas,"Brown, Davis and Rivera Rural",149,132,0.108,Trabajo infantil,2.0,23.05
+2023,La Guajira,Perez Group Rural,265,237,0.103,Acceso,2.4,10.49
+2024,Guaviare,Ballard Inc Rural,56,53,0.043,Acceso,1.9,6.75
+2020,Cauca,Russo-Obrien Rural,214,181,0.154,Acceso,1.2,2.23
+2023,La Guajira,Robinson-Gray Rural,62,52,0.153,Trabajo infantil,1.6,1.74
+2021,Meta,Griffin-Bell Rural,133,116,0.126,Trabajo infantil,2.1,10.09
+2023,Chocó,Ford-Campbell Rural,242,211,0.126,Acceso,1.4,12.22
+2020,Meta,"Young, Mills and Jones Rural",54,47,0.126,Otro,1.1,8.0
+2022,Nariño,Myers-Johnson Rural,216,152,0.293,Económica,2.2,5.25
+2020,Amazonas,West-Oliver Rural,293,249,0.148,Migración,1.3,11.04
+2020,La Guajira,Fernandez-Anderson Rural,111,96,0.133,Migración,1.7,2.06
+2020,Nariño,Hartman-Jordan Rural,169,158,0.061,Trabajo infantil,2.2,4.32
+2021,Cauca,Chavez LLC Rural,249,227,0.088,Migración,2.4,0.18
+2020,Amazonas,Ward LLC Rural,287,225,0.216,Trabajo infantil,1.9,1.69
+2023,Casanare,Smith-Garcia Rural,291,288,0.007,Migración,1.1,4.47
+2021,Cauca,Keller PLC Rural,228,210,0.076,Trabajo infantil,2.3,0.68
+2024,Cauca,Walls-Thomas Rural,253,214,0.154,Otro,2.2,3.69
+2022,Guaviare,Mejia-Payne Rural,159,148,0.064,Trabajo infantil,1.1,4.88
+2022,Amazonas,"Williams, Gonzalez and Taylor Rural",267,231,0.134,Acceso,2.2,0.45
+2020,Casanare,Harris Inc Rural,295,264,0.102,Trabajo infantil,2.0,3.89
+2023,La Guajira,Johnson LLC Rural,161,150,0.067,Migración,2.1,5.07
+2022,Guaviare,Maldonado Group Rural,248,248,0.0,Acceso,1.7,7.93
+2024,Chocó,Osborne-Lopez Rural,132,117,0.109,Migración,2.2,1.58
+2020,Chocó,Ford Ltd Rural,275,258,0.06,Acceso,1.4,0.13
+2023,Casanare,"Gonzalez, Vazquez and Melton Rural",136,123,0.094,Económica,1.7,16.44
+2022,La Guajira,Smith-Goodman Rural,174,152,0.125,Migración,1.5,2.63
+2022,Putumayo,Gross Ltd Rural,121,103,0.143,Otro,2.1,0.95
+2022,Guaviare,Barnes-Rogers Rural,52,48,0.076,Otro,2.4,3.98
+2020,Nariño,Kim and Sons Rural,234,218,0.067,Acceso,1.7,6.27
+2021,Meta,"Johnston, Howard and Fisher Rural",215,207,0.037,Acceso,1.7,15.49
+2020,Cauca,White-Ross Rural,125,106,0.146,Migración,1.6,6.7
+2021,Chocó,"Lyons, Nichols and Jimenez Rural",219,173,0.206,Otro,1.6,2.72
+2024,Guaviare,"Lee, Harris and Green Rural",138,117,0.152,Acceso,2.5,1.42
+2024,Putumayo,"Mendez, Barnes and Gordon Rural",140,117,0.163,Acceso,1.4,0.07
+2022,Nariño,"Nichols, Velazquez and Alvarez Rural",80,74,0.065,Migración,1.5,0.62
+2024,La Guajira,Taylor and Sons Rural,99,86,0.122,Migración,2.1,3.21
+2022,Guaviare,"Barnes, Kelly and Johnson Rural",202,173,0.139,Trabajo infantil,2.5,0.51
+2021,Chocó,"Oneill, White and Green Rural",108,108,0.0,Trabajo infantil,1.3,0.95
+2020,Guaviare,"Clay, Chambers and White Rural",82,77,0.049,Trabajo infantil,1.1,2.84
+2020,Guaviare,Campbell-King Rural,124,101,0.182,Migración,2.0,5.04
+2023,Cauca,Conner PLC Rural,273,265,0.028,Económica,1.9,0.23
+2023,Meta,"Ferguson, Simmons and Reyes Rural",162,134,0.172,Trabajo infantil,1.3,3.5
+2020,Chocó,Stevens Ltd Rural,290,281,0.028,Acceso,1.2,9.71
+2020,Casanare,Good-Salinas Rural,175,166,0.051,Económica,1.9,0.37
+2020,La Guajira,Cannon-Holden Rural,88,77,0.123,Otro,2.4,5.14
+2020,Nariño,"Washington, Cook and Ramos Rural",80,71,0.103,Otro,2.1,14.09
+2024,Nariño,Johnston-Williams Rural,248,227,0.081,Otro,1.6,4.28
+2023,Chocó,Lee and Sons Rural,270,221,0.179,Otro,2.5,3.06
+2022,Amazonas,"Melendez, Bauer and Adams Rural",206,198,0.038,Económica,2.4,3.94
+2021,Nariño,Brown Inc Rural,117,106,0.092,Económica,1.2,16.25
+2021,Guaviare,Smith-Lowery Rural,69,60,0.129,Migración,1.0,11.79
+2023,Meta,Webb and Sons Rural,124,109,0.114,Económica,1.3,0.37
+2022,Meta,Lara and Sons Rural,68,63,0.069,Migración,2.4,1.92
+2024,Nariño,"Jones, Russell and Burch Rural",158,146,0.071,Económica,1.8,0.63
+2021,Chocó,Kelly Ltd Rural,261,223,0.142,Migración,1.1,5.97
+2021,Chocó,Howard LLC Rural,202,172,0.145,Otro,2.4,6.64
+2023,Cauca,"Miller, Ramirez and Villanueva Rural",169,149,0.115,Trabajo infantil,2.0,8.13
+2022,Guaviare,"Page, Wilson and Fuller Rural",188,176,0.059,Acceso,1.7,6.94
+2024,Amazonas,"Williams, Costa and Franklin Rural",277,257,0.072,Acceso,2.1,8.22
+2024,Chocó,"Frederick, Williamson and Gomez Rural",56,50,0.099,Económica,1.3,2.33
+2024,Amazonas,Black LLC Rural,245,219,0.106,Trabajo infantil,1.9,7.49
+2021,Meta,Barton-Lang Rural,182,158,0.127,Acceso,2.4,9.77
+2021,Casanare,Simon-Carrillo Rural,212,192,0.09,Acceso,2.5,2.8
+2023,Putumayo,Carroll Group Rural,154,132,0.141,Trabajo infantil,1.5,0.54
+2020,La Guajira,Kim-Haynes Rural,134,115,0.141,Acceso,2.0,11.64
+2022,Casanare,Yang-Williams Rural,258,215,0.165,Otro,1.1,1.93
+2020,Putumayo,Jennings LLC Rural,114,102,0.101,Trabajo infantil,1.2,11.29
+2023,Guaviare,Wilson-Chambers Rural,261,230,0.116,Económica,2.0,15.04
+2024,Meta,"Edwards, Perkins and Ramos Rural",155,140,0.093,Económica,1.3,4.26
+2022,Meta,"Hall, Parrish and Barnett Rural",210,197,0.059,Acceso,2.1,1.74
+2021,Chocó,Curry Inc Rural,190,151,0.205,Migración,2.4,1.99
+2023,Meta,Davis-Weber Rural,81,68,0.158,Económica,2.5,7.84
+2024,Nariño,"White, Thompson and Cortez Rural",231,198,0.14,Migración,1.5,7.79
+2020,Guaviare,"Payne, Davis and Sutton Rural",154,138,0.099,Económica,1.3,0.3
+2020,Meta,Decker-Castillo Rural,292,275,0.055,Económica,2.0,3.99
+2021,Meta,Burns-Henry Rural,288,245,0.149,Trabajo infantil,1.8,2.16
+2022,Casanare,Harvey-Nichols Rural,263,238,0.093,Acceso,2.5,0.62
+2021,Meta,Fitzpatrick-Simmons Rural,191,167,0.121,Migración,1.6,4.81
+2024,Guaviare,"Lopez, Taylor and Barnes Rural",241,223,0.072,Migración,2.3,0.53
+2022,Casanare,"Garner, Johnson and Luna Rural",137,121,0.112,Otro,1.4,0.38
+2020,Chocó,Phillips-Sanchez Rural,235,217,0.075,Trabajo infantil,2.3,8.63
+2024,Meta,Bowman-Fisher Rural,271,250,0.076,Migración,1.7,0.44
+2023,Putumayo,Bowen LLC Rural,135,119,0.112,Otro,2.1,21.58
+2023,Meta,"Jones, Harrington and Hayes Rural",288,279,0.028,Trabajo infantil,2.3,8.38
+2021,Casanare,Logan-Wise Rural,109,105,0.03,Acceso,1.1,14.71
+2023,Casanare,Wolfe-Gray Rural,148,138,0.064,Migración,1.7,7.51
+2020,La Guajira,Shah Ltd Rural,178,162,0.089,Otro,1.5,4.09
+2020,Meta,Mills-Andersen Rural,75,64,0.143,Otro,2.4,0.59
+2020,La Guajira,Santiago-Harris Rural,154,139,0.092,Migración,1.1,3.39
+2022,Putumayo,"Rollins, Baldwin and Combs Rural",209,188,0.099,Acceso,2.0,0.29
+2022,Guaviare,"Turner, Clark and Levine Rural",147,134,0.086,Trabajo infantil,1.9,0.63
+2023,Guaviare,Anderson Inc Rural,59,52,0.116,Otro,1.1,6.85
+2022,Nariño,Payne-Henderson Rural,241,226,0.059,Económica,1.7,4.38
+2020,Cauca,Murray-Pennington Rural,163,147,0.095,Migración,2.0,1.68
+2020,Amazonas,Vasquez and Sons Rural,133,117,0.12,Económica,1.4,10.15
+2022,Casanare,Copeland Inc Rural,87,77,0.111,Migración,1.8,0.38
+2024,La Guajira,Wilson-Peterson Rural,93,83,0.101,Migración,1.1,4.04
+2023,Nariño,Cummings and Sons Rural,177,159,0.101,Otro,1.2,4.96
+2023,Chocó,Sanchez-Cooper Rural,167,146,0.125,Trabajo infantil,2.0,5.95
+2023,Chocó,"Miller, Proctor and Wright Rural",223,176,0.208,Otro,1.2,4.39
+2023,Putumayo,"Sharp, Chandler and Randall Rural",200,187,0.062,Trabajo infantil,2.0,11.57
+2023,Chocó,Drake-Wilkerson Rural,166,131,0.209,Trabajo infantil,1.3,1.62
+2023,Meta,Haynes LLC Rural,77,72,0.06,Migración,1.6,1.04
+2022,Chocó,Blackwell and Sons Rural,229,229,0.0,Trabajo infantil,1.0,4.38
+2023,Chocó,Vargas Group Rural,52,48,0.074,Otro,2.3,0.4
+2020,Meta,Mayer and Sons Rural,263,232,0.117,Trabajo infantil,2.2,1.85
+2021,Putumayo,Lam Inc Rural,106,85,0.194,Migración,1.9,8.4
+2021,Cauca,Mcdonald Ltd Rural,281,265,0.055,Económica,1.5,12.09
+2023,Amazonas,Choi LLC Rural,198,173,0.125,Trabajo infantil,2.1,8.64
+2020,Chocó,"Jordan, Medina and Gordon Rural",133,128,0.034,Acceso,1.3,13.5
+2021,Guaviare,Daniel-Schroeder Rural,274,221,0.192,Trabajo infantil,1.8,10.05
+2022,La Guajira,"Perez, Keller and Cole Rural",115,96,0.159,Acceso,2.5,21.82
+2022,Putumayo,Williams Inc Rural,255,235,0.077,Económica,1.7,0.82
+2020,La Guajira,Caldwell-Harris Rural,243,239,0.014,Migración,2.3,17.52
+2023,Guaviare,Adams-Cook Rural,143,118,0.168,Económica,2.2,9.23
+2020,Chocó,"Ortiz, Clark and Davis Rural",187,169,0.094,Económica,1.7,2.68
+2022,Casanare,Valdez-Rivera Rural,260,217,0.162,Trabajo infantil,1.2,1.6
+2021,Meta,Howard Ltd Rural,56,50,0.1,Otro,2.3,7.33
+2024,Putumayo,"Pineda, Roy and Graves Rural",284,255,0.102,Otro,1.3,14.48
+2020,Meta,Conner Inc Rural,282,260,0.077,Trabajo infantil,2.0,2.99
+2020,La Guajira,"Chavez, Weiss and Hoover Rural",61,53,0.131,Económica,1.5,0.69
+2023,Cauca,Bruce Ltd Rural,74,66,0.106,Migración,2.3,1.3
+2021,Casanare,Jones-Murray Rural,166,145,0.126,Trabajo infantil,2.0,5.57
+2024,Casanare,Johnson-Alvarez Rural,200,195,0.023,Migración,2.3,0.6
+2020,Meta,Henderson-Johnson Rural,207,173,0.164,Acceso,2.4,5.57
+2022,Amazonas,"Lawrence, Mccann and Rivers Rural",226,185,0.178,Trabajo infantil,1.3,3.67
+2023,Nariño,"Davis, Bennett and Rocha Rural",268,239,0.106,Trabajo infantil,1.1,9.56
+2022,Guaviare,Hernandez Inc Rural,280,223,0.203,Trabajo infantil,1.1,10.46
+2022,Nariño,Thompson LLC Rural,297,241,0.188,Económica,2.4,2.58
+2023,Cauca,"Medina, Price and Nguyen Rural",219,190,0.132,Migración,2.0,6.09
+2024,Amazonas,"Brown, Thompson and Martin Rural",62,51,0.168,Trabajo infantil,1.4,1.2
+2021,Nariño,"Mcneil, Copeland and Williams Rural",67,56,0.153,Otro,1.3,2.49
+2021,Nariño,Singh Group Rural,134,132,0.012,Migración,2.2,2.88
+2024,Amazonas,"Trevino, White and Martinez Rural",120,109,0.087,Migración,2.5,3.61
+2024,Chocó,"Alvarez, Klein and Rodriguez Rural",254,219,0.136,Migración,1.2,7.65
+2020,La Guajira,"Davidson, Le and Lozano Rural",53,43,0.181,Trabajo infantil,2.2,9.92
+2021,Putumayo,Martinez Group Rural,54,52,0.031,Migración,1.4,14.93
+2021,Casanare,"Robinson, Warner and Brown Rural",184,181,0.015,Económica,2.1,3.07
+2023,Meta,Hayes LLC Rural,249,224,0.097,Trabajo infantil,1.8,19.57
+2020,Meta,"Berry, Paul and Liu Rural",178,178,0.0,Migración,2.4,5.02
+2020,Guaviare,Cooper-Bennett Rural,127,114,0.096,Acceso,2.0,1.37
+2020,Amazonas,"Luna, Harvey and Rogers Rural",172,151,0.118,Acceso,1.6,1.0
+2020,Meta,Woodard-Molina Rural,232,219,0.053,Acceso,1.1,2.12
+2020,Putumayo,"Williams, Hill and Walls Rural",205,185,0.097,Migración,1.1,5.51
+2022,Guaviare,Conway Group Rural,232,197,0.148,Trabajo infantil,1.6,0.95
+2024,Guaviare,Nguyen PLC Rural,125,115,0.073,Acceso,1.8,0.97
+2023,Cauca,Brady-Martinez Rural,253,237,0.06,Económica,2.3,0.46
+2024,Nariño,Sheppard-Bradford Rural,160,144,0.095,Acceso,2.3,1.16
+2023,Putumayo,Thompson-Lozano Rural,261,248,0.048,Acceso,1.6,2.26
+2020,Putumayo,Weeks Ltd Rural,159,127,0.198,Trabajo infantil,2.0,0.2
+2022,La Guajira,"Robinson, Miller and Macias Rural",225,202,0.102,Acceso,1.1,8.03
+2020,Cauca,Ballard-Mcbride Rural,160,149,0.065,Económica,2.1,10.34
+2022,La Guajira,Avila-Walton Rural,192,170,0.111,Económica,1.9,12.68
+2024,Guaviare,"Obrien, Marshall and Swanson Rural",134,121,0.094,Económica,1.6,8.2
+2023,Amazonas,"Gilbert, Ewing and Perez Rural",297,270,0.089,Trabajo infantil,1.9,6.9
+2022,Cauca,Scott-Reeves Rural,197,182,0.073,Otro,1.3,2.31
+2023,Nariño,"Rowe, Hayes and Allen Rural",266,247,0.071,Económica,1.5,3.31
+2024,Putumayo,Walters-Baker Rural,79,77,0.024,Trabajo infantil,1.9,3.1
+2023,Guaviare,Stafford PLC Rural,299,248,0.168,Otro,1.9,6.88
+2024,Amazonas,"Beltran, Ingram and Holt Rural",205,178,0.129,Trabajo infantil,1.0,3.58
+2022,Chocó,Malone LLC Rural,285,251,0.116,Trabajo infantil,1.5,3.8
+2021,La Guajira,Cooper-Sexton Rural,194,175,0.094,Acceso,1.1,3.8
+2020,Cauca,Wu-Brown Rural,241,228,0.052,Otro,1.3,1.39
+2023,Meta,Moses and Sons Rural,137,128,0.062,Migración,1.6,0.1
+2022,Cauca,Yates Group Rural,276,267,0.029,Económica,1.2,1.94
+2024,Amazonas,"Cline, Davis and Hill Rural",222,206,0.068,Económica,1.4,0.64
+2023,Meta,"Knapp, White and Strong Rural",205,195,0.046,Acceso,1.6,11.06
+2021,Guaviare,"Kelly, Murray and Baker Rural",79,64,0.184,Trabajo infantil,1.6,7.78
+2022,Meta,Turner LLC Rural,184,157,0.144,Trabajo infantil,1.1,3.45
+2023,Amazonas,Ramirez-Robertson Rural,51,45,0.104,Migración,1.5,4.42
+2021,La Guajira,Harper-Sanchez Rural,245,231,0.057,Trabajo infantil,1.4,6.84
+2020,Amazonas,Carter-Vaughn Rural,177,168,0.048,Acceso,1.3,1.67
+2023,Guaviare,"Sims, Smith and Sullivan Rural",230,209,0.09,Migración,1.8,2.26
+2022,Cauca,"Murray, Dunn and Brown Rural",151,128,0.146,Económica,1.7,2.2
+2023,Cauca,Johnson-Obrien Rural,270,217,0.195,Trabajo infantil,1.9,21.53
+2024,Casanare,Ryan-Allen Rural,231,224,0.03,Acceso,1.4,0.54
+2023,Amazonas,Williams Ltd Rural,297,258,0.128,Trabajo infantil,1.3,0.83
+2024,Meta,Tran-Rowe Rural,262,244,0.067,Trabajo infantil,1.1,1.03
+2020,Nariño,"Spears, Coleman and Reyes Rural",161,148,0.076,Otro,1.6,1.68
+2020,Casanare,"Bonilla, Brooks and Le Rural",272,244,0.102,Trabajo infantil,2.1,2.64
+2021,Putumayo,Anderson LLC Rural,249,234,0.058,Migración,1.1,20.19
+2020,Guaviare,Jacobs Inc Rural,180,164,0.088,Migración,2.4,17.45
+2022,Putumayo,"Spencer, Hernandez and Taylor Rural",236,223,0.055,Migración,1.4,10.03
+2021,Chocó,"Davis, Davis and Little Rural",100,92,0.071,Migración,1.9,0.94
+2020,La Guajira,Blackwell-Walker Rural,293,252,0.138,Acceso,1.7,5.52
+2024,Meta,Hudson-Chung Rural,224,200,0.105,Otro,2.0,4.24
+2024,Putumayo,Graham PLC Rural,271,233,0.138,Trabajo infantil,1.2,1.64
+2020,Meta,"Burns, Burgess and Norris Rural",163,152,0.067,Trabajo infantil,2.2,1.96
+2024,Amazonas,Townsend Ltd Rural,140,121,0.129,Otro,1.1,2.77
+2023,Meta,"Torres, Miller and Johnson Rural",59,57,0.019,Económica,1.6,0.61
+2022,Cauca,"Harris, Walker and Cobb Rural",215,193,0.102,Económica,1.9,4.72
+2024,Casanare,"Lynch, Hernandez and Garza Rural",168,145,0.132,Otro,1.8,0.84
+2020,Meta,"Bowers, Buchanan and Gilmore Rural",282,277,0.017,Otro,2.0,3.28
+2022,Meta,"Franklin, Wolfe and Edwards Rural",178,166,0.067,Migración,2.4,2.05
+2023,Cauca,Blanchard Inc Rural,257,230,0.102,Trabajo infantil,2.5,0.72
+2020,Guaviare,"Phillips, Callahan and Rios Rural",215,182,0.15,Migración,1.1,1.47
+2023,Meta,"Martin, Odom and Williams Rural",184,170,0.071,Otro,1.9,5.72
+2022,Putumayo,Fernandez Group Rural,284,248,0.126,Trabajo infantil,1.6,3.19
+2022,Amazonas,"Davis, Barnes and Tapia Rural",252,208,0.172,Trabajo infantil,1.1,2.65
+2020,Guaviare,Wiggins-Mcguire Rural,223,194,0.129,Acceso,1.4,8.88
+2024,La Guajira,"Woodard, Lowery and Fisher Rural",135,122,0.09,Económica,1.9,16.77
+2021,Putumayo,Farmer and Sons Rural,129,113,0.119,Acceso,1.2,13.93
+2020,Chocó,"Weaver, Larson and Hammond Rural",193,179,0.07,Acceso,2.0,1.0
+2022,La Guajira,Pierce LLC Rural,221,198,0.104,Otro,1.1,4.27
+2023,Guaviare,Gutierrez-Dillon Rural,142,128,0.092,Económica,1.5,9.22
+2021,Nariño,Lamb PLC Rural,137,120,0.117,Acceso,1.3,1.13
+2021,La Guajira,Bates-Mitchell Rural,69,63,0.079,Trabajo infantil,2.3,0.89
+2020,Guaviare,Miller-Jenkins Rural,247,217,0.12,Otro,2.3,5.47
+2024,Amazonas,Keith Inc Rural,219,201,0.079,Trabajo infantil,2.3,3.7
+2024,La Guajira,James Ltd Rural,202,172,0.144,Acceso,1.2,2.49
+2021,La Guajira,"Rivera, Ruiz and Arnold Rural",234,214,0.084,Acceso,1.1,8.48
+2022,Nariño,Davidson PLC Rural,298,298,0.0,Acceso,1.9,3.11
+2023,Nariño,Powers and Sons Rural,186,176,0.05,Migración,1.5,1.79
+2023,Nariño,Perez LLC Rural,144,129,0.101,Otro,2.5,1.32
+2023,Chocó,Lester PLC Rural,249,203,0.184,Acceso,1.8,11.49
+2023,La Guajira,"Mason, Bates and Thompson Rural",259,222,0.141,Migración,2.2,11.85
+2021,Chocó,"Bennett, Christensen and Morales Rural",63,63,0.0,Acceso,2.3,4.89
+2024,Cauca,Alvarez PLC Rural,232,225,0.026,Otro,2.3,0.75
+2022,Cauca,"Nelson, Gray and Rose Rural",245,206,0.157,Migración,1.4,7.9
+2024,La Guajira,Jones and Sons Rural,262,227,0.132,Acceso,1.1,11.22
+2021,Meta,"Johnson, Bowers and Meza Rural",276,216,0.214,Trabajo infantil,2.4,7.77
+2023,Amazonas,Lewis-Robinson Rural,151,139,0.077,Otro,1.6,1.43
+2023,Cauca,Atkins-Wilson Rural,145,136,0.058,Migración,1.0,6.81
+2020,Putumayo,Johnson Group Rural,252,225,0.104,Migración,1.2,7.19
+2022,Meta,Williams and Sons Rural,228,210,0.076,Migración,2.1,10.47
+2023,Meta,Thomas Group Rural,207,175,0.152,Económica,2.4,0.59
+2020,Chocó,Winters PLC Rural,105,97,0.074,Migración,1.8,9.37
+2024,Guaviare,Hall-Moore Rural,158,144,0.087,Económica,2.2,7.98
+2021,Chocó,Cobb Group Rural,81,76,0.051,Económica,1.4,0.81
+2024,Meta,"Campbell, Kemp and Gregory Rural",66,56,0.138,Económica,2.3,6.37
+2023,Guaviare,"Green, Salazar and West Rural",54,51,0.054,Otro,1.9,5.12
+2021,Chocó,Brown Group Rural,159,139,0.121,Económica,1.9,1.45
+2021,Casanare,"Mclean, Roberts and Petty Rural",97,78,0.194,Económica,1.8,2.12
+2022,Cauca,Velazquez-Roberson Rural,294,290,0.011,Otro,1.8,3.1
+2024,Guaviare,"Willis, Henson and Lane Rural",55,45,0.175,Acceso,2.3,14.71
+2020,Casanare,Cannon PLC Rural,145,128,0.114,Trabajo infantil,2.1,3.52
+2022,Cauca,"Lopez, Hancock and Vaughn Rural",138,131,0.044,Migración,2.1,4.73
+2020,Putumayo,Jackson-Owens Rural,84,75,0.105,Económica,1.5,5.96
+2022,La Guajira,"Evans, Reed and Branch Rural",262,226,0.136,Acceso,2.5,12.79
+2023,La Guajira,Guerra Inc Rural,257,241,0.06,Migración,1.1,4.29
+2023,Amazonas,Castillo-Gray Rural,125,109,0.124,Migración,1.1,4.67
+2021,Amazonas,"Knight, Jones and Singh Rural",130,106,0.18,Trabajo infantil,1.8,13.62
+2024,Meta,James-Walsh Rural,114,105,0.074,Económica,2.1,12.99
+2021,Chocó,Booth PLC Rural,141,133,0.051,Económica,2.3,20.95
+2022,Chocó,Christensen Inc Rural,81,73,0.094,Trabajo infantil,1.7,9.13
+2023,Meta,Thompson-Allen Rural,279,250,0.103,Acceso,1.5,4.47
+2021,Meta,Garcia LLC Rural,227,191,0.155,Acceso,1.6,2.55
+2024,Chocó,Rogers and Sons Rural,255,231,0.092,Económica,2.1,8.12
+2020,Casanare,Webb PLC Rural,204,187,0.079,Migración,1.8,0.02
+2022,Cauca,Hall Inc Rural,70,66,0.049,Trabajo infantil,2.0,3.85
+2022,Meta,Hammond PLC Rural,204,200,0.017,Acceso,1.2,12.62
+2023,Putumayo,Martinez-Walker Rural,164,158,0.036,Económica,2.1,6.69
+2022,Casanare,"Strickland, Schmidt and King Rural",120,115,0.035,Económica,1.1,3.01
+2023,Putumayo,Roberts-Murray Rural,181,165,0.087,Migración,2.4,0.76
+2021,Meta,"Wolf, Morales and Hernandez Rural",58,56,0.025,Migración,1.1,0.97
+2022,Putumayo,"Stout, Cooper and Yang Rural",148,148,0.0,Otro,1.0,12.32
+2021,Meta,"Leon, Trujillo and Maldonado Rural",292,263,0.097,Trabajo infantil,1.6,2.25
+2020,La Guajira,Garcia-Dickerson Rural,185,149,0.192,Trabajo infantil,1.6,0.07
+2022,Nariño,Martinez-Olson Rural,295,248,0.156,Económica,1.0,5.45
+2021,Meta,"Rodriguez, Hart and Lopez Rural",182,166,0.087,Acceso,2.4,0.45
+2020,Chocó,"Hill, Baker and Jenkins Rural",248,236,0.045,Trabajo infantil,2.1,28.84
+2021,Chocó,Zhang LLC Rural,227,175,0.229,Acceso,1.3,0.35
+2021,Cauca,Salinas and Sons Rural,165,148,0.103,Migración,2.3,6.93
+2023,Cauca,Mcconnell-Jackson Rural,257,228,0.11,Trabajo infantil,2.0,1.15
+2020,Guaviare,Smith-Luna Rural,188,170,0.093,Trabajo infantil,2.3,1.06
+2021,La Guajira,"Hays, Krueger and Cook Rural",253,228,0.098,Trabajo infantil,1.8,4.16
+2020,Nariño,Wilkinson and Sons Rural,252,233,0.073,Migración,1.4,0.34
+2023,Amazonas,Pruitt Inc Rural,142,129,0.087,Otro,1.9,3.72
+2023,Guaviare,Holland-Ellison Rural,83,68,0.175,Otro,2.3,2.91
+2020,Chocó,Herrera-Wells Rural,151,126,0.162,Acceso,1.8,0.84
+2023,Cauca,"Smith, Walker and Rogers Rural",82,82,0.0,Trabajo infantil,2.0,1.0
+2023,Meta,Baker-Smith Rural,224,217,0.03,Otro,1.5,5.16
+2024,La Guajira,Dixon LLC Rural,246,230,0.061,Migración,1.6,2.63
+2020,Cauca,Gonzalez Inc Rural,182,155,0.147,Migración,1.5,0.14
+2021,Putumayo,"Davenport, Dixon and Ramirez Rural",289,241,0.164,Migración,1.5,1.25
+2024,Chocó,Kim-Johnson Rural,266,229,0.136,Económica,1.4,0.1
+2024,Chocó,Porter-Lee Rural,82,78,0.044,Trabajo infantil,1.9,0.55
+2020,Guaviare,Lyons PLC Rural,214,198,0.074,Migración,1.9,5.29
+2024,La Guajira,Pratt and Sons Rural,93,81,0.124,Otro,2.1,1.36
+2024,Putumayo,"Flynn, Garrison and Crawford Rural",265,241,0.088,Otro,1.1,6.41
+2020,Cauca,Odom PLC Rural,61,56,0.081,Otro,1.4,9.68
+2021,Casanare,"Williams, Morton and Velasquez Rural",208,190,0.082,Económica,1.7,5.51
+2024,Chocó,Jefferson Inc Rural,214,180,0.158,Trabajo infantil,1.7,1.15
+2023,Chocó,Rojas PLC Rural,166,144,0.13,Económica,2.0,0.07
+2021,Meta,Harmon PLC Rural,156,142,0.085,Acceso,1.7,0.45
+2022,La Guajira,Coleman Group Rural,130,114,0.116,Trabajo infantil,2.1,2.74
+2022,Casanare,Duarte PLC Rural,83,79,0.037,Trabajo infantil,1.8,11.16
+2020,Putumayo,"Ortiz, Bailey and Lee Rural",111,102,0.074,Acceso,1.2,1.5
+2023,Nariño,"Edwards, Barnes and Liu Rural",86,72,0.152,Económica,1.1,2.39
+2023,Casanare,"Bowen, Brown and Rodriguez Rural",113,110,0.022,Migración,2.2,4.89
+2024,Putumayo,Dunn LLC Rural,98,85,0.13,Migración,1.7,2.63
+2024,Meta,Blair-Roy Rural,177,177,0.0,Trabajo infantil,1.7,1.74
+2020,Casanare,"French, Martinez and George Rural",179,145,0.185,Acceso,2.5,14.83
+2021,Putumayo,"Ford, Blanchard and Callahan Rural",62,57,0.073,Económica,1.4,10.14
+2024,Meta,"Holder, Goodman and Davis Rural",123,108,0.12,Otro,1.0,3.34
+2020,Casanare,West Ltd Rural,84,75,0.106,Trabajo infantil,2.1,2.77
+2023,Putumayo,Johnson and Sons Rural,61,54,0.108,Acceso,1.1,0.11
+2024,Nariño,Spears and Sons Rural,142,125,0.115,Otro,1.4,5.02
+2023,Guaviare,Simmons and Sons Rural,165,162,0.014,Otro,1.4,1.49
+2024,Cauca,Gonzalez Inc Rural,82,73,0.109,Económica,1.6,20.8
+2022,Guaviare,Martinez-Garcia Rural,290,263,0.091,Trabajo infantil,2.1,3.73
+2021,Guaviare,Wiggins-Stevens Rural,152,140,0.073,Otro,1.1,0.09
+2020,La Guajira,Alexander Ltd Rural,232,217,0.061,Trabajo infantil,2.2,12.28
+2024,Meta,Evans LLC Rural,88,78,0.11,Otro,2.3,1.6
+2021,Putumayo,Warren-Williams Rural,288,273,0.051,Otro,1.5,4.04
+2023,Chocó,Yang Group Rural,201,170,0.151,Trabajo infantil,1.8,1.16
+2024,Guaviare,"Collins, Meadows and Rivera Rural",175,153,0.124,Otro,1.4,0.06
+2020,Putumayo,Sosa PLC Rural,134,118,0.113,Económica,2.5,4.59
+2024,Chocó,Shaw-Miller Rural,253,215,0.149,Económica,1.9,5.47
+2022,Nariño,"Dunn, Wheeler and Martin Rural",234,232,0.008,Económica,1.9,3.66
+2021,Guaviare,Bailey-Pena Rural,211,203,0.036,Otro,2.2,0.24
+2023,La Guajira,"Frazier, Cole and Mayo Rural",260,227,0.126,Migración,1.0,0.43
+2020,Nariño,Butler PLC Rural,54,50,0.064,Acceso,1.5,4.62
+2021,Casanare,Scott LLC Rural,226,210,0.069,Migración,1.6,1.7
+2024,Meta,"Parker, Hanson and Jackson Rural",273,264,0.03,Económica,2.1,2.2
+2024,Nariño,Baker Inc Rural,193,183,0.051,Trabajo infantil,2.5,4.18
+2023,Guaviare,Carter-Harris Rural,146,123,0.153,Trabajo infantil,2.4,3.23
+2023,Guaviare,Ortega-Wagner Rural,137,119,0.125,Otro,1.5,6.59
+2022,Meta,Ball Ltd Rural,99,88,0.109,Migración,1.4,1.21
+2022,Nariño,Griffin-Hernandez Rural,291,270,0.071,Trabajo infantil,2.2,3.43
+2021,Meta,Allen Group Rural,131,117,0.106,Acceso,1.5,4.54
+2022,Chocó,"Rodriguez, Wood and Smith Rural",81,68,0.157,Otro,2.0,0.56
+2023,Casanare,Schultz Inc Rural,259,242,0.065,Trabajo infantil,2.4,0.39
+2021,Chocó,Morrison Inc Rural,60,54,0.098,Trabajo infantil,2.4,5.83
+2020,Putumayo,Johnson-Wilson Rural,286,231,0.189,Acceso,2.0,2.85
+2023,Nariño,Smith Ltd Rural,101,87,0.135,Otro,1.4,8.03
+2024,Chocó,West-Anderson Rural,85,78,0.072,Económica,1.9,5.93
+2024,Nariño,"Cooper, Baker and Marks Rural",112,97,0.131,Económica,2.0,2.24
+2024,Nariño,"Hart, Cole and Williams Rural",213,208,0.021,Migración,1.1,0.48
+2023,Putumayo,Brown LLC Rural,233,210,0.096,Acceso,1.2,1.02
+2021,Amazonas,Bonilla Inc Rural,296,257,0.131,Otro,2.5,3.9
+2021,Casanare,Cooper-Carter Rural,217,191,0.119,Acceso,1.7,8.21
+2021,Chocó,Abbott-Williams Rural,132,114,0.131,Trabajo infantil,2.0,5.38
+2020,Nariño,Nelson LLC Rural,186,159,0.142,Económica,2.4,1.44
+2021,Casanare,"Baxter, Smith and Smith Rural",275,241,0.123,Migración,2.4,3.36
+2020,Casanare,Hamilton-Doyle Rural,251,220,0.121,Acceso,1.3,1.0
+2022,Amazonas,"Conner, Day and Martinez Rural",52,46,0.11,Trabajo infantil,1.9,4.2
+2020,Putumayo,"Hernandez, Adams and Roth Rural",122,116,0.046,Acceso,2.5,12.91
+2024,Guaviare,Marsh-Mcmahon Rural,176,149,0.153,Migración,2.3,17.71
+2023,Chocó,Reyes-Savage Rural,99,89,0.098,Económica,1.5,9.9
+2023,Chocó,"Gill, Villanueva and Robinson Rural",233,201,0.134,Migración,1.0,9.31
+2022,Chocó,Solis and Sons Rural,195,166,0.147,Migración,1.3,0.19
+2023,Casanare,Spence LLC Rural,181,167,0.074,Trabajo infantil,1.1,4.54
+2020,La Guajira,Martinez LLC Rural,85,78,0.078,Acceso,1.5,0.4
+2021,Amazonas,Campbell-Lopez Rural,116,106,0.085,Acceso,1.4,5.96
+2022,Putumayo,"Carter, Leach and Berry Rural",127,106,0.163,Otro,2.1,0.34
+2020,Chocó,"Singleton, Jones and Martin Rural",217,205,0.055,Trabajo infantil,2.0,1.89
+2020,Cauca,Daniel-Montgomery Rural,169,139,0.172,Trabajo infantil,1.2,1.92
+2024,Chocó,Patterson-Golden Rural,226,201,0.11,Económica,2.0,4.92
+2022,Putumayo,Adams-Graham Rural,207,183,0.113,Migración,1.3,1.33
+2021,Meta,Mckee Group Rural,89,76,0.144,Acceso,2.1,0.12
+2024,Putumayo,"Wilson, Gibbs and Alexander Rural",156,139,0.104,Otro,2.4,13.99
+2024,Nariño,"Diaz, Perez and Williams Rural",245,207,0.153,Migración,2.0,8.02
+2024,Cauca,Brown-Spencer Rural,184,170,0.074,Acceso,1.8,3.27
+2022,Cauca,Choi-Jacobson Rural,284,235,0.17,Otro,1.2,4.94
+2024,Guaviare,"Johnson, Martinez and Morgan Rural",101,93,0.078,Otro,1.8,2.74
+2021,Putumayo,Stafford Inc Rural,268,221,0.173,Otro,1.7,6.69
+2021,Meta,Short-Holloway Rural,73,67,0.079,Otro,1.7,2.19
+2020,Meta,"Sutton, Chavez and Santana Rural",83,75,0.086,Otro,1.6,1.69
+2024,Amazonas,Farmer-Luna Rural,193,183,0.05,Acceso,2.0,0.22
+2022,Amazonas,Diaz Inc Rural,151,141,0.062,Trabajo infantil,2.2,0.09
+2021,Cauca,Green-Woods Rural,61,55,0.098,Acceso,1.5,2.43
+2020,Guaviare,Wallace-Hunt Rural,65,57,0.112,Económica,2.5,5.69
+2023,Amazonas,Thornton Ltd Rural,123,104,0.149,Acceso,1.3,14.48
+2021,Casanare,Fox-Schroeder Rural,145,132,0.089,Acceso,1.7,3.15
+2023,Casanare,"Edwards, Guerrero and Hinton Rural",70,66,0.044,Otro,1.2,23.65
+2022,Cauca,Cowan-Williams Rural,95,83,0.119,Otro,1.6,1.32
+2021,Nariño,"Patrick, Cervantes and Brown Rural",263,234,0.108,Económica,2.1,4.68
+2022,Meta,Roberts PLC Rural,222,194,0.125,Otro,1.6,3.59
+2023,Nariño,Hicks PLC Rural,113,105,0.068,Acceso,1.5,1.25
+2022,Nariño,"Buchanan, Duran and Estrada Rural",289,267,0.073,Económica,1.0,1.03
+2023,Amazonas,Phillips-Baker Rural,111,103,0.068,Migración,1.1,0.3
+2024,Amazonas,"Gomez, Fleming and Shaw Rural",164,137,0.159,Otro,2.0,17.39
+2020,Nariño,Cervantes Inc Rural,239,198,0.171,Económica,1.6,5.95
+2021,Guaviare,Mckinney-Mcconnell Rural,105,97,0.071,Económica,1.2,0.84
+2022,Nariño,Cruz-Bell Rural,258,239,0.072,Otro,1.5,1.27
+2024,Putumayo,"Jones, Guerrero and Vance Rural",110,95,0.132,Trabajo infantil,2.3,3.85
+2024,Nariño,Hughes LLC Rural,155,127,0.177,Trabajo infantil,1.4,0.48
+2024,La Guajira,"Ward, Washington and Jones Rural",210,170,0.19,Acceso,1.8,10.5
+2020,Putumayo,"Fitzgerald, Ramirez and Maddox Rural",291,270,0.069,Acceso,2.2,10.98
+2022,Casanare,Hernandez-Benson Rural,154,141,0.081,Migración,1.4,15.58
+2021,Guaviare,Lane Ltd Rural,171,151,0.114,Migración,2.3,5.32
+2022,La Guajira,Baker LLC Rural,256,226,0.117,Acceso,2.4,4.0
+2024,Casanare,Black-Jones Rural,297,269,0.091,Acceso,1.8,2.33
+2021,Casanare,Caldwell and Sons Rural,112,105,0.06,Trabajo infantil,1.3,1.5
+2020,Meta,"Hicks, Mejia and Horne Rural",266,239,0.098,Trabajo infantil,1.1,0.42
+2021,Amazonas,"Buchanan, Chang and Jacobs Rural",118,95,0.19,Acceso,2.0,1.24
+2024,Amazonas,"Paul, Padilla and Scott Rural",273,252,0.074,Económica,1.3,9.53
+2024,Guaviare,Warren LLC Rural,105,93,0.111,Acceso,1.3,3.42
+2022,Chocó,Bates-Serrano Rural,294,227,0.226,Económica,1.3,8.71
+2021,Cauca,Burns-Wallace Rural,241,223,0.073,Acceso,2.4,2.14
+2024,Nariño,"Vargas, Garcia and Lopez Rural",151,130,0.134,Migración,1.8,1.55
+2022,Casanare,"Goodwin, Rivas and Mills Rural",169,136,0.192,Otro,2.0,10.54
+2022,Chocó,"Larsen, Smith and Cabrera Rural",142,123,0.13,Otro,2.3,9.51
+2023,Cauca,Moreno PLC Rural,255,215,0.155,Acceso,2.1,10.1
+2022,Nariño,"Hernandez, Garcia and Sampson Rural",144,123,0.141,Trabajo infantil,1.6,5.98
+2024,Nariño,"Serrano, Lee and Collins Rural",239,209,0.125,Migración,1.0,5.7
+2024,Casanare,Curtis-Hines Rural,125,103,0.169,Migración,1.3,0.86
+2021,Casanare,Hampton Ltd Rural,195,169,0.132,Migración,1.7,10.64
+2022,Chocó,Burns Inc Rural,245,222,0.092,Acceso,2.4,2.04
+2023,Meta,Gentry-Gonzales Rural,93,83,0.107,Trabajo infantil,1.3,6.8
+2024,Meta,Banks LLC Rural,97,85,0.118,Otro,2.5,8.92
+2020,Guaviare,"Wright, Villarreal and Schmidt Rural",58,53,0.08,Económica,2.4,3.54
+2020,Amazonas,"Bates, Hernandez and Alvarado Rural",155,137,0.11,Migración,2.3,5.0
+2021,Cauca,Morris LLC Rural,231,207,0.102,Migración,1.0,1.5
+2024,Meta,Brown-Pope Rural,145,125,0.132,Económica,1.9,7.57
+2024,Meta,Murphy-Jones Rural,218,172,0.208,Acceso,1.0,0.57
+2024,Guaviare,Moore-Williams Rural,155,137,0.112,Económica,1.0,16.48
+2022,Guaviare,"Tran, Phelps and Becker Rural",300,246,0.179,Trabajo infantil,1.0,2.09
+2023,La Guajira,Mclean-Curtis Rural,77,66,0.13,Económica,1.8,0.54
+2021,Nariño,"Perez, Anderson and Leon Rural",208,185,0.109,Otro,1.4,13.84
+2022,Chocó,"Montgomery, Zimmerman and Bell Rural",253,233,0.078,Acceso,1.1,1.79
+2023,Meta,Ford-Ford Rural,194,172,0.11,Migración,2.5,6.16
+2021,Chocó,"Wheeler, Smith and Lopez Rural",225,200,0.107,Económica,2.0,2.12
+2020,Cauca,Perez Ltd Rural,153,143,0.065,Acceso,1.6,4.85
+2023,Amazonas,"Mccullough, Palmer and Wright Rural",213,197,0.072,Económica,2.1,7.1
+2020,Meta,Gray-Johnson Rural,266,234,0.119,Acceso,2.0,0.12
+2022,Cauca,Oliver-Pruitt Rural,279,229,0.178,Otro,2.4,5.75
+2021,Nariño,"Young, Leonard and Martinez Rural",280,252,0.097,Otro,1.7,2.95
+2020,Cauca,"Brewer, Haley and Beasley Rural",225,218,0.028,Trabajo infantil,2.3,0.89
+2024,Amazonas,Miller Group Rural,95,95,0.0,Trabajo infantil,1.0,7.92
+2021,La Guajira,"Coleman, Mcbride and Andersen Rural",242,230,0.049,Acceso,2.4,0.43
+2022,La Guajira,Ayala-Campbell Rural,194,167,0.135,Migración,1.9,5.7
+2023,Guaviare,"Kim, Ward and Williams Rural",134,129,0.036,Acceso,2.1,15.07
+2021,Cauca,Anderson and Sons Rural,178,152,0.144,Trabajo infantil,1.1,0.82
+2023,Nariño,Lynch LLC Rural,264,228,0.133,Económica,1.5,2.72
+2024,Casanare,Webb-Hanson Rural,298,269,0.095,Trabajo infantil,1.0,5.09
+2022,Meta,Jones-Park Rural,175,170,0.024,Migración,1.5,20.67
+2023,Casanare,Chan PLC Rural,97,90,0.065,Otro,2.0,2.63
+2020,Chocó,Boyd-Montoya Rural,254,231,0.088,Migración,2.1,1.2
+2020,Chocó,Bowers-Terrell Rural,89,78,0.118,Acceso,2.1,0.16
+2021,Casanare,"Mcpherson, Taylor and Roberts Rural",131,126,0.037,Trabajo infantil,1.2,9.99
+2020,Chocó,Baldwin LLC Rural,163,134,0.172,Trabajo infantil,2.1,3.2
+2020,La Guajira,Robles-Walker Rural,72,63,0.117,Migración,1.6,7.37
+2024,Guaviare,Barnes-Brown Rural,181,158,0.123,Acceso,1.2,9.31
+2020,Putumayo,Galvan Ltd Rural,191,165,0.132,Económica,1.9,0.7
+2022,Casanare,Jennings Ltd Rural,53,44,0.166,Trabajo infantil,1.6,0.17
+2020,Guaviare,"Miller, Ellis and Ortiz Rural",281,250,0.11,Migración,1.9,7.96
+2021,Casanare,Kirby-Johnson Rural,93,80,0.135,Migración,1.4,3.28
+2022,Meta,"Buck, Garner and Carter Rural",87,81,0.066,Económica,1.3,1.12
+2022,Casanare,Rogers and Sons Rural,126,102,0.19,Acceso,2.2,3.38
+2022,Chocó,"Brandt, Turner and Sanders Rural",291,260,0.106,Migración,2.1,1.57
+2023,Nariño,Garcia Ltd Rural,167,155,0.066,Económica,1.2,7.99
+2020,Casanare,Gill-Lee Rural,135,124,0.078,Otro,1.6,0.06
+2022,Meta,Deleon-Adams Rural,135,134,0.006,Acceso,2.2,0.38
+2024,La Guajira,"Pearson, Collins and Nguyen Rural",126,116,0.077,Trabajo infantil,1.9,4.58
+2021,Meta,"Ford, Reeves and Murray Rural",130,130,0.0,Migración,2.4,1.72
+2022,Chocó,Rodriguez-Miller Rural,238,204,0.139,Acceso,2.5,7.57
+2021,Putumayo,Walls Inc Rural,146,128,0.121,Trabajo infantil,2.2,0.2
+2023,Putumayo,Jackson LLC Rural,79,74,0.052,Otro,1.3,1.39
+2024,La Guajira,"Williams, Roberts and Gutierrez Rural",224,202,0.098,Otro,1.0,21.59
+2023,Nariño,Valdez-Reed Rural,162,145,0.1,Trabajo infantil,2.2,4.81
+2020,Casanare,"Dougherty, Riley and Spencer Rural",222,212,0.042,Acceso,1.2,6.06
+2022,Nariño,Lopez Ltd Rural,114,103,0.089,Migración,2.1,1.98
+2023,Cauca,Williams LLC Rural,164,147,0.101,Otro,1.7,3.65
+2023,Guaviare,"Gonzalez, Reynolds and Miles Rural",179,163,0.088,Acceso,1.8,0.17
+2022,Guaviare,Jensen LLC Rural,202,188,0.066,Económica,1.2,0.41
+2021,Putumayo,"Estes, Nelson and Marshall Rural",92,87,0.05,Otro,1.1,4.19
+2023,Putumayo,Reynolds-Rivera Rural,297,271,0.086,Acceso,1.2,5.85
+2020,Chocó,Anderson-Scott Rural,106,98,0.071,Otro,2.1,0.92
+2024,Nariño,"Wright, Smith and Serrano Rural",164,142,0.129,Trabajo infantil,1.6,0.55
+2024,Guaviare,Robinson-Garcia Rural,88,73,0.17,Trabajo infantil,2.5,0.16
+2023,Cauca,Greene-Kelly Rural,125,106,0.146,Acceso,2.4,13.76
+2020,Cauca,Williams and Sons Rural,262,235,0.103,Migración,1.5,6.17
+2022,Meta,"Peterson, Hernandez and Terrell Rural",250,232,0.068,Migración,1.8,10.24
+2022,Meta,Peterson and Sons Rural,74,63,0.145,Acceso,2.1,2.07
+2023,Putumayo,Long-Taylor Rural,67,58,0.132,Trabajo infantil,1.1,8.43
+2020,Amazonas,"Smith, Clark and Alvarez Rural",267,222,0.166,Trabajo infantil,2.0,3.01
+2021,Nariño,"Henry, White and Wong Rural",182,161,0.11,Migración,1.8,5.16
+2022,Guaviare,Pitts-Garcia Rural,159,129,0.187,Acceso,1.3,0.43
+2023,La Guajira,Thompson-Campos Rural,97,86,0.11,Acceso,1.6,0.31
+2024,Nariño,"Baker, Guerrero and Turner Rural",165,153,0.067,Otro,1.6,10.27
+2020,Nariño,"Rodriguez, Christensen and Hess Rural",102,94,0.076,Trabajo infantil,2.1,1.24
+2020,Cauca,"Moon, Murphy and Mayer Rural",254,221,0.126,Otro,1.3,5.38
+2022,Nariño,Wilson-Pitts Rural,167,155,0.071,Económica,1.4,3.45
+2023,Guaviare,Galvan Ltd Rural,297,241,0.186,Trabajo infantil,1.9,1.3
+2024,Casanare,Clark-Jones Rural,200,175,0.122,Económica,1.5,28.04
+2023,La Guajira,Mitchell and Sons Rural,258,231,0.102,Trabajo infantil,2.4,1.11
+2024,Cauca,Pope-Thompson Rural,222,198,0.106,Migración,1.5,5.7
+2021,Chocó,Moore-Reynolds Rural,79,72,0.087,Migración,1.6,10.14
+2021,Guaviare,"Mclaughlin, Espinoza and Kelley Rural",149,146,0.017,Acceso,1.9,6.49
+2024,Casanare,"Sanchez, Levine and Richardson Rural",158,145,0.076,Migración,1.7,2.12
+2024,La Guajira,Hill-Salas Rural,192,157,0.179,Migración,1.7,2.32
+2021,La Guajira,"Duncan, Tyler and Montgomery Rural",130,115,0.111,Acceso,1.9,2.89
+2022,Amazonas,Flores PLC Rural,174,147,0.152,Migración,1.3,6.46
+2023,Guaviare,White LLC Rural,179,151,0.154,Acceso,1.6,11.55
+2023,Casanare,"Wilson, Lowery and Miller Rural",231,208,0.098,Acceso,1.7,2.74
+2020,Amazonas,Bryan and Sons Rural,253,219,0.133,Migración,1.4,12.17
+2022,Nariño,Walters-Cook Rural,187,183,0.021,Trabajo infantil,1.3,1.18
+2023,Meta,Moore LLC Rural,190,156,0.174,Otro,1.2,6.6
+2020,Chocó,Jackson-Allen Rural,248,206,0.169,Otro,2.2,0.71
+2022,Guaviare,Cuevas-Frank Rural,260,227,0.125,Económica,2.1,0.99
+2023,Guaviare,Mclaughlin LLC Rural,105,93,0.113,Acceso,1.2,1.36
+2021,Chocó,Warner PLC Rural,273,245,0.099,Económica,1.7,1.42
+2022,Cauca,Figueroa-Wright Rural,162,136,0.159,Económica,2.2,10.23
+2021,Nariño,Cuevas Group Rural,257,221,0.139,Otro,2.0,2.23
+2024,Casanare,Anderson-Adkins Rural,92,92,0.0,Otro,1.2,4.49
+2021,Nariño,Miller LLC Rural,256,235,0.082,Económica,1.9,17.44
+2024,Chocó,"Hull, Mccarty and Cohen Rural",202,193,0.044,Otro,1.3,1.49
+2022,Chocó,"Smith, Johnson and Lopez Rural",196,189,0.035,Trabajo infantil,2.4,7.42
+2024,Cauca,Gay PLC Rural,84,70,0.158,Acceso,2.4,0.7
+2022,La Guajira,"Leach, Mccoy and Guzman Rural",229,206,0.098,Migración,1.4,1.35
+2022,Nariño,Smith-Clark Rural,244,213,0.124,Acceso,1.7,0.38
+2024,Chocó,Johnson Ltd Rural,210,188,0.104,Acceso,1.6,2.05
+2020,Cauca,Bautista Inc Rural,153,147,0.036,Otro,2.1,8.83
+2022,Meta,"Avery, Robinson and Gallegos Rural",293,286,0.022,Acceso,1.5,4.8
+2020,Cauca,Barnes Group Rural,237,218,0.079,Acceso,2.0,6.13
+2022,Cauca,Price PLC Rural,253,232,0.083,Otro,1.6,0.19
+2023,Nariño,"Webb, Lee and Nguyen Rural",176,161,0.083,Trabajo infantil,1.5,6.67
+2022,Putumayo,Mclaughlin Ltd Rural,190,174,0.084,Otro,1.2,9.29
+2023,Putumayo,Burton-Edwards Rural,278,221,0.204,Económica,1.1,8.19
+2023,Amazonas,"Boone, Stephens and Elliott Rural",81,68,0.152,Migración,1.7,1.15
+2020,Casanare,Wood-Summers Rural,101,89,0.112,Migración,2.3,0.59
+2022,La Guajira,Silva-Ray Rural,273,246,0.096,Trabajo infantil,1.1,3.79
+2022,Chocó,"Vaughn, Huynh and Perkins Rural",71,64,0.098,Trabajo infantil,2.0,13.79
+2021,Amazonas,Stewart-Singh Rural,151,130,0.137,Trabajo infantil,2.1,1.9
+2021,Casanare,"Holder, Lewis and Carr Rural",217,196,0.096,Económica,2.1,3.54
+2020,Nariño,Jones LLC Rural,172,146,0.146,Económica,1.2,3.03
+2021,Guaviare,"Snyder, Garcia and Fisher Rural",224,197,0.117,Acceso,1.0,3.62
+2022,Cauca,Foley-Levine Rural,270,214,0.204,Acceso,2.0,0.75
+2023,Cauca,"Wong, Johnson and Anderson Rural",108,97,0.093,Acceso,1.1,0.15
+2020,Cauca,"Mcfarland, Cobb and Smith Rural",130,109,0.155,Trabajo infantil,2.3,1.13
+2021,Casanare,Zhang-Ross Rural,248,236,0.048,Migración,2.0,5.6
+2021,Cauca,Wilson Inc Rural,185,172,0.069,Otro,1.0,10.13
+2021,Meta,Lynch PLC Rural,139,111,0.196,Migración,1.9,0.97
+2021,Casanare,Schultz Inc Rural,207,177,0.144,Acceso,2.3,14.47
+2020,Cauca,Wells PLC Rural,85,74,0.125,Económica,1.9,5.75
+2023,Putumayo,"Shaw, Smith and Patterson Rural",296,230,0.22,Acceso,1.5,10.16
+2021,Nariño,Mills-Walker Rural,120,108,0.097,Económica,1.4,4.23
+2024,Chocó,"Holland, Hernandez and Miller Rural",249,210,0.155,Económica,2.3,1.21
+2022,Nariño,"Knight, Evans and Conner Rural",182,153,0.159,Otro,1.8,5.38
+2023,Chocó,Frederick Ltd Rural,215,175,0.182,Económica,2.2,0.56
+2021,Meta,Johnston and Sons Rural,148,141,0.043,Económica,1.4,5.36
+2024,Cauca,"Werner, Ward and Lin Rural",185,167,0.097,Económica,2.5,10.23
+2022,La Guajira,Mejia-Decker Rural,149,131,0.116,Otro,1.6,7.63
+2024,La Guajira,Ramos-Smith Rural,245,200,0.181,Acceso,2.4,10.54
+2020,Amazonas,Anderson LLC Rural,200,175,0.123,Económica,1.0,2.59
+2021,Amazonas,Jordan Group Rural,286,240,0.159,Económica,2.4,8.25
+2023,Guaviare,Maynard-Edwards Rural,123,118,0.039,Otro,2.2,7.18
+2023,Casanare,"French, Wade and Benson Rural",71,64,0.085,Otro,1.8,8.51
+2021,Chocó,Pollard-Goodman Rural,71,59,0.169,Trabajo infantil,1.1,0.64
+2021,La Guajira,Reyes Group Rural,187,169,0.091,Trabajo infantil,1.6,1.96
+2020,Chocó,"Schultz, Soto and Cox Rural",228,204,0.101,Acceso,2.1,2.28
+2021,Amazonas,Rivera PLC Rural,112,91,0.18,Económica,2.4,2.46
+2020,Meta,"Rice, Morgan and Phelps Rural",206,194,0.058,Otro,1.1,2.98
+2021,Cauca,King-Allen Rural,53,49,0.068,Migración,2.1,1.29
+2021,Meta,Gonzalez Inc Rural,293,283,0.034,Trabajo infantil,1.8,0.38
+2022,La Guajira,Brown-Sanchez Rural,145,118,0.182,Migración,2.1,4.83
+2022,Cauca,Rivera-Riddle Rural,247,209,0.15,Económica,1.5,3.11
+2023,Chocó,Madden-Higgins Rural,184,156,0.149,Económica,1.4,3.66
+2024,Cauca,Richmond-Torres Rural,177,162,0.084,Acceso,1.8,3.26
+2020,Meta,"Reed, Olsen and Barajas Rural",269,260,0.031,Otro,1.3,4.34
+2021,Chocó,"Booker, Johnson and Reid Rural",247,242,0.018,Económica,2.3,3.81
+2020,Nariño,"Price, Garcia and Lopez Rural",239,198,0.169,Otro,1.0,8.38
+2020,Nariño,Alexander-Powell Rural,61,53,0.128,Acceso,1.5,6.33
+2021,La Guajira,"Kelly, Meyers and Franklin Rural",288,248,0.138,Económica,1.8,1.4
+2023,Nariño,Hill Group Rural,132,116,0.114,Migración,1.6,13.09
+2022,Chocó,Sims-Hansen Rural,261,244,0.062,Económica,1.9,3.33
+2020,Guaviare,Rivera-Crawford Rural,222,202,0.086,Económica,1.3,1.48
+2024,Amazonas,Nelson-Coleman Rural,294,279,0.051,Acceso,1.1,8.12
+2023,Chocó,Vance-Rodriguez Rural,248,236,0.045,Trabajo infantil,1.5,3.87
+2024,Meta,"Jackson, Madden and Benson Rural",52,44,0.146,Trabajo infantil,1.3,6.3
+2024,Chocó,Banks-Fisher Rural,239,233,0.021,Otro,1.4,1.59
+2022,Meta,Haynes-Davis Rural,247,234,0.051,Migración,2.1,1.0
+2024,Nariño,Pham-Bauer Rural,88,80,0.089,Económica,2.4,5.71
+2020,Nariño,Meyer and Sons Rural,188,168,0.105,Trabajo infantil,2.0,6.17
+2020,Putumayo,Rowe-Wright Rural,50,48,0.033,Acceso,2.3,0.57
+2022,Cauca,Kelly Inc Rural,102,99,0.02,Otro,2.5,16.47
+2023,Meta,Alvarado and Sons Rural,296,259,0.122,Económica,2.5,3.3
+2021,Chocó,Williams-Henderson Rural,73,64,0.111,Económica,2.4,0.22
+2024,Casanare,"Stone, Jones and Gonzalez Rural",229,190,0.168,Trabajo infantil,1.7,5.01
+2020,Cauca,Gray and Sons Rural,179,160,0.106,Migración,2.0,8.55
+2023,Cauca,Griffith Group Rural,201,175,0.127,Otro,1.1,10.78
+2021,Nariño,"Vasquez, Alvarez and Sherman Rural",124,115,0.065,Trabajo infantil,2.3,4.72
+2023,Putumayo,"Carr, Herrera and Greene Rural",131,122,0.067,Acceso,1.4,2.65
+2020,Nariño,Collins Group Rural,84,80,0.038,Otro,1.2,7.58
+2020,La Guajira,Henson and Sons Rural,165,154,0.065,Acceso,1.5,1.61
+2020,Guaviare,"Jennings, Williams and Torres Rural",141,129,0.085,Migración,1.7,5.51
+2023,Chocó,"Clark, Williams and Beck Rural",268,224,0.162,Económica,1.1,0.5
+2022,Amazonas,Scott and Sons Rural,105,98,0.058,Trabajo infantil,1.2,4.42
+2021,Putumayo,"Zamora, Holt and Gilbert Rural",151,119,0.207,Otro,1.1,0.92
+2022,Chocó,Norton Ltd Rural,259,224,0.132,Migración,1.0,1.22
+2023,Meta,Perez Inc Rural,192,168,0.121,Otro,1.4,0.5
+2023,Cauca,Mullins Inc Rural,255,228,0.102,Migración,1.2,4.67
+2020,Nariño,"Garcia, Stewart and Rogers Rural",83,75,0.093,Migración,2.2,3.96
+2022,Cauca,Thompson Ltd Rural,199,184,0.072,Otro,1.4,4.51
+2020,Amazonas,Hernandez Inc Rural,66,63,0.032,Migración,2.4,3.43
+2023,La Guajira,George and Sons Rural,73,68,0.06,Trabajo infantil,1.2,2.79
+2023,Amazonas,"Coleman, Marquez and Weber Rural",93,76,0.182,Otro,1.6,6.32
+2023,Meta,Williams-Koch Rural,57,49,0.128,Acceso,2.0,1.6
+2021,Putumayo,Clark-James Rural,104,85,0.181,Migración,1.4,0.41
+2023,La Guajira,Villa Group Rural,58,53,0.071,Otro,1.9,1.29
+2021,Chocó,"Young, Martinez and Richardson Rural",177,168,0.049,Acceso,2.3,2.19
+2023,Amazonas,Coleman-Fernandez Rural,72,64,0.102,Trabajo infantil,1.6,0.35
+2023,Nariño,Luna Group Rural,214,200,0.062,Otro,1.4,8.06
+2024,Amazonas,Pham-Kemp Rural,147,130,0.112,Trabajo infantil,1.7,10.6
+2023,Putumayo,"Ware, Koch and Carter Rural",283,276,0.022,Otro,1.8,5.26
+2023,Chocó,Bailey-Harrison Rural,96,96,0.0,Económica,1.5,2.02
+2021,Amazonas,Smith Inc Rural,279,245,0.119,Trabajo infantil,1.1,5.54
+2023,Guaviare,Mcconnell-Howell Rural,141,115,0.184,Otro,2.5,3.13
+2021,Cauca,Wilson-Collins Rural,113,99,0.121,Migración,1.4,0.31
+2020,Nariño,Bryan PLC Rural,197,171,0.128,Acceso,1.5,0.96
+2021,La Guajira,"Schwartz, Middleton and Morris Rural",110,98,0.104,Otro,1.5,5.86
+2022,Amazonas,Woodard-Shields Rural,230,205,0.108,Trabajo infantil,2.4,0.51
+2024,La Guajira,Johnson LLC Rural,194,188,0.029,Migración,2.3,2.99
+2023,Guaviare,"Mosley, Valdez and Collins Rural",129,120,0.063,Migración,1.7,5.47
+2020,Amazonas,Kelly-Shannon Rural,109,91,0.162,Otro,1.3,7.93
+2024,Meta,Gallagher LLC Rural,50,47,0.045,Trabajo infantil,2.4,24.45
+2021,La Guajira,Cole Inc Rural,137,125,0.084,Migración,2.4,13.09
+2022,Amazonas,"Moore, Poole and Wheeler Rural",55,46,0.161,Migración,1.9,3.68
+2021,Cauca,"Allen, Schneider and Hall Rural",266,237,0.107,Otro,2.3,4.89
+2020,Putumayo,Wilson and Sons Rural,230,204,0.11,Acceso,1.9,0.68
+2022,Chocó,"Perez, Novak and Smith Rural",132,120,0.085,Migración,2.5,8.75
+2023,Meta,King-Williams Rural,216,186,0.135,Trabajo infantil,1.3,0.18
+2024,Putumayo,"Oneill, Valenzuela and Bailey Rural",107,91,0.148,Otro,2.2,1.81
+2023,Chocó,Guzman LLC Rural,237,222,0.061,Trabajo infantil,1.2,0.46
+2020,Casanare,"Hill, Mason and Hurley Rural",267,258,0.033,Otro,1.0,13.82
+2024,Putumayo,Martinez-Walker Rural,285,282,0.008,Otro,1.3,2.53
+2024,Cauca,Reyes-Rodriguez Rural,289,252,0.125,Acceso,1.2,2.96
+2020,Nariño,James LLC Rural,138,121,0.119,Trabajo infantil,1.3,12.59
+2020,Putumayo,Kramer and Sons Rural,164,127,0.225,Económica,1.4,3.44
+2021,Cauca,"Pierce, Nelson and Cameron Rural",139,124,0.104,Trabajo infantil,2.2,2.4
+2020,Amazonas,"Taylor, Clark and Johnson Rural",148,133,0.095,Acceso,2.1,10.52
+2021,Casanare,"Payne, Taylor and Ross Rural",176,156,0.113,Acceso,1.5,7.8
+2023,Cauca,"Marshall, Delgado and Tucker Rural",262,231,0.116,Acceso,2.2,1.82
+2024,Nariño,Roth-Santos Rural,91,82,0.091,Acceso,1.1,0.95
+2020,Chocó,Miller-Wilson Rural,55,51,0.062,Trabajo infantil,1.4,5.94
+2020,Cauca,Wilson Ltd Rural,137,123,0.101,Migración,2.3,5.12
+2021,Cauca,"Smith, Johnson and Smith Rural",190,171,0.1,Económica,1.5,8.64
+2024,Meta,Schneider Inc Rural,230,207,0.099,Económica,1.6,4.66
+2021,Casanare,Pierce Inc Rural,90,77,0.141,Económica,1.2,7.24
+2021,Nariño,Garcia-Lawson Rural,154,138,0.101,Otro,2.1,2.54
+2024,Chocó,Mccarthy Inc Rural,219,211,0.034,Trabajo infantil,1.4,0.79
+2020,Amazonas,Ross PLC Rural,150,139,0.07,Otro,1.8,0.13
+2023,La Guajira,Yoder PLC Rural,63,57,0.091,Trabajo infantil,1.0,0.73
+2020,Chocó,Mooney-Cox Rural,260,233,0.103,Otro,1.7,16.88
+2020,Amazonas,Mckenzie LLC Rural,102,89,0.126,Migración,2.0,2.83
+2020,Meta,"Gray, Campbell and Fowler Rural",266,238,0.103,Económica,1.5,2.89
+2023,Meta,"Bender, Levy and Schroeder Rural",175,174,0.001,Trabajo infantil,1.1,0.56
+2024,Casanare,Phelps and Sons Rural,97,93,0.04,Trabajo infantil,2.3,4.83
+2022,La Guajira,May Ltd Rural,164,142,0.13,Económica,1.4,5.25
+2023,Chocó,"Wood, Bell and Lawson Rural",107,97,0.089,Trabajo infantil,1.8,0.3
+2021,Cauca,Hunter and Sons Rural,71,58,0.175,Trabajo infantil,2.2,26.36
+2023,Nariño,"Joseph, Martinez and Fox Rural",191,170,0.107,Económica,2.3,20.58
+2024,Casanare,Parker PLC Rural,297,272,0.083,Otro,2.0,1.37
+2023,Nariño,Cruz-Anderson Rural,171,159,0.069,Trabajo infantil,1.1,5.89
+2020,Guaviare,Martin-Edwards Rural,196,179,0.085,Otro,2.2,0.32
+2024,La Guajira,"Vance, Wagner and Terrell Rural",80,71,0.108,Acceso,1.3,8.41
+2021,Nariño,Garcia-Simmons Rural,256,230,0.1,Migración,1.2,4.78
+2023,Cauca,"Hobbs, Austin and Cordova Rural",224,191,0.147,Acceso,1.3,3.74
+2021,Chocó,"Murphy, Curry and Morris Rural",131,127,0.026,Económica,1.1,2.78
+2024,Casanare,Guerra-Johnson Rural,191,184,0.032,Trabajo infantil,2.3,2.29
+2024,Meta,Perez-Hester Rural,284,258,0.089,Económica,2.2,2.67
+2024,Guaviare,Berry and Sons Rural,250,218,0.127,Acceso,1.2,7.33
+2021,La Guajira,Palmer and Sons Rural,195,168,0.138,Otro,1.9,0.06
+2020,Cauca,Price PLC Rural,194,180,0.071,Económica,2.2,0.1
+2024,Putumayo,Johnson-Griffin Rural,274,274,0.0,Acceso,1.4,1.5
+2023,Meta,Cooper and Sons Rural,59,54,0.073,Migración,1.4,3.83
+2021,Casanare,Glass Group Rural,59,51,0.12,Acceso,2.3,1.21
+2022,Nariño,Carter Ltd Rural,62,55,0.099,Acceso,2.4,0.58
+2022,Amazonas,Armstrong and Sons Rural,136,118,0.129,Trabajo infantil,1.5,3.97
+2023,Cauca,"Harrison, Berry and Cox Rural",298,250,0.16,Migración,1.2,0.52
+2023,Putumayo,"Rogers, Nelson and Leonard Rural",118,107,0.092,Acceso,1.9,3.35
+2020,Nariño,"Bryant, Morgan and Rodriguez Rural",163,150,0.078,Migración,2.4,6.68
+2023,Meta,"Reed, Farmer and Williams Rural",244,230,0.056,Otro,2.3,3.23
+2020,Guaviare,Hall Group Rural,252,244,0.031,Migración,1.1,3.08
+2024,Casanare,Rodriguez Inc Rural,84,82,0.019,Otro,2.3,7.69
+2020,La Guajira,Ferguson-Lee Rural,99,92,0.067,Migración,2.3,5.83
+2021,Amazonas,Stark-Thompson Rural,166,140,0.152,Económica,2.4,2.88
+2021,Chocó,Pugh-Santos Rural,144,124,0.134,Acceso,1.8,0.2
+2020,Amazonas,Hays-Mitchell Rural,111,102,0.076,Trabajo infantil,1.7,11.6
+2023,La Guajira,"Ramirez, Barker and Braun Rural",295,233,0.208,Acceso,1.9,5.38
+2022,Putumayo,Mcfarland-Oneal Rural,91,84,0.07,Trabajo infantil,2.1,11.27
+2020,Chocó,Wood Inc Rural,57,47,0.165,Acceso,1.1,0.34
+2024,Nariño,"Meyer, Hicks and Perry Rural",269,221,0.178,Migración,2.0,3.65
+2021,Chocó,Allen-Williams Rural,216,189,0.123,Acceso,1.8,3.59
+2020,Meta,Phelps and Sons Rural,283,264,0.066,Migración,2.0,5.7
+2024,Amazonas,Smith-Ray Rural,107,98,0.082,Trabajo infantil,1.9,0.37
+2022,Chocó,"Ashley, Thomas and Jones Rural",158,140,0.109,Acceso,2.3,0.06
+2023,Chocó,Allison LLC Rural,105,101,0.033,Acceso,1.5,2.15
+2024,Casanare,Douglas-Hampton Rural,199,188,0.051,Económica,1.0,7.45
+2022,Guaviare,Galloway LLC Rural,215,204,0.048,Otro,1.9,0.96
+2022,Cauca,Edwards PLC Rural,173,151,0.127,Económica,1.5,0.52
+2022,Putumayo,Lee-Mcclain Rural,270,227,0.159,Trabajo infantil,1.4,1.54
+2022,Nariño,Parker-Osborne Rural,88,76,0.136,Otro,2.1,0.11
+2020,Casanare,Simpson-Singh Rural,219,186,0.15,Trabajo infantil,2.0,4.9
+2020,Meta,Graham Ltd Rural,125,117,0.062,Trabajo infantil,2.4,2.41
+2023,Casanare,Evans-Brown Rural,238,218,0.084,Económica,1.9,4.77
+2024,Nariño,Norman PLC Rural,137,125,0.087,Migración,2.0,7.45
+2023,Putumayo,Schultz and Sons Rural,179,156,0.123,Trabajo infantil,2.3,0.21
+2024,La Guajira,"Cervantes, Smith and Moore Rural",125,99,0.208,Económica,1.7,17.29
+2022,Guaviare,"Newman, Massey and Reid Rural",245,228,0.068,Migración,2.4,19.55
+2022,Cauca,Cook and Sons Rural,106,90,0.146,Trabajo infantil,1.3,4.61
+2022,Casanare,Fernandez Group Rural,251,206,0.176,Trabajo infantil,1.6,8.35
+2024,Chocó,"Braun, Martinez and Alvarez Rural",168,147,0.125,Económica,1.7,5.34
+2024,Cauca,Chambers PLC Rural,170,156,0.082,Migración,1.8,13.16
+2023,Guaviare,"Jones, Baker and Johnson Rural",126,118,0.058,Acceso,1.1,1.27
+2021,La Guajira,Smith LLC Rural,101,96,0.048,Trabajo infantil,1.6,2.89
+2024,Meta,"Wood, Miller and Ho Rural",86,85,0.002,Trabajo infantil,2.3,4.75
+2021,Cauca,"Hernandez, Sloan and Carrillo Rural",174,158,0.089,Trabajo infantil,1.9,10.9
+2021,Putumayo,Carlson Group Rural,212,193,0.086,Económica,1.0,5.19
+2022,Nariño,"Crawford, Gonzalez and Garcia Rural",244,209,0.143,Migración,1.9,9.88
+2021,Meta,"Jacobson, Mendez and Jones Rural",251,233,0.071,Económica,1.2,9.37
+2023,Casanare,Jordan and Sons Rural,153,138,0.092,Acceso,2.4,7.03
+2023,Amazonas,Harrison and Sons Rural,59,52,0.114,Otro,1.3,3.09
+2022,Amazonas,Smith-Rogers Rural,278,243,0.125,Trabajo infantil,2.1,7.49
+2024,Nariño,"Santiago, Goodman and Choi Rural",54,46,0.137,Económica,1.9,5.34
+2021,Nariño,Owens Ltd Rural,227,202,0.109,Trabajo infantil,1.5,20.89
+2020,Casanare,Deleon-Rivera Rural,178,171,0.035,Otro,1.5,13.85
+2020,Amazonas,"Vang, Boyle and Smith Rural",126,110,0.12,Trabajo infantil,1.7,8.51
+2024,Guaviare,Larson-Mclean Rural,136,126,0.067,Acceso,2.3,1.2
+2021,Putumayo,"Marshall, Mills and Thomas Rural",280,234,0.162,Acceso,1.5,6.6
+2021,La Guajira,Hernandez and Sons Rural,292,262,0.101,Acceso,1.0,3.91
+2021,La Guajira,"Roberson, Jones and Hawkins Rural",104,92,0.112,Económica,1.9,1.77
+2021,Cauca,Reed-Buck Rural,143,110,0.23,Económica,1.6,4.16
+2022,Guaviare,Carey PLC Rural,209,180,0.138,Económica,1.9,5.06
+2020,Cauca,Davis Ltd Rural,217,191,0.119,Económica,1.1,7.16
+2020,Casanare,"Mclaughlin, Ramos and Williams Rural",163,147,0.093,Acceso,1.2,0.05
+2022,Meta,Henderson Ltd Rural,229,220,0.039,Migración,1.3,1.42
+2020,Chocó,Carter Ltd Rural,157,142,0.09,Económica,2.0,8.05
+2022,La Guajira,Chung-Price Rural,157,148,0.057,Económica,1.8,1.14
+2024,Cauca,Castaneda-Norton Rural,122,99,0.183,Económica,2.2,4.79
+2023,Nariño,"Barber, White and Taylor Rural",205,180,0.12,Migración,2.2,1.04
+2024,Nariño,"Johnson, Flores and Tapia Rural",141,118,0.16,Acceso,1.4,4.04
+2020,Guaviare,"Jacobs, Bowman and Smith Rural",177,164,0.07,Migración,2.0,0.03
+2023,Putumayo,Smith Inc Rural,110,103,0.061,Económica,1.0,15.86
+2020,Cauca,Warren Group Rural,263,228,0.132,Otro,2.0,2.29
+2021,Cauca,Bates-Allen Rural,249,235,0.056,Otro,1.1,1.82
+2020,Chocó,Avery-White Rural,214,197,0.078,Migración,1.7,10.46
+2022,Chocó,"Howard, Brooks and Clark Rural",168,136,0.186,Económica,1.1,10.87
+2021,Amazonas,Roberts PLC Rural,268,246,0.08,Trabajo infantil,1.5,4.5
+2022,Casanare,Sullivan Group Rural,239,232,0.029,Económica,1.1,5.95
+2020,Amazonas,Vega PLC Rural,268,264,0.012,Migración,2.0,0.02
+2021,Putumayo,Johnson-Jones Rural,141,137,0.024,Acceso,2.4,7.9
+2022,Cauca,Morris-Lambert Rural,145,121,0.163,Trabajo infantil,1.3,0.49
+2023,Casanare,Arnold-Brown Rural,296,274,0.072,Acceso,1.4,5.14
+2023,Meta,"Yates, Yoder and Fox Rural",254,196,0.228,Acceso,2.0,0.34
+2021,Cauca,"Foster, Manning and Lopez Rural",83,68,0.177,Económica,2.5,4.11
+2021,Cauca,Mills-Ray Rural,156,124,0.2,Otro,1.7,4.63
+2024,Meta,"Simmons, Hines and Schultz Rural",96,81,0.151,Otro,1.6,1.57
+2022,Amazonas,Scott Group Rural,270,234,0.13,Migración,1.7,8.72
+2023,Cauca,Bennett-Mosley Rural,277,260,0.059,Acceso,1.7,0.3
+2020,Chocó,"Meyers, Sosa and Thornton Rural",217,195,0.1,Trabajo infantil,1.0,2.03
+2024,Nariño,James PLC Rural,300,259,0.135,Trabajo infantil,1.8,7.77
+2024,Cauca,"Floyd, Mcfarland and Martinez Rural",160,136,0.148,Migración,1.7,3.64
+2023,La Guajira,"Warner, Patel and Peters Rural",264,252,0.043,Otro,2.3,1.99
+2024,Amazonas,Lambert-Trevino Rural,52,47,0.09,Migración,1.8,2.85
+2023,Meta,Strickland and Sons Rural,272,245,0.096,Migración,1.1,4.56
+2023,Putumayo,Coffey-Johnson Rural,111,100,0.094,Trabajo infantil,2.5,6.65
+2020,Guaviare,"Yoder, Johnson and Bradshaw Rural",107,101,0.049,Otro,2.0,5.06
+2023,Nariño,Moore-Yang Rural,70,56,0.193,Acceso,1.7,7.7
+2024,Meta,Hunt-Taylor Rural,72,65,0.089,Acceso,1.7,9.16
+2020,Meta,Willis-Young Rural,240,227,0.052,Económica,1.2,2.42
+2023,Amazonas,"Wong, Thompson and Harris Rural",192,154,0.194,Otro,1.0,1.02
+2020,Chocó,Curtis Ltd Rural,277,227,0.177,Otro,1.8,2.25
+2023,Putumayo,"Wilson, Griffith and Hansen Rural",143,127,0.107,Económica,2.2,1.77
+2023,Putumayo,"Jones, Roberts and Turner Rural",193,190,0.012,Otro,1.9,14.12
+2022,Meta,"Dean, Mason and Ryan Rural",79,72,0.077,Económica,2.1,10.31
+2021,Amazonas,Wright LLC Rural,137,134,0.02,Trabajo infantil,2.2,9.22
+2022,Guaviare,Ibarra-Lam Rural,183,159,0.126,Trabajo infantil,2.1,3.06
+2020,La Guajira,Sanders-Davis Rural,176,163,0.073,Migración,2.2,3.3
+2023,Cauca,"Collins, Pratt and Christian Rural",115,103,0.099,Otro,1.3,2.87
+2020,Casanare,"Ayers, Patterson and Montoya Rural",105,85,0.189,Acceso,2.2,6.54
+2021,Putumayo,"Garcia, Olsen and Perry Rural",77,71,0.07,Acceso,1.1,4.71
+2024,Cauca,Anderson Ltd Rural,247,216,0.123,Acceso,1.7,0.73
+2024,Guaviare,Williams-Meadows Rural,84,72,0.138,Acceso,1.0,15.69
+2020,Guaviare,"Rogers, Hoover and Wells Rural",289,242,0.161,Acceso,2.3,0.36
+2023,Guaviare,Dean-Navarro Rural,249,225,0.095,Migración,2.0,1.52
+2021,La Guajira,"Crawford, Owens and Johnson Rural",76,69,0.09,Acceso,2.0,1.42
+2024,Putumayo,"Roman, Parker and Jones Rural",179,163,0.089,Acceso,1.6,1.59
+2024,Nariño,Mendez Ltd Rural,120,105,0.118,Acceso,2.4,7.12
+2022,Meta,"Leblanc, Moss and Gray Rural",256,211,0.175,Migración,1.2,0.34
+2024,Guaviare,"Spencer, Sanford and Chen Rural",126,115,0.086,Otro,2.3,3.34
+2024,Nariño,Bowman and Sons Rural,101,101,0.0,Migración,1.9,2.13
+2022,Putumayo,Wells Group Rural,285,243,0.144,Migración,2.5,11.5
+2021,Guaviare,"Adams, Thompson and Yang Rural",188,168,0.103,Trabajo infantil,2.1,13.81
+2022,Guaviare,"Hanson, Hoffman and Schultz Rural",172,150,0.126,Otro,1.9,0.27
+2023,Guaviare,Parker LLC Rural,123,120,0.022,Acceso,2.2,6.56
+2024,Cauca,Pittman and Sons Rural,56,51,0.074,Acceso,1.2,19.9
+2020,Nariño,Smith Inc Rural,118,101,0.14,Migración,2.5,1.1
+2022,La Guajira,"Howard, Smith and Miller Rural",264,254,0.037,Económica,2.0,4.17
+2022,Nariño,Lopez PLC Rural,242,212,0.123,Otro,1.0,4.69
+2023,Cauca,Everett Ltd Rural,207,186,0.098,Otro,2.3,2.15
+2024,Casanare,Church-Tran Rural,110,103,0.063,Otro,2.2,9.51
+2022,Amazonas,Cline-Thompson Rural,287,270,0.059,Acceso,1.6,4.12
+2022,Guaviare,"Payne, Ramsey and Hancock Rural",63,59,0.049,Económica,2.1,9.84
+2021,Meta,Williams-Rodgers Rural,262,235,0.103,Migración,2.4,6.42
+2022,Guaviare,"Ramos, Novak and Espinoza Rural",239,212,0.109,Otro,1.3,3.92
+2021,Chocó,Clark-Lee Rural,164,150,0.082,Migración,2.5,0.43
+2020,La Guajira,Scott-Oneal Rural,296,282,0.046,Migración,2.1,0.91
+2020,Casanare,"Rivera, Schmitt and Mcdaniel Rural",60,60,0.0,Acceso,1.4,14.57
+2022,La Guajira,"Mendez, Malone and George Rural",91,79,0.122,Otro,2.3,3.1
+2020,Putumayo,"Terry, Mahoney and Hunt Rural",169,144,0.145,Migración,1.1,2.65
+2022,Amazonas,Davis PLC Rural,248,215,0.131,Otro,2.3,0.32
+2022,Meta,"Turner, Turner and Hunt Rural",252,200,0.203,Otro,1.8,3.59
+2020,Putumayo,Thomas Ltd Rural,184,167,0.091,Migración,2.4,0.27
+2024,Cauca,Daniels-Jordan Rural,251,208,0.169,Otro,1.2,7.72
+2024,Guaviare,Lawson-Andrews Rural,153,142,0.068,Económica,1.5,0.9
+2021,Putumayo,Gonzales-White Rural,134,125,0.06,Trabajo infantil,1.4,2.0
+2024,Guaviare,"Palmer, Nielsen and Nelson Rural",171,152,0.106,Otro,2.2,1.15
+2020,Cauca,"Owens, Trujillo and Wood Rural",221,180,0.181,Trabajo infantil,1.7,10.51
+2024,Nariño,"Richardson, Rogers and Johnson Rural",295,269,0.085,Económica,2.0,21.0
+2022,Casanare,"Bates, Barnes and Jackson Rural",284,277,0.022,Económica,1.6,7.39
+2024,Chocó,Pham Inc Rural,56,47,0.144,Otro,2.2,3.87
+2022,Guaviare,Walker Inc Rural,255,230,0.096,Otro,1.7,3.44
+2020,Chocó,Gibson-Collins Rural,279,246,0.115,Migración,1.5,8.63
+2020,Cauca,Mcdonald PLC Rural,92,86,0.062,Otro,1.8,2.39
+2020,Nariño,Orr Group Rural,221,197,0.106,Migración,2.3,1.69
+2023,Cauca,"Parker, Rodriguez and Moore Rural",102,99,0.028,Otro,2.2,7.87
+2023,Cauca,Cain-Tran Rural,241,194,0.194,Migración,1.0,8.0
+2022,Amazonas,Meyer-Richards Rural,72,60,0.154,Económica,1.1,2.52
+2022,Guaviare,"Barnes, Williams and Anthony Rural",68,60,0.103,Otro,2.2,0.86
+2022,Casanare,Carpenter-Willis Rural,149,127,0.143,Acceso,1.9,5.95
+2023,Putumayo,Brown-Chandler Rural,54,50,0.068,Acceso,2.0,9.73
+2024,Amazonas,Hicks-Koch Rural,214,181,0.151,Otro,1.1,11.83
+2024,Amazonas,"Morrison, Jimenez and Flores Rural",229,209,0.083,Económica,1.5,1.02
+2024,Cauca,"Davis, Williams and Perez Rural",124,114,0.08,Trabajo infantil,1.9,11.22
+2022,Meta,Smith-Ramsey Rural,147,139,0.052,Acceso,2.2,2.9
+2020,Meta,Lopez Group Rural,90,79,0.121,Otro,1.3,4.78
+2023,Guaviare,Liu Inc Rural,125,112,0.101,Migración,1.4,17.08
+2022,Amazonas,Reed PLC Rural,191,158,0.171,Otro,1.2,2.7
+2020,Amazonas,"Quinn, Carpenter and Williams Rural",196,186,0.047,Otro,1.6,10.68
+2024,Cauca,Jackson Ltd Rural,128,112,0.121,Migración,2.1,2.79
+2022,Nariño,Davis-Keller Rural,155,130,0.159,Otro,1.2,6.35
+2021,Nariño,"Jones, Houston and Wade Rural",207,159,0.229,Trabajo infantil,1.3,11.05
+2021,Amazonas,Massey Ltd Rural,267,237,0.11,Otro,1.7,1.04
+2024,Cauca,"Fowler, Bautista and Hoffman Rural",124,113,0.082,Económica,1.4,9.77
+2021,Meta,"Taylor, Thomas and Griffith Rural",293,261,0.108,Trabajo infantil,1.5,6.19
+2021,Cauca,Clay LLC Rural,122,101,0.166,Otro,1.1,1.89
+2021,Putumayo,"Cochran, Horne and Hill Rural",174,145,0.166,Acceso,1.5,3.07
+2022,La Guajira,"Miller, Bryant and Knapp Rural",194,175,0.094,Otro,1.5,2.21
+2022,Casanare,Potter-Barker Rural,93,77,0.165,Económica,1.5,2.04
+2021,Casanare,"Bender, Gregory and Palmer Rural",120,108,0.099,Trabajo infantil,1.2,0.95
+2022,Meta,Thomas-Morrison Rural,168,144,0.142,Acceso,1.5,0.53
+2022,Meta,Mitchell Inc Rural,191,166,0.127,Económica,1.3,1.37
+2024,Cauca,Rogers PLC Rural,265,243,0.08,Trabajo infantil,2.3,2.99
+2021,Guaviare,"Young, Morgan and Buck Rural",100,94,0.054,Trabajo infantil,2.1,6.91
+2020,Cauca,"Garcia, Mckenzie and Ward Rural",278,233,0.161,Económica,2.3,2.17
+2020,Casanare,Tyler Group Rural,246,202,0.176,Otro,1.3,9.21
+2020,Guaviare,Hobbs LLC Rural,116,102,0.12,Otro,2.3,5.03
+2024,Meta,Austin Inc Rural,217,195,0.099,Migración,1.5,0.67
+2021,Chocó,Wright and Sons Rural,84,80,0.041,Acceso,1.8,5.8
+2020,Casanare,"Koch, Lozano and Newton Rural",143,120,0.159,Otro,1.0,0.36
+2021,La Guajira,Murray-Williams Rural,243,215,0.114,Otro,1.2,1.29
+2021,La Guajira,Sullivan Ltd Rural,194,177,0.087,Otro,2.0,9.07
+2021,Meta,"English, Wallace and Bowers Rural",290,248,0.144,Trabajo infantil,1.1,5.92
+2023,Nariño,Smith PLC Rural,66,63,0.033,Trabajo infantil,1.6,3.59
+2020,Nariño,"Jenkins, Chen and Cooper Rural",182,172,0.05,Trabajo infantil,1.6,0.17
+2023,Amazonas,"Wade, Bell and Stafford Rural",60,56,0.066,Trabajo infantil,1.2,1.81
+2024,Chocó,Jensen Group Rural,263,229,0.126,Trabajo infantil,1.9,10.25
+2024,La Guajira,Johnson PLC Rural,146,130,0.109,Acceso,1.5,7.26
+2020,Guaviare,"Ware, Vasquez and Pacheco Rural",114,98,0.132,Acceso,2.5,1.51
+2021,Guaviare,Sanchez-Bailey Rural,153,129,0.155,Trabajo infantil,2.2,11.89
+2022,Meta,"Wilson, Booth and Blair Rural",252,218,0.134,Acceso,2.3,0.59
+2020,Guaviare,"Wilson, Thomas and Francis Rural",275,221,0.195,Migración,1.7,2.96
+2021,Cauca,Terry PLC Rural,181,152,0.155,Trabajo infantil,1.3,3.96
+2021,La Guajira,Scott LLC Rural,142,128,0.094,Otro,2.1,2.39
+2020,Nariño,Meza-Kemp Rural,156,144,0.073,Trabajo infantil,2.1,6.73
+2023,Meta,Morgan-Foster Rural,172,155,0.095,Migración,1.9,12.51
+2023,Amazonas,"Moore, Rodriguez and Barnes Rural",112,96,0.135,Económica,1.2,1.73
+2024,La Guajira,Peterson Inc Rural,84,77,0.078,Otro,1.1,12.08
+2024,La Guajira,Ballard Ltd Rural,64,55,0.137,Migración,1.4,0.09
+2021,Guaviare,Stewart and Sons Rural,295,256,0.131,Acceso,1.9,16.46
+2024,Amazonas,"Holloway, Miller and Harris Rural",274,259,0.053,Trabajo infantil,2.4,8.84
+2021,Meta,Castro-Dunn Rural,205,173,0.154,Acceso,2.3,1.65
+2021,Nariño,"Ward, Armstrong and Cross Rural",262,231,0.118,Acceso,1.9,0.51
+2024,La Guajira,"Horne, Mitchell and Sawyer Rural",209,168,0.192,Otro,1.4,1.38
+2022,Meta,Fuller Inc Rural,202,182,0.099,Otro,1.1,1.79
+2023,Casanare,Edwards-Marsh Rural,83,75,0.085,Económica,1.0,4.56
+2024,Guaviare,"Fowler, Morgan and Vasquez Rural",225,214,0.047,Acceso,2.2,6.8
+2024,Cauca,Barker-Austin Rural,95,90,0.047,Acceso,2.4,0.25
+2024,Amazonas,Phillips-Clark Rural,274,233,0.148,Otro,1.8,11.14
+2020,Cauca,"Douglas, Foster and Wilson Rural",173,140,0.186,Migración,2.4,1.02
+2024,Amazonas,"Hughes, Rodriguez and Andrade Rural",279,252,0.095,Acceso,1.8,7.91
+2022,Amazonas,Clark-Lopez Rural,228,207,0.092,Otro,1.6,0.18
+2023,Casanare,Jones-Campbell Rural,139,124,0.104,Otro,2.2,0.33
+2024,Cauca,"Washington, Obrien and Carpenter Rural",158,133,0.158,Migración,1.4,8.9
+2021,Cauca,Turner-Yoder Rural,122,115,0.054,Otro,2.3,0.49
+2023,Chocó,Richardson-Hunter Rural,98,87,0.112,Económica,2.1,12.02
+2020,Guaviare,Peterson Inc Rural,80,68,0.149,Otro,1.0,10.56
+2021,Putumayo,Moore Ltd Rural,154,134,0.125,Trabajo infantil,1.2,4.24
+2023,Chocó,Hanna and Sons Rural,116,116,0.0,Otro,1.6,1.91
+2022,Chocó,Jefferson-Potts Rural,224,193,0.134,Acceso,2.1,2.85
+2023,Guaviare,Adams-Banks Rural,250,218,0.126,Otro,1.7,11.15
+2022,Guaviare,"Olson, Holmes and Oliver Rural",192,159,0.169,Acceso,1.4,2.93
+2022,Putumayo,Richardson Group Rural,248,203,0.181,Acceso,2.1,4.48
+2020,Nariño,Byrd-Houston Rural,164,136,0.166,Migración,1.2,6.06
+2024,Casanare,Cummings Ltd Rural,251,224,0.104,Trabajo infantil,2.2,0.55
+2024,Amazonas,"Castro, Haney and Farley Rural",91,89,0.02,Acceso,2.4,2.43
+2020,Cauca,Taylor-Guzman Rural,260,205,0.209,Migración,1.7,15.03
+2024,Casanare,Anthony and Sons Rural,72,65,0.091,Económica,1.4,4.59
+2022,Cauca,"Watts, Mccoy and Jones Rural",205,184,0.102,Económica,2.1,5.03
+2023,Guaviare,Wells Inc Rural,123,100,0.185,Otro,1.1,0.37
+2021,Meta,Ortiz-Santiago Rural,162,151,0.063,Económica,1.3,3.2
+2024,Chocó,Jordan Ltd Rural,99,95,0.034,Económica,2.2,0.23
+2024,Guaviare,Ramos-Brown Rural,228,209,0.079,Migración,1.9,17.79
+2020,Putumayo,"Carter, Combs and Lee Rural",111,103,0.065,Económica,2.5,2.01
+2020,Chocó,Baxter Ltd Rural,249,241,0.03,Acceso,1.5,4.72
+2023,Casanare,Baldwin-Martin Rural,200,180,0.096,Migración,1.8,1.65
+2020,Cauca,"Rodriguez, Bryant and Adams Rural",190,170,0.104,Trabajo infantil,2.1,0.03
+2024,Putumayo,Klein Ltd Rural,138,134,0.027,Trabajo infantil,1.3,0.04
+2021,Meta,Jordan PLC Rural,288,263,0.085,Acceso,1.9,8.11
+2022,La Guajira,"Foster, Miranda and Garcia Rural",154,144,0.062,Otro,1.2,4.24
+2020,Guaviare,"Koch, Robbins and Day Rural",125,124,0.006,Trabajo infantil,2.4,13.42
+2024,Chocó,Wilson-Nelson Rural,274,244,0.106,Otro,2.2,2.53
+2024,Chocó,Carpenter Ltd Rural,227,201,0.111,Acceso,2.4,0.6
+2024,Meta,Smith-Harris Rural,247,231,0.062,Migración,2.1,2.12
+2023,Meta,Brock-Jones Rural,279,236,0.154,Otro,2.3,3.4
+2023,Cauca,Kim Inc Rural,116,104,0.101,Económica,1.6,6.06
+2021,Nariño,Lee Inc Rural,254,237,0.065,Trabajo infantil,1.6,2.74
+2022,Guaviare,"Nicholson, Hines and Sharp Rural",187,182,0.024,Económica,2.1,2.65
+2022,Nariño,Sullivan LLC Rural,123,109,0.113,Económica,1.6,4.68
+2022,Cauca,Moreno-Watkins Rural,191,167,0.125,Migración,1.7,1.85
+2022,Nariño,Davis LLC Rural,278,256,0.076,Otro,1.4,1.49
+2021,Meta,Robbins and Sons Rural,238,212,0.107,Migración,1.4,0.31
+2021,Chocó,"Kim, Brown and Neal Rural",102,83,0.181,Migración,1.3,0.61
+2021,Putumayo,Garcia Group Rural,89,76,0.145,Económica,1.2,2.42
+2020,Meta,"Moore, Chambers and Cohen Rural",207,207,0.0,Económica,2.1,0.64
+2024,Amazonas,Gonzalez Inc Rural,267,249,0.064,Acceso,1.6,2.71
+2022,Meta,"Shaw, Floyd and Floyd Rural",279,253,0.093,Otro,2.3,0.42
+2023,La Guajira,Johnson Inc Rural,245,219,0.104,Otro,1.4,2.19
+2021,La Guajira,Cox LLC Rural,63,56,0.108,Otro,2.2,5.68
+2023,Guaviare,"Riley, Haley and Maxwell Rural",58,50,0.122,Otro,1.5,2.25
+2021,Meta,"Robbins, Parker and Riddle Rural",299,270,0.095,Económica,2.0,5.05
+2023,Putumayo,Hall-Molina Rural,226,203,0.101,Económica,1.0,12.23
+2021,Casanare,"Patel, Richards and Reyes Rural",198,168,0.148,Económica,1.5,6.44
+2024,Chocó,Stephens-Booth Rural,97,85,0.114,Otro,1.4,0.64
+2022,Meta,"Barker, Scott and Ayers Rural",295,282,0.043,Otro,1.5,0.06
+2021,Meta,Martin LLC Rural,158,141,0.105,Migración,1.6,2.74
+2022,Putumayo,Vasquez Group Rural,268,242,0.094,Acceso,1.4,4.3
+2021,La Guajira,Stewart-Adams Rural,300,298,0.006,Otro,2.0,0.22
+2020,Chocó,Reid Ltd Rural,255,227,0.108,Migración,1.8,2.1
+2023,Nariño,"Gomez, Mcfarland and Rogers Rural",87,82,0.049,Migración,1.7,6.53
+2020,La Guajira,"Owen, Reeves and Smith Rural",157,133,0.148,Acceso,1.2,5.9
+2024,Guaviare,"Jones, Kennedy and Chandler Rural",234,205,0.121,Trabajo infantil,2.2,2.81
+2022,Chocó,"Elliott, Jones and Wheeler Rural",193,185,0.04,Otro,1.1,1.83
+2020,La Guajira,Carter-Nixon Rural,65,55,0.146,Migración,2.2,7.78
+2023,Cauca,"Johnson, Miller and Morris Rural",165,136,0.17,Trabajo infantil,1.4,8.64
+2022,Guaviare,Martin and Sons Rural,192,175,0.087,Trabajo infantil,1.5,9.74
+2023,Cauca,Miller Inc Rural,139,126,0.093,Otro,1.3,1.92
+2024,Guaviare,"Miller, Sharp and Smith Rural",94,80,0.141,Trabajo infantil,1.5,4.36
+2024,Meta,Stuart-Sweeney Rural,248,207,0.165,Acceso,2.3,6.11
+2023,Chocó,Oconnor LLC Rural,168,165,0.017,Migración,2.3,5.83
+2022,Casanare,Yates Ltd Rural,211,201,0.045,Otro,1.9,2.82
+2020,Cauca,Mendoza and Sons Rural,91,83,0.079,Trabajo infantil,1.3,0.77
+2022,Chocó,Drake PLC Rural,231,211,0.085,Trabajo infantil,1.9,0.84
+2023,Chocó,Brooks PLC Rural,277,238,0.139,Acceso,2.2,0.13
+2022,Guaviare,"Cannon, Ruiz and Thomas Rural",297,247,0.166,Acceso,1.6,2.08
+2021,Amazonas,"Matthews, Sutton and Lawson Rural",82,68,0.17,Migración,2.0,0.37
+2020,Nariño,Morgan Group Rural,92,90,0.016,Acceso,1.2,5.65
+2020,Meta,Martin and Sons Rural,190,178,0.06,Económica,1.0,4.65
+2023,Guaviare,Lamb Ltd Rural,245,235,0.038,Económica,1.2,22.13
+2024,La Guajira,Evans-Burke Rural,71,66,0.07,Acceso,1.5,3.03
+2021,Chocó,"Macias, Arnold and Rogers Rural",163,153,0.06,Migración,1.2,3.32
+2021,Amazonas,Buckley-Guerra Rural,58,50,0.121,Trabajo infantil,2.3,0.14
+2022,Meta,Myers Inc Rural,169,147,0.127,Otro,2.4,2.42
+2024,Meta,"Chen, Nguyen and Robinson Rural",84,75,0.1,Otro,1.3,0.2
+2024,Meta,"Jones, Mcdaniel and Butler Rural",211,190,0.096,Otro,1.7,0.87
+2024,Chocó,Anderson PLC Rural,282,259,0.081,Trabajo infantil,1.7,0.12
+2021,Cauca,"Randall, Lang and Campbell Rural",163,148,0.087,Trabajo infantil,1.5,1.71
+2022,La Guajira,Rodgers Group Rural,127,104,0.18,Económica,1.0,11.52
+2021,Putumayo,Taylor-Hernandez Rural,123,106,0.135,Acceso,1.8,4.62
+2023,Meta,Moore-Byrd Rural,126,115,0.083,Económica,2.1,8.76
+2022,Nariño,Crawford-Arnold Rural,253,228,0.095,Económica,1.8,2.43
+2021,Casanare,"Miller, Young and Dalton Rural",275,241,0.122,Otro,1.7,2.08
+2021,La Guajira,Morris-Lopez Rural,233,223,0.04,Acceso,2.2,4.03
+2021,Chocó,Bell Inc Rural,70,62,0.107,Acceso,1.9,3.9
+2024,Chocó,Baker-Turner Rural,122,105,0.132,Otro,2.2,2.9
+2023,Nariño,Bowers-Cross Rural,268,234,0.125,Económica,1.3,1.8
+2022,Cauca,"Snyder, Jones and Dickerson Rural",213,200,0.061,Acceso,1.9,0.3
+2022,Meta,Mason Ltd Rural,98,91,0.069,Trabajo infantil,1.0,2.1
+2020,Guaviare,Nguyen-Arroyo Rural,55,54,0.001,Migración,2.5,4.34
+2022,Chocó,Elliott-Jones Rural,82,70,0.137,Acceso,2.1,0.75
+2021,Cauca,Williams PLC Rural,88,70,0.204,Económica,1.7,3.36
+2022,Casanare,Gonzalez-Dunn Rural,129,122,0.054,Acceso,2.5,2.57
+2023,Amazonas,Pena-Wilson Rural,134,113,0.155,Económica,2.3,4.85
+2021,Amazonas,"Hamilton, Williams and George Rural",118,94,0.198,Acceso,1.1,1.12
+2023,La Guajira,Wilson Inc Rural,99,91,0.077,Trabajo infantil,2.2,3.23
+2020,Cauca,Davidson Group Rural,299,270,0.095,Migración,1.6,3.92
+2023,Nariño,Thornton-Watkins Rural,238,211,0.113,Económica,1.3,3.81
+2020,Guaviare,Wilcox PLC Rural,220,192,0.123,Migración,1.7,10.2
+2022,Putumayo,"Williams, Good and Branch Rural",90,79,0.115,Económica,2.1,0.67
+2024,Guaviare,Johnson-Browning Rural,81,74,0.08,Trabajo infantil,1.7,7.9
+2022,Nariño,"Hall, Jordan and Clayton Rural",142,123,0.131,Económica,2.3,14.42
+2021,Cauca,Young Inc Rural,110,100,0.082,Acceso,1.5,0.81
+2021,Chocó,Patrick-Cook Rural,199,175,0.119,Económica,1.6,3.3
+2021,Amazonas,"Luna, Keith and Gonzalez Rural",298,268,0.099,Económica,1.9,9.96
+2023,La Guajira,Wells-Duran Rural,145,143,0.011,Económica,1.4,1.68
+2023,Cauca,Sanders-Wilson Rural,225,188,0.163,Otro,1.5,1.14
+2020,Amazonas,Olson-Bowman Rural,141,131,0.07,Migración,2.1,3.58
+2020,La Guajira,Munoz-Osborn Rural,174,144,0.169,Migración,1.5,3.39
+2024,Putumayo,Norton LLC Rural,256,216,0.153,Acceso,2.1,19.75
+2020,Casanare,Rose-Thomas Rural,141,125,0.111,Migración,1.4,2.62
+2020,Meta,"Walker, Bishop and Mosley Rural",230,201,0.126,Acceso,1.8,4.26
+2024,Meta,Torres LLC Rural,98,85,0.132,Otro,1.3,15.62
+2022,Putumayo,"Bernard, Obrien and Holland Rural",237,215,0.09,Acceso,1.4,9.62
+2024,Guaviare,Bell-Medina Rural,91,82,0.092,Económica,1.8,2.89
+2023,Chocó,"Hampton, Burns and Coleman Rural",259,225,0.13,Trabajo infantil,1.8,4.93
+2023,Amazonas,Lam PLC Rural,248,248,0.0,Otro,1.6,13.04
+2021,Amazonas,Rogers Group Rural,208,187,0.099,Trabajo infantil,2.2,5.82
+2021,Putumayo,Thompson LLC Rural,234,215,0.081,Económica,2.0,6.41
+2024,Casanare,Mcconnell Group Rural,98,92,0.061,Otro,2.0,1.78
+2024,La Guajira,Henry Ltd Rural,206,181,0.12,Trabajo infantil,1.5,2.22
+2022,Cauca,Williams LLC Rural,74,68,0.069,Otro,2.0,1.18
+2020,La Guajira,Curry-Thomas Rural,95,81,0.143,Económica,1.3,15.79
+2023,Nariño,"Rice, Wilson and Adams Rural",75,63,0.148,Económica,1.9,1.75
+2023,Meta,"York, Ingram and Hernandez Rural",184,160,0.126,Otro,2.1,0.07
+2022,Amazonas,Lewis-Santana Rural,143,123,0.136,Migración,1.9,6.74
+2020,Amazonas,Vargas and Sons Rural,288,251,0.126,Migración,2.0,0.77
+2020,Meta,Fletcher-Nelson Rural,255,219,0.14,Económica,1.5,5.37
+2023,Putumayo,Juarez PLC Rural,253,218,0.138,Económica,2.2,7.26
+2022,Guaviare,Bryant PLC Rural,60,52,0.118,Económica,2.3,0.46
+2020,Nariño,Wood-Brandt Rural,295,249,0.154,Otro,1.1,3.34
+2021,Guaviare,"Little, Valencia and Booker Rural",148,134,0.092,Migración,1.3,2.61
+2021,La Guajira,"Cannon, Simon and Martin Rural",192,179,0.063,Otro,1.6,0.34
+2020,Putumayo,Chen Ltd Rural,222,208,0.06,Acceso,2.1,8.26
+2023,Cauca,Neal Ltd Rural,92,84,0.085,Migración,1.8,14.75
+2024,Putumayo,Humphrey Group Rural,218,216,0.005,Migración,1.8,0.4
+2024,Meta,"Rhodes, Willis and Lee Rural",288,256,0.111,Trabajo infantil,2.4,3.47
+2024,Putumayo,"Hall, Allen and Acosta Rural",266,230,0.133,Trabajo infantil,1.6,0.26
+2023,Putumayo,Glass-Smith Rural,205,174,0.147,Migración,1.8,0.38
+2021,Casanare,Peterson-Riley Rural,246,241,0.02,Otro,2.4,1.32
+2022,Putumayo,Leon-Campos Rural,296,277,0.062,Acceso,1.7,1.65
+2023,Amazonas,Novak-Walker Rural,235,201,0.141,Económica,2.5,1.94
+2024,Amazonas,Pittman-Jones Rural,182,165,0.09,Migración,2.5,3.24
+2022,Amazonas,Barry-Horn Rural,126,109,0.132,Migración,1.3,19.31
+2022,Amazonas,Santos Ltd Rural,247,237,0.038,Trabajo infantil,2.4,4.63
+2024,Guaviare,Stein-Dean Rural,196,163,0.168,Otro,1.2,0.66
+2020,Meta,Collins PLC Rural,141,136,0.035,Migración,1.2,10.98
+2022,Nariño,"Davis, Frederick and Lawson Rural",109,109,0.0,Trabajo infantil,2.2,4.41
+2020,Casanare,"Taylor, Evans and Ellis Rural",195,173,0.109,Migración,2.1,4.9
+2022,Meta,"Ward, Copeland and Howell Rural",94,83,0.11,Acceso,2.2,1.38
+2024,Cauca,Bryant and Sons Rural,202,186,0.075,Trabajo infantil,1.1,6.26
+2024,Casanare,Johnson-Thomas Rural,70,61,0.124,Económica,2.4,4.02
+2022,Putumayo,Walker Ltd Rural,275,240,0.125,Acceso,1.6,3.67
+2020,Nariño,Pineda-Smith Rural,241,212,0.12,Otro,2.4,1.58
+2023,Amazonas,Bryan LLC Rural,128,118,0.075,Otro,1.1,3.43
+2024,La Guajira,"Powell, Flynn and Bell Rural",133,124,0.065,Otro,2.0,4.97
+2021,Amazonas,"Cunningham, Rasmussen and Davis Rural",222,204,0.08,Acceso,2.5,0.28
+2024,Guaviare,Nelson and Sons Rural,73,68,0.059,Migración,1.6,0.0
+2023,La Guajira,Smith-Mccarthy Rural,83,70,0.156,Trabajo infantil,1.1,3.58
+2024,Amazonas,Randall-Sanders Rural,190,174,0.084,Acceso,1.4,9.14
+2023,Guaviare,Flores-Hogan Rural,161,143,0.108,Migración,2.1,0.02
+2023,Guaviare,Villegas-Velasquez Rural,100,85,0.141,Acceso,1.6,1.9
+2024,Nariño,Lewis and Sons Rural,193,181,0.057,Otro,2.5,0.54
+2024,Nariño,Bridges LLC Rural,112,108,0.033,Económica,1.4,9.25
+2023,Putumayo,"Evans, Burnett and Shea Rural",225,211,0.059,Otro,1.1,1.88
+2023,Casanare,"Alexander, Kim and Walker Rural",143,126,0.113,Trabajo infantil,1.3,2.84
+2022,Amazonas,Kramer Ltd Rural,247,219,0.11,Trabajo infantil,1.3,12.04
+2022,Meta,Stone PLC Rural,209,183,0.12,Migración,1.7,0.47
+2021,Nariño,Steele Inc Rural,225,203,0.095,Trabajo infantil,1.2,5.81
+2020,Cauca,"Owens, Jones and Bennett Rural",239,239,0.0,Económica,1.4,5.01
+2024,La Guajira,Snyder-Gomez Rural,272,246,0.093,Trabajo infantil,1.0,6.08
+2020,Chocó,Davis and Sons Rural,165,140,0.148,Acceso,1.0,16.91
+2021,Guaviare,"Williams, Robinson and Davis Rural",104,87,0.162,Migración,1.8,7.16
+2022,Guaviare,Mccoy PLC Rural,173,155,0.104,Otro,2.1,1.77
+2021,Amazonas,Taylor-Harrison Rural,146,129,0.11,Otro,2.4,0.56
+2024,Amazonas,Braun and Sons Rural,115,99,0.131,Migración,1.1,0.25
+2021,Chocó,Steele and Sons Rural,63,52,0.16,Acceso,2.0,2.23
+2020,Cauca,Vaughan Ltd Rural,149,134,0.1,Trabajo infantil,2.0,2.83
+2022,Cauca,"Fuentes, Thompson and Gray Rural",54,46,0.13,Trabajo infantil,2.3,3.06
+2023,Nariño,Green PLC Rural,300,278,0.072,Acceso,1.8,2.31
+2020,Putumayo,Ross-Thompson Rural,174,167,0.039,Otro,1.8,0.27
+2021,Nariño,Jenkins LLC Rural,178,164,0.077,Acceso,1.8,8.63
+2020,Amazonas,Benson Inc Rural,113,93,0.173,Otro,1.5,9.5
+2023,Casanare,Knight-Griffin Rural,240,208,0.131,Migración,1.0,3.2
+2022,Putumayo,Simmons-Thomas Rural,210,200,0.043,Trabajo infantil,1.4,10.61
+2024,Chocó,"Krause, Ward and Diaz Rural",257,222,0.134,Económica,1.9,4.68
+2023,Amazonas,Brown Ltd Rural,291,277,0.046,Otro,2.4,1.75
+2021,La Guajira,"Porter, James and Buckley Rural",137,120,0.119,Acceso,2.0,6.71
+2020,Casanare,Blair-Thompson Rural,183,172,0.055,Otro,2.3,1.9
+2021,Casanare,"Nielsen, Ball and Chandler Rural",111,106,0.041,Otro,1.2,6.24
+2022,Putumayo,Dunn-Calderon Rural,164,134,0.182,Otro,1.2,1.11
+2021,Guaviare,Rich-Stafford Rural,225,206,0.084,Migración,2.3,2.29
+2022,Guaviare,"Little, Myers and Mason Rural",282,245,0.13,Migración,1.6,0.3
+2021,La Guajira,Obrien-Randall Rural,131,117,0.102,Económica,1.8,1.56
+2020,La Guajira,"Gates, Cook and Brock Rural",131,124,0.05,Migración,2.1,9.02
+2022,Casanare,"Burton, Thompson and Harris Rural",296,269,0.089,Acceso,1.5,3.39
+2022,La Guajira,Herrera-Johnson Rural,249,236,0.05,Migración,1.2,2.59
+2021,Amazonas,Hull and Sons Rural,245,190,0.221,Otro,1.9,0.05
+2024,Nariño,Bean-Gonzalez Rural,202,173,0.139,Migración,1.3,3.12
+2020,Putumayo,Craig Ltd Rural,70,62,0.101,Acceso,1.2,5.66
+2024,Meta,Alvarado Ltd Rural,232,202,0.127,Trabajo infantil,1.3,1.87
+2023,Meta,"Clark, Jordan and Wheeler Rural",171,147,0.136,Migración,1.2,3.68
+2021,Amazonas,"Martin, Clements and Richards Rural",154,133,0.136,Económica,2.4,18.65
+2023,Nariño,Hughes Ltd Rural,240,207,0.134,Migración,2.1,0.64
+2020,La Guajira,"Arnold, Leon and Ford Rural",287,249,0.13,Acceso,2.3,1.54
+2023,Putumayo,Banks-Melendez Rural,271,242,0.105,Acceso,2.3,2.14
+2023,Casanare,"Russell, Baker and Lynch Rural",248,204,0.177,Económica,1.9,2.32
+2023,Putumayo,Long and Sons Rural,150,133,0.108,Otro,2.4,9.39
+2024,Guaviare,Frank Ltd Rural,184,165,0.103,Económica,1.8,0.12
+2023,Meta,Reynolds-Rios Rural,261,232,0.109,Económica,2.3,7.58
+2021,Guaviare,"Stanley, Werner and Dean Rural",187,166,0.112,Acceso,2.5,3.06
+2020,Guaviare,Young Inc Rural,149,146,0.02,Otro,2.1,0.34
+2020,Nariño,"Bright, Sanders and Davis Rural",124,116,0.059,Acceso,1.6,1.3
+2022,Chocó,Mckinney Group Rural,168,152,0.095,Migración,1.6,6.88
+2024,Amazonas,Tanner-Brown Rural,226,221,0.018,Otro,2.4,3.21
+2023,Meta,Kelley LLC Rural,73,65,0.101,Otro,1.2,16.45
+2024,Guaviare,Chapman and Sons Rural,84,74,0.112,Acceso,1.6,0.39
+2023,Amazonas,"Becker, Houston and Lamb Rural",95,91,0.037,Acceso,1.9,1.09
+2021,Meta,"Wright, Coleman and Hernandez Rural",73,67,0.069,Trabajo infantil,1.5,0.76
+2021,Cauca,"Johnson, Miller and Schneider Rural",73,61,0.164,Económica,2.1,4.32
+2022,Cauca,Sullivan and Sons Rural,184,160,0.128,Acceso,2.1,0.79
+2024,La Guajira,Powell-Hernandez Rural,146,127,0.125,Otro,1.6,2.46
+2021,Putumayo,Green-Grant Rural,194,163,0.157,Migración,1.2,5.61
+2021,La Guajira,"Avila, Nelson and Sherman Rural",246,231,0.059,Económica,1.6,12.47
+2022,Meta,Clayton-Douglas Rural,123,118,0.037,Migración,1.2,1.72
+2021,Nariño,White and Sons Rural,50,42,0.149,Otro,2.1,6.15
+2020,Meta,Lowery Group Rural,177,160,0.096,Acceso,1.8,0.32
+2020,Meta,"Horton, Roberts and Bishop Rural",110,103,0.058,Migración,1.9,0.72
+2023,Meta,"Lam, Clark and Sanchez Rural",154,122,0.204,Acceso,1.1,15.84
+2024,Amazonas,Kirby-Pacheco Rural,112,109,0.02,Otro,1.4,3.47
+2024,Nariño,"Ball, Ferguson and Rodriguez Rural",62,55,0.109,Migración,1.2,5.69
+2022,Amazonas,"Shaw, Franklin and Knight Rural",87,79,0.09,Económica,2.0,8.22
+2024,Chocó,"Short, Burnett and Lee Rural",134,123,0.082,Económica,1.1,3.08
+2023,La Guajira,Cannon-Molina Rural,91,91,0.0,Trabajo infantil,1.9,0.22
+2024,Guaviare,Le-Harris Rural,95,78,0.177,Acceso,2.1,0.91
+2022,Amazonas,Bishop-Garcia Rural,73,70,0.029,Trabajo infantil,1.5,0.26
+2023,Cauca,Rose and Sons Rural,244,222,0.087,Acceso,2.3,9.28
+2020,Chocó,"Becker, Avila and Erickson Rural",170,156,0.079,Migración,1.2,16.17
+2022,Putumayo,Harris and Sons Rural,184,160,0.129,Acceso,1.8,1.1
+2021,Amazonas,Davidson PLC Rural,77,75,0.02,Otro,2.1,2.87
+2024,Cauca,"Brown, Ortiz and Harrison Rural",173,151,0.123,Otro,2.4,4.5
+2022,Casanare,Duffy-Todd Rural,205,182,0.109,Trabajo infantil,1.4,19.86
+2024,Putumayo,Edwards-Nicholson Rural,287,267,0.067,Migración,1.9,1.05
+2023,Guaviare,"Francis, Higgins and Mason Rural",236,207,0.121,Acceso,1.7,7.08
+2021,Nariño,Perez-Schroeder Rural,231,207,0.101,Trabajo infantil,2.5,0.88
+2020,Cauca,Vasquez-Lopez Rural,56,45,0.19,Acceso,1.9,1.42
+2020,Nariño,Rogers Ltd Rural,254,231,0.09,Otro,2.5,5.12
+2023,Amazonas,"Khan, Gibbs and Guerra Rural",135,127,0.052,Trabajo infantil,1.8,4.16
+2021,Amazonas,Brewer-Zimmerman Rural,213,186,0.124,Migración,2.0,7.38
+2022,Cauca,Davis-Schneider Rural,128,117,0.084,Trabajo infantil,1.8,0.05
+2022,Amazonas,"Miranda, Shaw and Lloyd Rural",79,71,0.1,Trabajo infantil,1.5,2.21
+2024,Amazonas,Thomas-Taylor Rural,263,253,0.037,Migración,1.3,1.94
+2022,Meta,Arellano and Sons Rural,284,247,0.13,Acceso,2.2,9.42
+2021,Meta,Norris LLC Rural,89,82,0.076,Acceso,2.3,2.8
+2024,Putumayo,Adkins Ltd Rural,168,149,0.113,Acceso,2.4,0.15
+2020,Guaviare,Campos-Moore Rural,126,100,0.205,Otro,2.1,0.63
+2022,Guaviare,Black and Sons Rural,187,170,0.088,Económica,1.3,1.7
+2022,Putumayo,Scott Ltd Rural,66,56,0.137,Migración,1.4,24.99
+2020,Putumayo,Dominguez-Lowery Rural,146,132,0.091,Otro,2.3,0.23
+2024,Casanare,"Richards, Hunter and Wagner Rural",97,90,0.068,Otro,1.2,2.49
+2022,Putumayo,Patterson Ltd Rural,231,192,0.166,Económica,1.4,7.02
+2020,Meta,Browning-Pham Rural,274,272,0.007,Migración,1.6,7.75
+2022,Nariño,Martinez Group Rural,184,156,0.15,Trabajo infantil,1.3,1.45
+2022,Amazonas,"Malone, Dunlap and Alexander Rural",249,248,0.001,Migración,2.4,5.34
+2023,Guaviare,"Thomas, Cook and Day Rural",56,47,0.145,Acceso,2.4,1.37
+2021,Nariño,Juarez-Marks Rural,137,123,0.101,Acceso,2.1,1.25
+2024,Chocó,"Lynch, Roberts and Miller Rural",248,235,0.052,Trabajo infantil,1.2,0.2
+2020,Guaviare,White-Hobbs Rural,223,205,0.08,Migración,1.3,15.02
+2020,Meta,"Miller, Foster and Solomon Rural",149,129,0.134,Otro,1.2,4.36
+2022,Amazonas,"Hill, Schmidt and Clark Rural",225,180,0.199,Otro,2.3,3.64
+2022,Meta,"Nelson, Robinson and York Rural",277,270,0.022,Económica,1.2,7.11
+2022,Amazonas,Moore-Coleman Rural,197,186,0.055,Trabajo infantil,2.0,11.23
+2021,Putumayo,Norman PLC Rural,101,97,0.033,Migración,1.4,14.64
+2024,Putumayo,"Wagner, Russell and James Rural",247,224,0.091,Acceso,2.0,7.58
+2022,La Guajira,Cooper-Blair Rural,90,76,0.146,Trabajo infantil,1.2,3.23
+2024,Guaviare,Cochran-Ward Rural,181,176,0.027,Económica,1.3,4.47
+2022,Guaviare,Turner-Benson Rural,131,118,0.099,Trabajo infantil,1.2,1.03
+2022,Nariño,"Williams, Phillips and Evans Rural",93,79,0.144,Económica,1.5,1.16
+2022,Guaviare,Yates-Ryan Rural,163,150,0.079,Económica,1.2,0.37
+2023,Amazonas,Wright and Sons Rural,77,77,0.0,Acceso,1.1,8.33
+2023,Casanare,Pruitt and Sons Rural,95,84,0.11,Otro,2.3,9.03
+2023,Putumayo,Murphy Inc Rural,129,108,0.162,Trabajo infantil,2.2,7.37
+2024,Cauca,"Schultz, Kelley and Hayes Rural",299,285,0.046,Acceso,1.9,5.32
+2020,Meta,Joseph-Richardson Rural,74,73,0.011,Acceso,1.5,2.77
+2023,Meta,"Schwartz, Miller and Diaz Rural",109,96,0.116,Migración,1.2,0.19
+2024,Chocó,"Davis, Cardenas and Ortiz Rural",283,249,0.117,Trabajo infantil,1.6,0.0
+2022,Putumayo,Johnson Inc Rural,166,153,0.076,Acceso,1.0,2.69
+2023,Cauca,Underwood Group Rural,139,129,0.066,Acceso,1.7,18.07
+2021,Chocó,Jordan PLC Rural,246,220,0.102,Trabajo infantil,1.9,1.28
+2021,Guaviare,Smith LLC Rural,76,72,0.046,Acceso,2.2,1.31
+2020,Putumayo,Ortiz Ltd Rural,192,183,0.046,Económica,2.2,0.01
+2024,Meta,"Estrada, Brown and Morales Rural",152,131,0.134,Otro,1.6,6.77
+2024,Nariño,"Lewis, Aguilar and Flynn Rural",190,181,0.043,Migración,2.5,9.43
+2023,Cauca,Morris-Jones Rural,137,135,0.014,Migración,2.2,1.97
+2024,Casanare,"Morgan, Jones and Davis Rural",250,233,0.066,Acceso,1.9,6.23
+2022,Guaviare,Meadows-Rodriguez Rural,227,209,0.077,Migración,1.3,2.32
+2020,Meta,"Henry, Mora and Mcfarland Rural",79,69,0.123,Otro,1.9,11.61
+2022,Guaviare,Porter LLC Rural,74,68,0.07,Acceso,1.3,4.47
+2023,Cauca,Barron Inc Rural,203,168,0.171,Económica,2.0,5.41
+2024,Casanare,Hernandez and Sons Rural,133,119,0.104,Acceso,2.0,6.18
+2020,Cauca,"Clark, Taylor and Morrow Rural",105,98,0.06,Migración,2.3,0.92
+2020,La Guajira,"Goodman, Burke and Rodriguez Rural",219,192,0.121,Migración,1.7,15.21
+2022,Casanare,"Lopez, Johnson and Higgins Rural",207,171,0.17,Otro,1.7,0.22
+2021,Putumayo,Moreno-Ferrell Rural,126,109,0.133,Otro,2.2,1.76
+2022,Casanare,"Wright, Vega and Morris Rural",233,227,0.025,Trabajo infantil,2.5,6.27
+2024,Amazonas,Morales-Coleman Rural,206,189,0.081,Otro,1.6,3.61
+2021,Chocó,"Donovan, Costa and Tran Rural",65,57,0.113,Trabajo infantil,2.4,3.56
+2020,Amazonas,Williams-Beltran Rural,230,200,0.13,Otro,2.2,8.79
+2022,Cauca,Arnold PLC Rural,270,245,0.091,Trabajo infantil,2.3,5.97
+2021,Casanare,"Collins, Smith and Shaw Rural",229,209,0.084,Otro,1.6,12.69
+2022,Casanare,"Clark, Price and Brooks Rural",153,123,0.19,Acceso,1.7,5.93
+2021,La Guajira,Jones PLC Rural,171,148,0.133,Migración,1.3,1.6
+2023,Putumayo,Hickman LLC Rural,265,232,0.121,Acceso,1.2,8.23
+2021,La Guajira,Krause Group Rural,52,48,0.072,Económica,2.0,2.04
+2021,Meta,Floyd-Garrett Rural,218,208,0.045,Acceso,2.5,19.2
+2021,Cauca,"Ho, Morse and Nelson Rural",85,74,0.122,Acceso,2.3,6.49
+2024,Casanare,"Rodriguez, Garcia and Graves Rural",209,179,0.139,Migración,1.7,4.13
+2023,Guaviare,"Shah, Rivera and Gentry Rural",259,233,0.1,Acceso,1.6,2.39
+2021,La Guajira,Reynolds Group Rural,158,136,0.133,Otro,1.0,0.89
+2023,Nariño,Hill Inc Rural,232,200,0.135,Otro,1.4,2.43
+2024,Putumayo,Montgomery LLC Rural,58,49,0.142,Económica,1.9,0.13
+2022,Cauca,"Castaneda, Mendoza and Smith Rural",198,193,0.024,Acceso,2.4,6.1
+2020,La Guajira,Gallegos Ltd Rural,236,216,0.082,Otro,2.5,8.49
+2022,Meta,Johnson Ltd Rural,182,159,0.125,Económica,1.8,0.27
+2024,Cauca,"Lopez, Buchanan and Juarez Rural",112,100,0.102,Acceso,1.9,3.51
+2020,Guaviare,"Clark, Smith and Solis Rural",254,219,0.135,Otro,1.5,0.99
+2020,Putumayo,"Perez, Hawkins and Nelson Rural",186,163,0.121,Económica,1.7,8.05
+2024,Meta,"Davis, Tanner and Walker Rural",196,196,0.0,Trabajo infantil,1.6,0.71
+2022,Chocó,Jenkins PLC Rural,92,77,0.155,Económica,2.0,10.02
+2024,Chocó,Price Group Rural,236,218,0.076,Otro,1.4,1.71
+2023,La Guajira,"Smith, Preston and Weaver Rural",196,184,0.057,Económica,2.0,10.26
+2022,Amazonas,Bridges-Lee Rural,123,104,0.153,Acceso,1.1,1.44
+2024,Cauca,Simpson LLC Rural,267,232,0.131,Trabajo infantil,1.4,4.9
+2024,Chocó,Castillo-Oconnor Rural,120,100,0.161,Trabajo infantil,1.0,11.83
+2020,La Guajira,"Austin, Compton and Ho Rural",282,250,0.113,Otro,2.1,0.06
+2023,Putumayo,Hart-Williams Rural,256,235,0.082,Migración,1.4,3.98
+2021,Meta,"Gardner, Nelson and Barton Rural",96,85,0.107,Otro,2.3,1.7
+2022,Cauca,"Diaz, Roberts and Smith Rural",297,282,0.049,Migración,1.9,4.85
+2021,Meta,"Bowman, Gonzalez and Gonzalez Rural",242,234,0.032,Acceso,2.2,2.03
+2021,Meta,Cook Ltd Rural,235,218,0.069,Migración,1.3,0.35
+2022,Amazonas,"Griffin, Johnson and Aguirre Rural",214,176,0.177,Trabajo infantil,2.1,7.66
+2020,Amazonas,Turner-Wilson Rural,92,85,0.073,Acceso,1.6,5.78
+2022,Meta,Anderson Group Rural,241,237,0.015,Otro,1.4,2.02
+2023,Meta,"Espinoza, Barton and Allen Rural",117,106,0.092,Migración,1.8,14.45
+2023,Amazonas,"Ramos, Gonzalez and Tran Rural",123,114,0.073,Acceso,1.6,5.13
+2022,Guaviare,Benton-Ray Rural,224,189,0.156,Económica,1.1,1.11
+2024,Putumayo,"Dudley, Reeves and Thomas Rural",294,243,0.172,Acceso,1.9,2.71
+2022,Putumayo,"Lamb, Hernandez and Anderson Rural",119,109,0.079,Trabajo infantil,2.2,1.63
+2022,Casanare,Jackson-Holland Rural,168,149,0.113,Migración,2.1,1.62
+2024,Nariño,Rodriguez-Miller Rural,183,161,0.117,Trabajo infantil,2.0,0.35
+2021,Putumayo,Hernandez-Duncan Rural,190,171,0.098,Económica,2.0,3.66
+2020,Amazonas,James-Jones Rural,155,141,0.088,Económica,1.8,6.69
+2023,Putumayo,"Martinez, Peters and Lucas Rural",106,100,0.054,Trabajo infantil,1.4,6.1
+2020,Amazonas,Lee PLC Rural,208,206,0.008,Económica,1.1,2.53
+2024,Nariño,"Padilla, Davis and Flores Rural",293,277,0.054,Otro,2.0,1.53
+2020,Cauca,"Phelps, Dixon and Welch Rural",269,243,0.096,Otro,1.2,1.56
+2024,La Guajira,Nelson-Turner Rural,279,271,0.028,Económica,2.0,1.69
+2022,Chocó,"Sosa, Arnold and Lin Rural",169,150,0.11,Económica,2.0,4.63
+2022,Casanare,Hamilton LLC Rural,227,203,0.103,Trabajo infantil,1.4,0.4
+2020,Chocó,Vaughn Group Rural,248,229,0.073,Económica,1.6,4.57
+2022,Amazonas,"Powell, Castillo and Harris Rural",116,106,0.086,Trabajo infantil,1.3,4.89
+2020,Meta,"Taylor, Smith and White Rural",300,289,0.035,Migración,1.9,0.08
+2021,Meta,Wong Group Rural,77,66,0.141,Migración,1.8,16.76
+2023,Nariño,Patrick-Craig Rural,207,177,0.141,Económica,2.4,6.13
+2022,Cauca,"Peterson, Mendoza and Mueller Rural",58,55,0.043,Económica,1.1,4.71
+2022,Meta,Pittman-Walker Rural,54,51,0.044,Acceso,1.2,4.55
+2020,Amazonas,Payne-Parker Rural,220,208,0.054,Acceso,1.4,10.05
+2022,Casanare,"Rodriguez, Myers and Mendoza Rural",197,171,0.128,Económica,1.8,1.13
+2023,Meta,Campbell PLC Rural,161,142,0.117,Acceso,2.3,4.43
+2020,Guaviare,Nicholson-Cook Rural,107,90,0.152,Económica,1.6,2.62
+2023,Cauca,Hebert-Vazquez Rural,195,164,0.158,Otro,2.4,0.08
+2022,Putumayo,Weiss-Collins Rural,224,218,0.023,Trabajo infantil,1.6,2.99
+2020,Putumayo,Clark PLC Rural,186,162,0.126,Trabajo infantil,1.1,15.8
+2023,Chocó,"Richmond, Bennett and Miller Rural",215,181,0.156,Migración,1.3,1.04
+2020,Casanare,Norton-Grimes Rural,219,200,0.083,Migración,1.4,5.58
+2023,Cauca,"Burch, Galloway and Schneider Rural",211,190,0.099,Trabajo infantil,1.7,0.49
+2023,Nariño,"Vazquez, Scott and Swanson Rural",85,77,0.091,Económica,1.3,6.9
+2024,Nariño,Johnson-Hall Rural,175,158,0.093,Acceso,1.1,1.5
+2024,Chocó,Estrada-Pruitt Rural,177,152,0.141,Otro,2.4,2.85
+2023,Amazonas,"Jenkins, Green and Patel Rural",59,47,0.187,Trabajo infantil,1.1,5.08
+2020,Casanare,Dennis-Mitchell Rural,80,66,0.169,Migración,2.2,1.39
+2024,Meta,Pearson-Thomas Rural,290,268,0.075,Otro,1.2,1.11
+2024,Nariño,Dennis and Sons Rural,286,253,0.113,Económica,1.1,10.5
+2021,Meta,"Hudson, Miller and Foster Rural",217,203,0.061,Económica,1.7,1.58
+2024,Amazonas,"Orozco, Washington and Diaz Rural",112,104,0.065,Migración,1.0,1.42
+2020,Chocó,Swanson-Jones Rural,260,234,0.097,Económica,1.7,6.6
+2021,Cauca,Morris Group Rural,259,242,0.064,Económica,1.2,4.67
+2024,Nariño,Simpson-Barnes Rural,66,61,0.071,Migración,1.6,15.13
+2023,Putumayo,Turner LLC Rural,80,71,0.112,Otro,1.8,9.12
+2022,Nariño,Brown Ltd Rural,245,214,0.125,Económica,1.9,13.49
+2022,Cauca,Sanders Group Rural,80,70,0.124,Trabajo infantil,1.2,3.93
+2023,La Guajira,"Torres, Castaneda and Wilson Rural",228,199,0.124,Trabajo infantil,1.8,6.79
+2023,Nariño,Moore-Harris Rural,286,275,0.038,Otro,1.1,6.7
+2020,Casanare,"Jefferson, Sparks and Lee Rural",249,233,0.062,Migración,1.0,2.32
+2023,Cauca,"Henderson, Pittman and Ward Rural",51,45,0.102,Económica,1.3,12.68
+2020,Chocó,"Rodriguez, Anderson and Cox Rural",156,131,0.154,Acceso,2.0,1.57
+2021,La Guajira,Harper-Young Rural,213,166,0.218,Trabajo infantil,1.8,2.3
+2023,Nariño,Delgado PLC Rural,290,256,0.115,Migración,1.9,7.74
+2020,La Guajira,Davis-Morales Rural,233,201,0.136,Acceso,1.9,3.03
+2020,Chocó,Robinson-Lee Rural,139,134,0.033,Acceso,1.0,6.11
+2021,Nariño,Jenkins Ltd Rural,80,69,0.135,Otro,2.5,2.79
+2024,Putumayo,Collins-Miller Rural,270,216,0.2,Otro,1.8,13.77
+2023,Nariño,Haney Ltd Rural,120,112,0.062,Económica,1.3,0.33
+2021,Meta,Brown LLC Rural,177,164,0.073,Migración,1.2,2.93
+2020,Amazonas,Palmer and Sons Rural,215,184,0.143,Trabajo infantil,1.4,0.11
+2023,Chocó,Park-Martinez Rural,135,121,0.101,Otro,2.2,0.29
+2023,Amazonas,Simon and Sons Rural,76,75,0.004,Económica,2.4,3.38
+2021,La Guajira,Hicks Ltd Rural,251,232,0.075,Económica,1.7,5.32
+2020,Cauca,Lewis LLC Rural,279,231,0.172,Migración,2.1,1.51
+2024,Putumayo,"Whitney, Jensen and Miller Rural",157,143,0.086,Migración,2.1,0.37
+2022,Nariño,Edwards Ltd Rural,249,227,0.086,Económica,1.5,1.03
+2020,Nariño,Thompson Ltd Rural,238,204,0.14,Acceso,2.3,8.41
+2023,Nariño,"Wright, Shepherd and Burton Rural",68,60,0.117,Acceso,1.9,5.78
+2020,Casanare,"Russell, Cole and Pierce Rural",87,79,0.083,Migración,2.4,1.85
+2023,La Guajira,Griffin PLC Rural,149,138,0.069,Trabajo infantil,1.2,1.44
+2021,Putumayo,Martinez-Short Rural,299,225,0.247,Trabajo infantil,1.3,2.21
+2021,Amazonas,"Berg, Cummings and Dunlap Rural",227,190,0.162,Otro,1.1,2.18
+2021,Cauca,"Vaughn, Reyes and Davis Rural",268,234,0.124,Acceso,1.7,1.84
+2021,Putumayo,"Fowler, Cook and Rogers Rural",106,92,0.127,Trabajo infantil,1.9,12.25
+2024,La Guajira,Morris-Henderson Rural,197,178,0.094,Otro,2.3,2.19
+2020,Casanare,"Davis, Brock and Rivera Rural",269,237,0.116,Otro,1.7,3.52
+2021,Meta,Adams-Zavala Rural,264,240,0.089,Acceso,1.4,4.03
+2023,Nariño,"Garcia, Smith and Mitchell Rural",113,106,0.057,Trabajo infantil,1.7,3.5
+2021,La Guajira,"Mccullough, Newton and Crawford Rural",283,249,0.118,Otro,2.3,5.65
+2023,Amazonas,"Torres, Villarreal and Hernandez Rural",60,54,0.084,Acceso,2.1,9.1
+2024,Amazonas,Ross Inc Rural,158,138,0.121,Otro,1.6,2.89
+2020,Meta,"Grant, Huffman and Lee Rural",176,153,0.13,Migración,1.1,4.72
+2020,Casanare,"Barry, Nguyen and Hess Rural",293,256,0.124,Migración,1.2,0.99
+2022,Nariño,Bush and Sons Rural,215,203,0.054,Económica,1.0,5.92
+2022,La Guajira,"Sanders, Stewart and Durham Rural",230,211,0.079,Acceso,2.3,0.9
+2024,Amazonas,Mckay-Shaffer Rural,299,273,0.085,Acceso,1.7,0.01
+2021,Casanare,"Price, Rivera and Montgomery Rural",97,82,0.149,Trabajo infantil,1.9,3.62
+2020,Cauca,Krause Inc Rural,148,126,0.146,Trabajo infantil,1.8,0.88
+2022,Casanare,"Gray, Greer and Briggs Rural",242,226,0.065,Trabajo infantil,2.0,0.56
+2024,Guaviare,Wagner-Barrett Rural,197,189,0.037,Migración,2.2,1.26
+2020,Putumayo,Thompson-Hopkins Rural,238,185,0.221,Económica,1.8,1.41
+2022,Amazonas,"Key, White and Young Rural",78,68,0.122,Acceso,1.5,0.3
+2024,Amazonas,"Oconnell, Taylor and Howard Rural",143,138,0.031,Trabajo infantil,1.3,1.24
+2024,Cauca,Golden-Valencia Rural,193,179,0.072,Migración,1.2,16.08
+2022,Nariño,"Thompson, Welch and Chan Rural",188,159,0.151,Económica,2.0,2.69
+2024,Nariño,Silva Ltd Rural,242,192,0.204,Migración,1.5,2.8
+2022,Guaviare,Garza-Webster Rural,224,180,0.194,Acceso,1.4,6.06
+2020,Putumayo,Hodges-Gonzalez Rural,138,121,0.119,Acceso,1.7,0.94
+2024,Cauca,Cross LLC Rural,170,170,0.0,Otro,2.0,10.22
+2024,Chocó,Murray PLC Rural,165,148,0.1,Otro,1.6,4.99
+2020,Nariño,Greer LLC Rural,278,264,0.049,Acceso,1.1,4.65
+2023,La Guajira,Martin and Sons Rural,123,110,0.104,Económica,1.2,0.62
+2022,Cauca,"Taylor, Greene and Dennis Rural",228,215,0.055,Migración,1.7,5.89
+2021,Guaviare,Young LLC Rural,293,269,0.08,Económica,1.4,1.15
+2024,La Guajira,"Rubio, Torres and Moon Rural",171,146,0.143,Trabajo infantil,1.6,1.14
+2020,Chocó,"Vazquez, Kim and Lucas Rural",98,89,0.088,Económica,1.0,3.54
+2021,Guaviare,King-Nguyen Rural,215,196,0.085,Trabajo infantil,1.6,7.87
+2022,Putumayo,Flores-Wall Rural,174,157,0.097,Otro,2.0,0.36
+2024,Guaviare,Garner-Perry Rural,163,125,0.231,Acceso,1.5,4.95
+2021,Chocó,Gordon Ltd Rural,93,88,0.044,Trabajo infantil,1.3,5.83
+2022,Chocó,Lang Inc Rural,247,218,0.114,Económica,1.2,9.04
+2022,Meta,Benitez Ltd Rural,294,238,0.188,Migración,1.9,8.61
+2021,Guaviare,Parker-Gomez Rural,123,111,0.097,Migración,2.5,2.03
+2021,La Guajira,Smith-Koch Rural,110,92,0.161,Económica,1.1,7.84
+2022,La Guajira,Manning PLC Rural,162,156,0.034,Trabajo infantil,1.6,9.65
+2021,Guaviare,"Cruz, Fowler and Carroll Rural",231,210,0.09,Económica,2.0,10.71
+2022,La Guajira,Wilson-Johnson Rural,145,136,0.06,Acceso,1.8,2.45
+2021,Guaviare,"Hill, Suarez and Francis Rural",127,114,0.097,Económica,2.4,8.14
+2023,Meta,Farmer and Sons Rural,246,221,0.098,Migración,2.4,0.35
+2022,La Guajira,"Little, Mccormick and Herman Rural",51,45,0.103,Otro,2.5,10.49
+2022,Chocó,Brewer PLC Rural,171,146,0.142,Trabajo infantil,2.5,17.22
+2024,La Guajira,Noble-Anderson Rural,254,254,0.0,Otro,2.1,0.34
+2023,Putumayo,Dennis-Snyder Rural,226,210,0.07,Económica,2.1,2.35
+2020,La Guajira,Lane-Clark Rural,223,198,0.111,Otro,1.2,8.14
+2020,Casanare,"Allen, Cohen and Fields Rural",208,206,0.006,Migración,1.7,1.24
+2020,Putumayo,Nixon PLC Rural,64,55,0.131,Otro,2.0,2.16
+2024,Guaviare,"Lewis, Wilcox and Patton Rural",106,98,0.069,Trabajo infantil,1.3,2.31
+2020,Guaviare,"Evans, Knight and Ward Rural",267,242,0.091,Acceso,2.0,3.12
+2020,Guaviare,Daniels Group Rural,150,128,0.145,Migración,1.7,6.17
+2024,Guaviare,Gonzalez Ltd Rural,291,243,0.164,Económica,2.4,0.04
+2022,Casanare,"Thomas, Parker and Patel Rural",87,75,0.133,Acceso,1.6,3.31
+2022,Amazonas,"Summers, Harris and Matthews Rural",122,116,0.043,Trabajo infantil,1.5,0.03
+2023,Guaviare,Cooper Ltd Rural,72,62,0.13,Migración,2.1,3.98
+2023,Casanare,Dunn and Sons Rural,255,221,0.133,Acceso,1.4,0.34
+2023,Casanare,Garcia Group Rural,85,74,0.123,Otro,1.9,7.62
+2021,Nariño,"Holden, Gibson and Sanchez Rural",127,105,0.173,Acceso,2.5,6.97
+2024,Putumayo,Mcdaniel-Wagner Rural,66,59,0.104,Otro,2.1,0.76
+2020,Amazonas,"Costa, Hoover and Burnett Rural",154,127,0.171,Trabajo infantil,1.6,5.56
+2024,Meta,Wilson-Ward Rural,231,191,0.17,Otro,2.1,0.93
+2021,Nariño,Hill Inc Rural,97,83,0.135,Acceso,1.4,1.08
+2023,Amazonas,Lambert-Ramirez Rural,260,230,0.115,Trabajo infantil,2.3,11.94
+2022,Meta,"Hill, Carr and Parker Rural",193,169,0.123,Acceso,1.3,7.11
+2020,La Guajira,"Gallagher, Gray and Simpson Rural",117,95,0.185,Trabajo infantil,2.4,11.0
+2023,Cauca,"Chambers, Murphy and Frost Rural",217,183,0.154,Trabajo infantil,1.6,4.32
+2023,Nariño,"Cook, Mccarthy and Zimmerman Rural",57,54,0.048,Económica,2.1,3.21
+2023,Cauca,Newman Inc Rural,203,178,0.12,Trabajo infantil,1.9,6.3
+2024,Casanare,"Mathis, Gonzalez and Wilson Rural",272,256,0.058,Trabajo infantil,1.9,1.88
+2023,Cauca,Nguyen-Robbins Rural,145,135,0.067,Otro,2.1,1.38
+2020,Chocó,Ramirez-Casey Rural,91,83,0.081,Otro,1.1,11.92
+2022,Meta,Spencer Group Rural,274,265,0.03,Migración,1.5,3.54
+2020,Chocó,"Jenkins, Watkins and Hill Rural",142,134,0.055,Acceso,2.0,8.63
+2022,Amazonas,Davis-Wolfe Rural,124,102,0.176,Trabajo infantil,1.8,5.39
+2020,Guaviare,Chavez and Sons Rural,99,92,0.067,Migración,2.1,5.89
+2024,La Guajira,"Thomas, Hansen and Lam Rural",189,161,0.143,Trabajo infantil,2.3,1.53
+2022,Chocó,Banks PLC Rural,225,200,0.109,Trabajo infantil,1.1,1.96
+2024,Putumayo,Yang Inc Rural,260,226,0.128,Migración,1.0,1.57
+2024,Chocó,"Blevins, King and Gregory Rural",145,126,0.13,Acceso,1.6,1.23
+2021,Cauca,Harvey Ltd Rural,105,99,0.053,Migración,1.8,4.52
+2021,Guaviare,"George, Johnson and Smith Rural",207,177,0.142,Otro,2.3,8.44
+2024,Cauca,Lyons LLC Rural,156,150,0.038,Acceso,2.4,7.53
+2020,La Guajira,Stevens-Bartlett Rural,286,267,0.065,Económica,1.7,0.46
+2022,Putumayo,"Hamilton, Garza and Dalton Rural",85,74,0.129,Acceso,2.3,6.0
+2024,Guaviare,"Gray, Case and Scott Rural",245,232,0.05,Trabajo infantil,1.3,0.16
+2022,Amazonas,"Schneider, Liu and Allen Rural",240,239,0.002,Económica,1.3,1.5
+2021,Nariño,Castaneda-Floyd Rural,128,113,0.117,Migración,1.3,0.2
+2020,Casanare,Jones Ltd Rural,226,221,0.022,Económica,1.1,5.5
+2023,Casanare,Ramirez-Coleman Rural,60,51,0.134,Migración,1.2,10.95
+2024,Amazonas,"Morrison, Davis and Taylor Rural",170,155,0.085,Económica,2.4,1.97
+2020,Cauca,Graham LLC Rural,127,112,0.117,Económica,2.1,1.43
+2020,Nariño,Pham LLC Rural,200,176,0.116,Migración,1.3,4.3
+2022,Amazonas,"Huang, Brewer and Boyd Rural",73,62,0.138,Migración,2.3,9.76
+2022,Putumayo,Yoder Ltd Rural,140,121,0.131,Migración,2.3,30.22
+2024,Nariño,Miller-Pope Rural,179,170,0.049,Otro,1.1,0.11
+2024,Amazonas,Walker-Marquez Rural,185,168,0.088,Migración,2.1,2.23
+2022,La Guajira,Clarke-Wiley Rural,280,247,0.117,Otro,1.0,1.88
+2020,Nariño,Roberts Ltd Rural,285,235,0.172,Otro,2.3,5.31
+2023,Putumayo,Haynes PLC Rural,228,198,0.131,Otro,1.3,7.18
+2020,La Guajira,Johnson-Hill Rural,263,219,0.166,Trabajo infantil,2.5,0.2
+2023,Nariño,Perez and Sons Rural,181,159,0.119,Migración,1.6,4.14
+2022,Cauca,Flores LLC Rural,169,142,0.155,Económica,1.8,4.9
+2023,Putumayo,Fletcher-Bennett Rural,230,204,0.112,Trabajo infantil,1.8,4.35
+2020,Cauca,Wilson-Collins Rural,133,112,0.152,Acceso,1.2,23.38
+2022,Meta,Ramirez PLC Rural,203,186,0.082,Trabajo infantil,2.0,6.14
+2023,Nariño,Cook-Marks Rural,191,157,0.178,Acceso,1.4,2.47
+2023,Nariño,"Williams, Harris and Espinoza Rural",269,235,0.125,Económica,2.3,13.17
+2023,Putumayo,Thomas-Howard Rural,95,92,0.03,Económica,2.5,13.24
+2023,Cauca,"Stout, Smith and Calhoun Rural",151,133,0.118,Acceso,1.8,1.19
+2020,Cauca,"Freeman, Dixon and Higgins Rural",86,86,0.0,Acceso,1.6,27.17
+2024,Cauca,Scott-Barker Rural,239,207,0.131,Migración,1.1,4.5
+2021,Putumayo,Cannon PLC Rural,101,86,0.144,Otro,2.3,0.27
+2023,Cauca,Garcia and Sons Rural,109,87,0.198,Acceso,2.1,5.66
+2022,Chocó,"Gray, Meyer and Ortiz Rural",243,224,0.075,Acceso,1.5,2.34
+2024,Casanare,Townsend-Campbell Rural,174,139,0.198,Otro,1.4,5.97
+2023,Cauca,"Chapman, Baker and Thornton Rural",81,72,0.1,Trabajo infantil,1.7,5.23
+2021,La Guajira,"Wall, Huff and Hanson Rural",57,53,0.063,Económica,2.1,5.05
+2020,Meta,Burgess PLC Rural,223,206,0.076,Económica,2.5,4.57
+2023,Putumayo,Mccann Inc Rural,89,77,0.128,Trabajo infantil,1.9,3.04
+2020,Cauca,"Martinez, Garrison and Terry Rural",219,206,0.056,Otro,2.2,5.51
+2023,Nariño,Young Inc Rural,125,114,0.083,Acceso,1.7,0.1
+2022,Guaviare,Jackson and Sons Rural,137,120,0.117,Otro,1.8,7.55
+2020,Casanare,Cardenas and Sons Rural,275,226,0.178,Económica,1.6,9.11
+2022,Casanare,"Kelly, Maddox and Miller Rural",163,139,0.143,Acceso,1.1,8.12
+2021,Guaviare,"Todd, White and White Rural",218,195,0.102,Trabajo infantil,2.3,3.35
+2021,Meta,Taylor-Garcia Rural,160,139,0.128,Migración,1.5,2.57
+2023,Meta,Pham PLC Rural,245,217,0.112,Económica,1.9,1.62
+2023,Guaviare,Horne Ltd Rural,225,215,0.042,Otro,1.9,12.71
+2023,Guaviare,Bryant Group Rural,268,217,0.188,Migración,1.8,2.19
+2023,Chocó,Jones PLC Rural,176,144,0.179,Otro,2.5,0.27
+2024,Putumayo,Franco Group Rural,246,222,0.096,Trabajo infantil,1.5,0.44
+2020,Amazonas,Lee-Williams Rural,82,75,0.077,Trabajo infantil,1.5,4.67
+2024,Amazonas,"Grant, Ruiz and Shaw Rural",245,234,0.043,Trabajo infantil,1.6,9.94
+2023,Putumayo,Valencia Group Rural,141,122,0.131,Acceso,1.5,10.86
+2021,Nariño,Johnson Ltd Rural,110,95,0.131,Trabajo infantil,1.9,1.69
+2020,Chocó,Lopez PLC Rural,79,74,0.06,Trabajo infantil,1.3,8.11
+2024,Putumayo,"Wright, Andrade and Davis Rural",59,52,0.113,Acceso,2.0,18.13
+2023,Guaviare,Harding-Chen Rural,280,240,0.141,Acceso,1.4,3.13
+2023,Amazonas,Bonilla Ltd Rural,131,121,0.074,Acceso,1.9,18.51
+2022,Cauca,Adams-White Rural,256,232,0.09,Acceso,1.2,8.49
+2021,Putumayo,Stanley-Garcia Rural,177,161,0.09,Otro,2.2,0.37
+2022,La Guajira,"Nelson, Brown and Sandoval Rural",207,193,0.063,Trabajo infantil,1.5,1.18
+2023,Nariño,Rosales Group Rural,177,160,0.091,Económica,2.3,1.56
+2024,Nariño,"Goodwin, Atkinson and Shaw Rural",123,120,0.023,Trabajo infantil,1.1,0.53
+2024,Casanare,Collins-Hayes Rural,255,232,0.087,Migración,1.9,18.07
+2020,Cauca,"Gregory, Erickson and Hicks Rural",201,183,0.088,Trabajo infantil,1.4,7.12
+2024,Guaviare,Vang-Humphrey Rural,171,154,0.097,Acceso,1.3,1.63
+2020,Chocó,"Scott, West and Parker Rural",179,156,0.124,Trabajo infantil,1.6,8.0
+2024,Putumayo,Warner-Hill Rural,101,96,0.04,Acceso,1.6,1.32
+2024,Guaviare,"Jones, Spencer and Diaz Rural",166,158,0.048,Otro,1.3,0.69
+2020,Guaviare,"Payne, Austin and Ramos Rural",270,253,0.062,Migración,1.9,5.6
+2021,Meta,"Charles, Torres and Meyers Rural",118,113,0.035,Otro,2.2,0.32
+2023,Amazonas,Moore and Sons Rural,183,159,0.13,Migración,1.5,0.79
+2021,Nariño,Scott and Sons Rural,88,81,0.072,Trabajo infantil,2.3,2.1
+2023,Putumayo,"Miller, Goodwin and Scott Rural",270,243,0.098,Económica,2.0,1.8
+2023,Chocó,Sanchez Ltd Rural,260,244,0.058,Trabajo infantil,2.0,4.14
+2022,Nariño,Christensen Group Rural,153,140,0.082,Migración,1.2,4.35
+2021,Amazonas,Blair-Miller Rural,112,99,0.115,Trabajo infantil,1.7,3.52
+2024,Casanare,Lawson-Obrien Rural,158,139,0.117,Económica,1.3,1.6
+2022,La Guajira,Kramer-Carlson Rural,57,54,0.05,Trabajo infantil,2.2,3.35
+2022,Guaviare,Spencer-Smith Rural,95,85,0.096,Económica,2.4,1.83
+2023,Amazonas,Hunter Group Rural,64,60,0.058,Económica,1.5,8.64
+2022,Cauca,Thomas and Sons Rural,280,253,0.094,Acceso,2.3,3.07
+2020,Casanare,Nguyen Ltd Rural,291,271,0.068,Migración,1.4,6.46
+2024,Guaviare,Green and Sons Rural,288,232,0.192,Económica,1.8,7.5
+2024,Guaviare,"Guerra, Singh and Roberts Rural",114,97,0.141,Acceso,2.3,9.91
+2021,Cauca,Bird-Baker Rural,247,217,0.12,Trabajo infantil,1.5,9.17
+2024,Casanare,"Rodriguez, Sandoval and Byrd Rural",256,254,0.004,Migración,2.4,22.76
+2021,La Guajira,"Pierce, Vincent and Wright Rural",77,70,0.086,Migración,1.3,1.09
+2022,Meta,Ward Inc Rural,154,132,0.142,Trabajo infantil,2.3,3.36
+2020,Meta,Wiggins PLC Rural,186,167,0.097,Trabajo infantil,2.0,3.3
+2020,Putumayo,Gilbert PLC Rural,189,154,0.185,Acceso,1.7,9.11
+2021,Chocó,Robinson Ltd Rural,275,234,0.148,Migración,1.5,2.61
+2022,Chocó,"Bird, Kirk and Harris Rural",55,50,0.082,Otro,1.1,1.99
+2020,Nariño,"Fletcher, Schmidt and Kirk Rural",114,93,0.178,Otro,1.6,0.67
+2022,Cauca,"West, Hunter and Hobbs Rural",186,170,0.086,Migración,2.3,1.09
+2023,Amazonas,Clark-Gonzalez Rural,282,227,0.195,Acceso,2.4,3.36
+2022,Chocó,Guerra Ltd Rural,73,59,0.181,Migración,1.4,5.17
+2021,Meta,Camacho-Gonzalez Rural,211,186,0.115,Trabajo infantil,2.3,2.33
+2023,Amazonas,Kim-Jackson Rural,120,117,0.024,Económica,2.2,5.42
+2023,Meta,Molina Group Rural,238,211,0.111,Acceso,2.4,1.02
+2022,Casanare,King and Sons Rural,274,261,0.045,Económica,2.2,1.63
+2022,Guaviare,"Browning, King and Fisher Rural",66,61,0.07,Trabajo infantil,1.6,8.74
+2024,Putumayo,Matthews Ltd Rural,166,153,0.073,Económica,2.1,1.68
+2021,Meta,"Cannon, Parks and Frazier Rural",252,240,0.045,Migración,1.0,2.35
+2021,Chocó,Mccoy Inc Rural,130,115,0.111,Otro,1.1,7.99
+2021,Nariño,Estes PLC Rural,182,170,0.064,Migración,2.3,4.07
+2023,Putumayo,Martin-Le Rural,165,150,0.088,Acceso,2.3,9.33
+2021,Chocó,"Conrad, Nelson and Garrett Rural",94,87,0.073,Otro,2.2,5.59
+2022,Nariño,Brown-Smith Rural,71,62,0.124,Acceso,1.6,1.25
+2023,Casanare,"Watkins, Price and Velasquez Rural",291,256,0.12,Otro,1.3,1.44
+2020,Guaviare,Castillo-Simmons Rural,215,196,0.085,Otro,1.9,1.53
+2020,Meta,"Jordan, Castaneda and Reese Rural",100,87,0.127,Trabajo infantil,2.1,6.94
+2021,Amazonas,"Odom, Frazier and Evans Rural",152,127,0.161,Otro,1.6,0.82
+2022,La Guajira,Davis-Cain Rural,72,72,0.0,Trabajo infantil,1.3,0.49
+2024,Cauca,Nelson and Sons Rural,53,49,0.071,Otro,1.7,3.33
+2023,Meta,Adams-Lee Rural,80,75,0.053,Migración,2.1,1.36
+2021,Chocó,"Webb, Cochran and Jones Rural",123,114,0.067,Acceso,1.6,11.95
+2023,Nariño,Bradford Inc Rural,203,203,0.0,Migración,2.5,7.15
+2022,Nariño,Lee Inc Rural,157,157,0.0,Migración,1.6,0.84
+2021,Amazonas,Herrera PLC Rural,124,124,0.0,Trabajo infantil,1.4,4.54
+2023,Nariño,Ruiz and Sons Rural,144,133,0.075,Otro,2.0,38.62
+2023,Cauca,Church-Faulkner Rural,52,48,0.074,Acceso,1.2,8.79
+2022,Casanare,Ross PLC Rural,225,186,0.169,Migración,2.1,0.94
+2023,Chocó,Ortiz-Baker Rural,68,60,0.107,Económica,1.8,4.77
+2020,Putumayo,"Reyes, Mccoy and Melton Rural",288,288,0.0,Migración,1.7,12.07
+2022,Amazonas,"Briggs, Brown and Wang Rural",51,44,0.125,Trabajo infantil,1.8,0.26
+2023,Chocó,Powell-Osborn Rural,300,211,0.296,Acceso,2.0,0.18
+2021,Guaviare,Miller LLC Rural,60,60,0.0,Otro,1.3,9.14
+2021,Guaviare,Martin Group Rural,176,143,0.186,Trabajo infantil,2.3,0.88
+2021,Cauca,Sullivan Group Rural,131,118,0.098,Otro,1.6,1.36
+2022,Cauca,"Brown, Rogers and Mcgee Rural",130,119,0.079,Económica,2.5,0.25
+2023,Chocó,King-Palmer Rural,241,223,0.072,Trabajo infantil,2.4,4.69
+2022,Chocó,Riley-Soto Rural,206,182,0.116,Trabajo infantil,1.8,1.65
+2023,La Guajira,Ward Inc Rural,130,119,0.079,Acceso,2.1,8.08
+2021,Guaviare,Nguyen and Sons Rural,268,256,0.043,Acceso,1.1,2.49
+2021,Amazonas,Hart Inc Rural,108,100,0.073,Migración,1.1,7.41
+2022,La Guajira,"Moss, Wilson and Anderson Rural",230,202,0.118,Acceso,1.7,1.35
+2023,Amazonas,Rose-Martinez Rural,163,141,0.134,Trabajo infantil,2.5,13.24
+2024,Meta,Wise and Sons Rural,167,134,0.192,Acceso,1.2,2.45
+2021,Cauca,Martinez-Perez Rural,139,124,0.105,Económica,1.3,7.46
+2022,La Guajira,Jackson Inc Rural,263,219,0.165,Migración,2.1,1.34
+2022,Nariño,"Mclaughlin, Campbell and Rios Rural",199,181,0.09,Económica,1.8,16.28
+2024,La Guajira,Howard Group Rural,156,140,0.097,Económica,1.4,5.51
+2023,Cauca,Roberts-Carson Rural,277,250,0.094,Trabajo infantil,1.0,4.73
+2020,Casanare,Brown PLC Rural,145,128,0.111,Otro,2.4,5.67
+2020,Putumayo,Miller and Sons Rural,89,76,0.143,Económica,1.1,14.7
+2023,Meta,Orozco LLC Rural,210,193,0.077,Trabajo infantil,1.9,10.81
+2020,Putumayo,Martin-Scott Rural,298,281,0.056,Económica,2.0,1.65
+2023,Putumayo,Perez-Nolan Rural,292,248,0.148,Otro,1.2,16.53
+2020,Chocó,Wright Ltd Rural,132,112,0.144,Económica,2.1,23.08
+2024,Casanare,"Fisher, Cox and Gonzales Rural",73,60,0.174,Acceso,1.4,1.87
+2021,Casanare,Ferguson-Davis Rural,72,66,0.07,Económica,2.3,2.92
+2021,Casanare,"Mejia, Harris and Stafford Rural",249,226,0.089,Acceso,1.4,1.51
+2021,Cauca,Smith Group Rural,126,107,0.15,Acceso,2.2,13.7
+2022,La Guajira,Lopez PLC Rural,141,130,0.077,Económica,2.2,1.03
+2024,Nariño,"Taylor, Smith and Rogers Rural",175,151,0.132,Acceso,2.3,0.32
+2023,Chocó,Kirby Inc Rural,194,176,0.09,Otro,1.6,0.48
+2023,Putumayo,Fitzgerald Ltd Rural,207,182,0.116,Migración,1.7,0.82
+2023,Cauca,Jones Group Rural,60,57,0.043,Otro,1.5,17.22
+2023,Nariño,Mitchell PLC Rural,215,192,0.104,Migración,2.4,1.42
+2024,Guaviare,"Turner, Barnes and Patel Rural",71,71,0.0,Trabajo infantil,1.7,3.18
+2020,Meta,Cooper-Howell Rural,126,105,0.16,Migración,2.5,7.01
+2022,Nariño,"Walls, Russell and Anderson Rural",183,157,0.139,Acceso,1.4,4.31
+2020,Guaviare,Hebert LLC Rural,69,65,0.053,Económica,1.8,2.57
+2024,Casanare,"Davis, Torres and Coleman Rural",155,126,0.187,Económica,1.7,10.8
+2024,Chocó,"Mcfarland, Fox and Holt Rural",140,118,0.157,Trabajo infantil,1.9,1.58
+2024,Amazonas,Mejia-Rodriguez Rural,79,75,0.045,Acceso,1.3,1.06
+2021,Casanare,Summers and Sons Rural,61,56,0.074,Económica,1.6,2.81
+2022,Putumayo,Williams-Rodriguez Rural,200,190,0.047,Acceso,2.1,8.89
+2023,Chocó,"Jones, Smith and George Rural",137,120,0.118,Migración,1.3,3.79
+2020,Chocó,"Lopez, Hopkins and Donovan Rural",273,253,0.071,Económica,1.7,1.7
+2020,Amazonas,Matthews Inc Rural,151,150,0.004,Económica,1.0,4.53
+2023,Meta,Paul-Marshall Rural,227,204,0.097,Acceso,2.3,2.84
+2024,Meta,"Jensen, Bowman and Clark Rural",127,108,0.146,Otro,2.2,2.11
+2024,Putumayo,Hampton and Sons Rural,226,202,0.105,Acceso,2.2,6.6
+2020,La Guajira,"Williams, Hill and Berry Rural",84,73,0.127,Económica,1.3,8.6
+2020,Nariño,Haas PLC Rural,269,239,0.11,Económica,1.3,4.18
+2021,Nariño,"Johnson, Allison and Dunn Rural",161,138,0.137,Otro,1.3,2.55
+2022,Meta,Atkins PLC Rural,87,77,0.114,Acceso,1.6,1.98
+2020,La Guajira,Hickman Group Rural,281,254,0.094,Migración,2.1,4.3
+2023,Meta,"Robinson, Richardson and Carroll Rural",170,152,0.105,Económica,2.3,3.12
+2024,Nariño,Tucker and Sons Rural,101,83,0.176,Trabajo infantil,1.9,0.16
+2023,Amazonas,Nunez-Page Rural,135,117,0.13,Económica,1.2,5.38
+2023,Casanare,"Bonilla, Fernandez and Salazar Rural",267,253,0.052,Acceso,2.1,0.95
+2024,Guaviare,"Smith, Bailey and Craig Rural",124,111,0.104,Económica,1.7,4.2
+2023,Guaviare,Santos-Newton Rural,201,177,0.117,Otro,2.4,8.54
+2023,Nariño,Montgomery-Carney Rural,232,210,0.092,Económica,1.8,20.54
+2023,Putumayo,Reilly Ltd Rural,191,190,0.005,Económica,1.4,0.26
+2023,Meta,Reyes Ltd Rural,79,74,0.057,Acceso,1.9,0.27
+2022,Meta,"Allen, Jarvis and Hill Rural",228,209,0.079,Acceso,1.0,1.28
+2022,Nariño,Ortega-Vargas Rural,170,137,0.194,Trabajo infantil,1.7,4.76
+2024,Nariño,Mullen-Wilson Rural,200,175,0.124,Trabajo infantil,2.4,2.23
+2023,La Guajira,Soto-Campbell Rural,276,269,0.023,Trabajo infantil,2.1,8.67
+2023,Casanare,Joseph Ltd Rural,263,238,0.095,Trabajo infantil,2.2,2.16
+2021,Nariño,Knox-Yoder Rural,122,101,0.166,Económica,2.0,2.25
+2021,La Guajira,Jimenez-Meadows Rural,101,93,0.071,Migración,1.9,1.17
+2020,Casanare,Schmidt-Harper Rural,291,246,0.152,Acceso,1.5,0.44
+2021,Guaviare,Barton-Jones Rural,62,60,0.024,Económica,1.5,9.19
+2022,Putumayo,Huerta LLC Rural,223,223,0.0,Migración,1.3,1.25
+2024,Amazonas,Hodges-Leon Rural,256,215,0.16,Económica,1.5,8.68
+2020,Nariño,"Jones, Martinez and Bryant Rural",80,73,0.077,Otro,1.3,2.43
+2022,Putumayo,"Rivera, Gray and Allen Rural",250,248,0.007,Trabajo infantil,2.2,13.48
+2024,Chocó,Phillips Group Rural,279,256,0.081,Migración,2.3,0.63
+2024,Cauca,Campos-Fox Rural,230,204,0.11,Económica,2.4,3.79
+2023,Meta,Peters and Sons Rural,296,259,0.122,Económica,2.5,0.17
+2024,Cauca,Rogers-Atkinson Rural,260,260,0.0,Otro,1.1,0.88
+2020,La Guajira,Trevino-Shannon Rural,211,196,0.067,Económica,2.3,5.34
+2022,La Guajira,"Hughes, Mason and Hernandez Rural",236,211,0.103,Trabajo infantil,2.1,6.27
+2024,Meta,Smith LLC Rural,237,208,0.122,Económica,1.2,0.35
+2022,Putumayo,Smith PLC Rural,259,245,0.052,Migración,1.2,4.74
+2021,Meta,Davis-Larsen Rural,298,271,0.09,Acceso,2.2,13.94
+2020,Nariño,Blevins-Bryant Rural,263,244,0.071,Acceso,1.5,2.19
+2024,La Guajira,Avery-Smith Rural,71,63,0.111,Trabajo infantil,1.6,4.0
+2023,Putumayo,Gonzalez-Cortez Rural,211,177,0.158,Migración,1.2,8.43
+2024,Casanare,Hall LLC Rural,251,230,0.083,Migración,1.2,4.73
+2023,Casanare,Serrano-Adams Rural,285,276,0.031,Acceso,2.3,0.56
+2024,Putumayo,Fritz Group Rural,291,272,0.065,Económica,1.7,2.19
+2020,Guaviare,Baldwin-Garcia Rural,291,236,0.187,Económica,1.1,5.37
+2022,Casanare,"Gonzalez, Day and Owens Rural",247,232,0.057,Migración,1.7,0.36
+2023,Amazonas,Barber-Adkins Rural,219,210,0.04,Migración,2.4,0.85
+2020,Guaviare,Stewart Ltd Rural,299,275,0.08,Trabajo infantil,1.6,8.78
+2024,Chocó,"Lewis, Lewis and Garner Rural",234,211,0.095,Trabajo infantil,2.4,0.92
+2020,Chocó,Coleman-Harper Rural,280,259,0.074,Otro,1.9,10.57
+2021,Casanare,Acevedo-Barnes Rural,164,160,0.024,Migración,2.3,3.49
+2024,Meta,Romero and Sons Rural,228,201,0.116,Trabajo infantil,2.3,6.57
+2023,Nariño,"Perkins, Wright and Wu Rural",275,244,0.111,Trabajo infantil,1.1,4.97
+2024,Putumayo,Chan Inc Rural,149,128,0.135,Migración,1.8,2.58
+2024,Chocó,May-Cortez Rural,104,92,0.11,Económica,1.8,5.66
+2022,Guaviare,Cochran-Ingram Rural,137,112,0.182,Migración,1.0,2.8
+2024,Chocó,"Stewart, Brooks and Stevens Rural",111,95,0.139,Trabajo infantil,2.1,0.79
+2024,Cauca,Jones-Rose Rural,237,206,0.128,Económica,2.3,8.95
+2022,Guaviare,Moore Inc Rural,140,117,0.16,Económica,1.1,2.82
+2020,Meta,Frye Inc Rural,126,112,0.107,Otro,2.1,2.38
+2023,Putumayo,"Gonzalez, Coleman and Brown Rural",110,99,0.091,Otro,1.8,9.3
+2024,Nariño,Garrett-Dawson Rural,139,123,0.115,Trabajo infantil,1.4,3.31
+2024,La Guajira,"Miller, Mitchell and Hansen Rural",232,231,0.002,Acceso,1.8,4.26
+2021,Cauca,Mcdaniel LLC Rural,133,118,0.107,Otro,1.9,1.97
+2022,Meta,Young and Sons Rural,75,67,0.095,Migración,2.1,6.52
+2023,Cauca,Flores Group Rural,73,64,0.121,Económica,1.6,2.12
+2021,Meta,Davis Group Rural,104,88,0.152,Acceso,1.1,14.66
+2024,Casanare,"Hall, White and Ruiz Rural",200,174,0.129,Otro,1.8,2.56
+2023,Chocó,"Brown, Bradford and Murphy Rural",199,186,0.065,Acceso,2.0,23.19
+2023,Meta,Stewart LLC Rural,237,203,0.143,Acceso,2.2,0.13
+2021,Guaviare,Reyes Inc Rural,82,67,0.182,Acceso,2.1,5.82
+2021,Guaviare,"Johnson, Berry and Scott Rural",270,228,0.154,Otro,1.2,0.64
+2021,Meta,Murphy PLC Rural,171,165,0.035,Económica,2.1,1.84
+2024,Putumayo,Marsh LLC Rural,285,248,0.129,Económica,1.9,3.95
+2023,Cauca,"Martinez, Hall and Todd Rural",80,76,0.042,Trabajo infantil,1.9,0.94
+2020,Guaviare,Rogers and Sons Rural,89,81,0.086,Económica,1.6,2.71
+2022,Chocó,Morgan LLC Rural,125,110,0.119,Acceso,1.0,0.44
+2021,La Guajira,Obrien-Mullen Rural,250,221,0.113,Otro,1.6,2.5
+2022,Chocó,Smith-Guerrero Rural,105,89,0.152,Migración,2.2,0.89
+2023,Amazonas,Perez and Sons Rural,81,66,0.183,Otro,1.5,1.33
+2020,Casanare,"Tucker, Jones and Smith Rural",173,151,0.125,Otro,1.5,13.05
+2023,Putumayo,"Clayton, Ryan and Rowe Rural",250,229,0.082,Acceso,1.7,2.72
+2024,La Guajira,Graham-Roth Rural,245,243,0.005,Migración,1.8,0.15
+2023,Meta,Brown Group Rural,220,183,0.166,Acceso,1.2,4.38
+2022,Cauca,Walters PLC Rural,254,229,0.096,Otro,2.0,4.44
+2023,Casanare,"Price, Foster and Smith Rural",109,98,0.098,Acceso,1.5,2.53
+2020,Meta,Jackson Inc Rural,238,213,0.102,Trabajo infantil,2.0,1.61
+2021,Amazonas,Baker LLC Rural,196,172,0.122,Trabajo infantil,1.8,6.18
+2020,Guaviare,Kelly-Wilcox Rural,71,62,0.124,Migración,2.4,2.35
+2024,Amazonas,"Perkins, Krueger and Houston Rural",295,269,0.087,Otro,1.8,3.99
+2023,Guaviare,"Irwin, Herrera and Baker Rural",279,252,0.095,Económica,1.2,8.93
+2024,La Guajira,Tucker and Sons Rural,296,275,0.07,Económica,1.4,8.19
+2021,Nariño,"Williamson, Cole and Gonzales Rural",262,244,0.065,Otro,1.7,8.5
+2024,Putumayo,Allen-Martinez Rural,152,142,0.064,Otro,1.1,13.32
+2020,Putumayo,Rice-Smith Rural,161,145,0.094,Migración,1.6,2.06
+2024,Putumayo,Byrd-Woods Rural,147,138,0.055,Trabajo infantil,1.1,10.23
+2020,Guaviare,Espinoza Ltd Rural,93,93,0.0,Trabajo infantil,1.2,2.04
+2022,Cauca,"Lane, Harrington and Petersen Rural",89,81,0.081,Trabajo infantil,2.4,2.51
+2021,Amazonas,Smith-Aguilar Rural,207,199,0.038,Trabajo infantil,1.3,4.24
+2020,Chocó,"Aguirre, Costa and Jenkins Rural",149,133,0.105,Económica,1.5,8.18
+2023,Putumayo,Barnes-Munoz Rural,116,107,0.07,Acceso,2.4,0.81
+2020,Amazonas,"Tanner, Li and Wagner Rural",101,88,0.123,Migración,2.1,1.56
+2024,Nariño,"Webster, Collier and Higgins Rural",176,168,0.042,Otro,2.1,5.69
+2023,Cauca,"Allison, Valenzuela and Howe Rural",118,116,0.012,Económica,1.5,0.29
+2024,Casanare,Berry-Evans Rural,66,59,0.095,Acceso,1.0,5.97
+2021,Amazonas,Grant-Martin Rural,118,108,0.079,Otro,2.4,1.07
+2020,Nariño,"Watts, Griffith and Larson Rural",245,236,0.034,Otro,2.0,10.86
+2021,Chocó,Goodman PLC Rural,195,167,0.139,Acceso,1.7,11.3
+2024,Nariño,Valdez and Sons Rural,250,237,0.05,Migración,1.6,2.65
+2021,Nariño,Hickman PLC Rural,187,175,0.062,Acceso,2.4,1.38
+2024,Meta,"Ray, Valentine and Ruiz Rural",60,51,0.149,Económica,2.2,5.59
+2024,Chocó,Bennett-Miles Rural,217,189,0.126,Migración,1.0,8.7
+2023,Chocó,"Henderson, Bailey and Elliott Rural",203,193,0.045,Trabajo infantil,2.3,6.7
+2023,Putumayo,"Keller, Thompson and Crawford Rural",265,243,0.083,Migración,1.9,2.24
+2024,Chocó,Macias Inc Rural,61,58,0.04,Migración,2.1,0.42
+2024,Cauca,Myers and Sons Rural,126,107,0.145,Económica,1.6,24.52
+2020,La Guajira,Hampton LLC Rural,235,200,0.145,Otro,2.5,10.05
+2023,Nariño,Andrews Group Rural,206,166,0.191,Otro,2.4,1.71
+2022,Putumayo,Smith-Miller Rural,212,166,0.214,Trabajo infantil,2.5,2.65
+2023,Chocó,"Wheeler, Hamilton and Williams Rural",112,104,0.069,Trabajo infantil,1.5,2.79
+2023,Putumayo,Archer and Sons Rural,54,46,0.136,Migración,2.0,9.5
+2020,Meta,Perez-Garcia Rural,51,50,0.006,Económica,2.0,1.13
+2023,Guaviare,Martinez and Sons Rural,279,248,0.109,Acceso,2.1,8.67
+2024,Cauca,Cardenas Inc Rural,251,220,0.121,Económica,1.8,4.06
+2023,Cauca,Johnson PLC Rural,140,132,0.052,Acceso,2.2,7.25
+2022,Casanare,"Ray, Turner and Mann Rural",95,88,0.066,Económica,1.2,1.46
+2022,Nariño,Smith-Edwards Rural,163,139,0.145,Económica,1.3,1.96
+2020,Chocó,"Jenkins, Shaw and Blevins Rural",224,196,0.123,Trabajo infantil,1.3,5.64
+2024,Chocó,"Rivers, Parks and Smith Rural",256,209,0.183,Migración,1.4,5.74
+2023,Putumayo,Shelton-Hill Rural,59,48,0.176,Trabajo infantil,1.7,4.28
+2024,Nariño,Leach LLC Rural,51,50,0.017,Migración,2.5,7.32
+2023,Cauca,"Saunders, Levine and Hoffman Rural",272,251,0.074,Trabajo infantil,1.9,1.28
+2023,La Guajira,"Roy, Weaver and Jones Rural",191,182,0.047,Migración,2.0,4.91
+2024,La Guajira,Johnson and Sons Rural,66,56,0.138,Otro,1.2,6.87
+2020,La Guajira,"Smith, Hernandez and Harrell Rural",116,102,0.114,Otro,2.3,9.47
+2024,Chocó,"Stone, Ramirez and Wilson Rural",99,93,0.051,Económica,2.5,0.23
+2024,Chocó,"Harrison, Perkins and Moreno Rural",224,211,0.058,Otro,2.3,3.26
+2020,Casanare,"Collins, Snyder and Gomez Rural",214,179,0.162,Económica,2.3,13.22
+2022,Casanare,"Velazquez, Ward and Lopez Rural",266,244,0.079,Acceso,1.4,0.07
+2024,Meta,Lewis-Sanders Rural,176,176,0.0,Trabajo infantil,1.8,0.43
+2020,Nariño,"Gonzales, Chavez and Wells Rural",62,59,0.046,Trabajo infantil,2.4,3.97
+2024,Meta,"Holden, Thomas and Lang Rural",130,104,0.196,Económica,1.6,0.96
+2022,Cauca,Pittman-Hall Rural,275,233,0.15,Otro,2.2,16.81
+2021,Casanare,Fletcher-Phillips Rural,295,284,0.037,Económica,2.4,0.26
+2021,La Guajira,Barker Group Rural,134,119,0.109,Trabajo infantil,1.1,4.15
+2020,Amazonas,"Dorsey, Smith and Mora Rural",172,146,0.147,Acceso,2.2,3.47
+2024,Putumayo,Davis LLC Rural,265,260,0.017,Trabajo infantil,1.4,12.46
+2023,Nariño,Parsons-Williams Rural,295,249,0.153,Trabajo infantil,2.2,2.61
+2022,Guaviare,"Anderson, Castro and Rodriguez Rural",253,222,0.122,Migración,2.4,1.74
+2024,Meta,Davis and Sons Rural,245,229,0.063,Económica,1.9,3.73
+2024,Cauca,"Ramirez, Cook and Brooks Rural",71,61,0.13,Económica,2.4,7.86
+2023,Putumayo,Thomas-Cline Rural,277,245,0.115,Económica,2.2,5.64
+2020,Meta,Boyer Group Rural,64,56,0.118,Trabajo infantil,1.9,1.75
+2023,Cauca,Thompson-Andrews Rural,76,67,0.107,Económica,1.8,0.01
+2022,Casanare,Hernandez-Moore Rural,152,143,0.056,Económica,1.9,5.42
+2023,Nariño,White-Foster Rural,271,253,0.064,Otro,2.2,5.02
+2024,Amazonas,"Caldwell, Lewis and Larson Rural",166,151,0.088,Acceso,1.7,6.52
+2023,Cauca,Bautista-Rodriguez Rural,136,122,0.102,Económica,1.7,1.95
+2022,Nariño,"Thomas, Morgan and Morse Rural",77,66,0.133,Económica,1.0,2.1
+2020,Nariño,"Hess, Maldonado and Decker Rural",281,225,0.197,Otro,1.2,0.72
+2024,Chocó,"Brown, Sullivan and Jackson Rural",140,124,0.112,Acceso,1.7,0.55
+2024,Meta,Taylor and Sons Rural,97,84,0.132,Migración,1.2,2.57
+2020,Amazonas,"Jenkins, Rose and Diaz Rural",82,70,0.144,Trabajo infantil,1.9,0.63
+2024,Putumayo,Nguyen-West Rural,129,111,0.136,Otro,2.3,0.0
+2021,La Guajira,"Sawyer, Salas and Clark Rural",170,160,0.054,Trabajo infantil,1.9,1.47
+2022,Putumayo,Cameron-Mata Rural,298,247,0.168,Económica,1.8,0.06
+2021,Amazonas,Cruz-Mejia Rural,110,92,0.159,Otro,2.2,15.81
+2024,Amazonas,Lam PLC Rural,158,141,0.107,Trabajo infantil,1.3,4.17
+2021,Nariño,"Brown, Cordova and Davis Rural",251,236,0.057,Económica,1.5,3.98
+2023,Meta,Anderson Inc Rural,203,182,0.102,Trabajo infantil,2.3,2.39
+2024,Putumayo,Ramirez-Martin Rural,207,202,0.022,Trabajo infantil,1.6,1.37
+2021,Cauca,Henry-Bruce Rural,166,136,0.175,Económica,1.7,0.5
+2020,Nariño,Armstrong-Wheeler Rural,227,211,0.069,Migración,1.7,0.97
+2021,Nariño,Ortiz-Simmons Rural,173,158,0.086,Trabajo infantil,2.2,21.85
+2023,Nariño,Singh-Gonzalez Rural,152,126,0.171,Migración,2.2,10.34
+2020,Putumayo,"Harris, Payne and Clarke Rural",52,52,0.0,Económica,1.5,27.1
+2024,Cauca,"Daniel, Cochran and Pratt Rural",86,71,0.164,Trabajo infantil,1.7,1.98
+2024,Putumayo,Morales LLC Rural,61,53,0.117,Económica,1.3,1.82
+2022,La Guajira,Wood PLC Rural,106,86,0.184,Trabajo infantil,2.1,5.73
+2022,Guaviare,Gonzalez LLC Rural,112,106,0.053,Migración,1.3,1.89
+2021,Chocó,"Klein, Kelley and Brown Rural",283,249,0.117,Económica,1.0,0.69
+2021,Casanare,"Harmon, Rodriguez and Clark Rural",217,205,0.053,Económica,1.5,4.32
+2021,Chocó,Johnson Inc Rural,166,140,0.155,Migración,1.6,7.0
+2022,La Guajira,"Ingram, Larson and Simmons Rural",290,245,0.153,Otro,2.5,10.31
+2024,Casanare,Aguilar and Sons Rural,274,222,0.188,Económica,1.2,4.83
+2021,Nariño,Hunter-Becker Rural,99,89,0.1,Otro,1.6,1.03
+2022,Putumayo,Diaz-Brown Rural,203,161,0.204,Acceso,2.5,9.48
+2021,Amazonas,"Garcia, Hoffman and Griffith Rural",245,232,0.049,Otro,1.9,1.09
+2024,Chocó,Edwards PLC Rural,252,227,0.097,Migración,1.5,4.4
+2020,Chocó,Lowery and Sons Rural,273,259,0.051,Migración,2.3,3.9
+2024,Meta,"Scott, Grant and Lynch Rural",103,91,0.11,Económica,2.2,3.93
+2024,Cauca,Evans PLC Rural,92,86,0.055,Otro,1.6,1.33
+2024,Putumayo,Torres LLC Rural,177,149,0.155,Otro,1.7,0.21
+2022,Putumayo,Chapman-Wallace Rural,184,161,0.124,Acceso,2.1,3.45
+2023,Meta,"Fowler, Baker and Mitchell Rural",118,112,0.045,Otro,1.6,1.84
+2024,Amazonas,Mckinney Inc Rural,103,88,0.142,Migración,2.3,4.75
+2023,Nariño,Freeman and Sons Rural,151,123,0.179,Migración,1.5,2.27
+2023,La Guajira,"Daugherty, Jordan and Smith Rural",289,251,0.129,Trabajo infantil,1.4,5.12
+2020,La Guajira,Young and Sons Rural,242,234,0.032,Económica,1.4,6.05
+2024,Putumayo,Barry-Patterson Rural,108,97,0.093,Otro,1.1,4.06
+2024,Putumayo,Cummings LLC Rural,159,137,0.135,Acceso,1.7,0.11
+2023,Putumayo,Carney-Yang Rural,255,232,0.088,Acceso,1.5,1.9
+2023,Amazonas,"Jacobson, Haynes and Lara Rural",95,90,0.049,Acceso,1.4,5.63
+2020,Putumayo,Wright-Deleon Rural,280,234,0.162,Económica,1.4,2.52
+2024,Guaviare,"Warren, Moore and Mcdowell Rural",189,172,0.086,Económica,2.2,2.66
+2021,Cauca,Snyder-Jackson Rural,80,65,0.18,Económica,1.5,13.65
+2024,Nariño,"Palmer, Cruz and Smith Rural",135,125,0.074,Migración,2.0,4.39
+2022,Chocó,Wells PLC Rural,240,220,0.083,Trabajo infantil,1.3,17.42
+2024,La Guajira,"Johnson, Reilly and Stewart Rural",268,249,0.07,Otro,2.4,2.07
+2020,Chocó,Perry-Gibbs Rural,122,110,0.092,Trabajo infantil,2.2,3.53
+2023,Casanare,"Wiley, Nichols and Gonzalez Rural",260,228,0.123,Otro,2.1,30.48
+2020,Meta,Wright-Ramos Rural,217,205,0.051,Otro,2.5,3.01
+2021,Casanare,Sanders-Conley Rural,108,103,0.042,Migración,2.1,0.61
+2021,Meta,Hamilton Inc Rural,109,107,0.016,Otro,1.9,10.74
+2024,Meta,"Ramirez, Leon and Stewart Rural",234,231,0.01,Acceso,1.5,5.39
+2020,Putumayo,Jones LLC Rural,266,257,0.032,Migración,1.6,2.92
+2023,Nariño,David-Garrett Rural,162,150,0.074,Acceso,2.3,8.4
+2020,Putumayo,Conrad-King Rural,85,75,0.109,Otro,2.3,14.11
+2022,Amazonas,Johnson-Reed Rural,177,155,0.12,Trabajo infantil,1.5,0.82
+2023,Casanare,"Nelson, Shaw and Armstrong Rural",225,200,0.107,Acceso,2.1,3.24
+2024,Chocó,Bautista-Davis Rural,133,109,0.173,Otro,1.0,2.57
+2020,La Guajira,Meza and Sons Rural,89,72,0.19,Trabajo infantil,1.9,2.06
+2024,Casanare,Brennan-Carroll Rural,300,274,0.086,Acceso,1.3,0.89
+2023,Cauca,"Bailey, Leon and Terry Rural",186,176,0.052,Acceso,1.3,6.63
+2020,Putumayo,"Davis, Kelly and Lee Rural",195,154,0.208,Acceso,2.0,10.28
+2022,Cauca,"Vargas, Hernandez and Williams Rural",93,78,0.16,Económica,2.0,4.3
+2021,Amazonas,Greene-Morgan Rural,261,220,0.155,Otro,1.7,3.89
+2021,Nariño,Russell-Salazar Rural,67,62,0.072,Acceso,1.4,0.41
+2021,Chocó,"Wells, Torres and Duncan Rural",218,186,0.143,Otro,1.1,2.52
+2020,Putumayo,Flores Inc Rural,182,162,0.107,Económica,1.3,1.76
+2023,Casanare,Long-Clark Rural,90,81,0.096,Económica,1.2,2.83
+2023,Meta,Russell LLC Rural,240,216,0.096,Económica,1.6,4.53
+2021,La Guajira,"Owens, Davis and Hill Rural",272,238,0.125,Migración,1.5,8.81
+2023,La Guajira,Shelton PLC Rural,204,168,0.174,Otro,2.4,0.42
+2024,Nariño,Hebert Ltd Rural,178,139,0.214,Acceso,1.4,8.82
+2020,La Guajira,Clark Ltd Rural,164,150,0.08,Económica,2.2,7.65
+2024,Nariño,Petersen Ltd Rural,184,163,0.11,Trabajo infantil,2.4,0.66
+2023,Meta,Walker and Sons Rural,168,152,0.095,Otro,1.1,10.4
+2020,Chocó,Lee-Cox Rural,215,188,0.122,Acceso,1.5,4.35
+2022,Casanare,Hall-Carlson Rural,206,206,0.0,Migración,1.6,13.74
+2021,Casanare,"Thomas, Jackson and Bailey Rural",167,152,0.089,Acceso,2.4,8.3
+2021,Cauca,"Clark, Shields and Weber Rural",150,119,0.202,Económica,1.4,15.03
+2021,Chocó,Soto-Lynch Rural,275,256,0.066,Otro,1.4,2.9
+2020,Nariño,"Thomas, Moreno and Hess Rural",282,259,0.08,Acceso,1.6,5.16
+2024,Cauca,Stark Ltd Rural,144,133,0.072,Económica,2.1,4.57
+2024,Putumayo,Moon-Kennedy Rural,154,139,0.093,Acceso,1.2,11.63
+2021,Guaviare,"Nunez, Boyd and Scott Rural",61,58,0.035,Acceso,1.0,2.92
+2023,Casanare,Green and Sons Rural,137,126,0.073,Acceso,2.3,0.25
+2023,Amazonas,Cunningham Ltd Rural,52,45,0.121,Trabajo infantil,1.2,4.43
+2021,Putumayo,Bradley PLC Rural,221,194,0.121,Acceso,1.7,2.18
+2020,Cauca,"Davis, Cervantes and Adams Rural",190,168,0.113,Migración,2.1,8.74
+2023,La Guajira,Ross Inc Rural,170,141,0.169,Trabajo infantil,2.3,4.99
+2021,Amazonas,"Rojas, Lutz and Knight Rural",205,179,0.123,Económica,1.3,2.67
+2020,Guaviare,Jarvis-Green Rural,239,199,0.167,Acceso,1.3,15.84
+2020,Chocó,Walker Inc Rural,89,69,0.214,Acceso,1.5,1.25
+2021,Amazonas,Weiss-Martin Rural,278,237,0.144,Otro,1.3,4.91
+2020,Guaviare,"Rodriguez, Peters and Singleton Rural",214,206,0.036,Económica,1.6,0.31
+2022,Meta,"Wood, Farrell and Smith Rural",63,55,0.115,Otro,1.0,4.64
+2023,Nariño,"Harmon, Bowman and Rivers Rural",287,256,0.107,Migración,1.6,1.29
+2021,Nariño,Gutierrez Group Rural,73,59,0.179,Económica,1.6,5.49
+2020,Putumayo,"Montgomery, Miller and Gray Rural",260,235,0.094,Migración,2.0,0.89
+2020,Nariño,Johnson-Nguyen Rural,295,277,0.06,Económica,2.2,1.02
+2021,La Guajira,Salazar-Mann Rural,61,56,0.076,Acceso,1.8,0.26
+2022,Putumayo,Howard-Williams Rural,193,185,0.037,Migración,1.9,2.54
+2024,Casanare,"Fox, Johnson and Stone Rural",290,290,0.0,Acceso,1.2,2.41
+2021,Cauca,Johnson-Matthews Rural,141,112,0.203,Trabajo infantil,1.3,9.14
+2023,Putumayo,"Ramirez, Perez and Weber Rural",53,47,0.101,Acceso,1.3,0.32
+2021,Cauca,"Robinson, Hampton and Mosley Rural",218,209,0.041,Trabajo infantil,2.0,0.37
+2022,Amazonas,"Callahan, Rodriguez and Hernandez Rural",67,54,0.185,Migración,1.6,10.52
+2024,Meta,Kim-Gordon Rural,76,61,0.195,Otro,2.2,4.08
+2024,La Guajira,"Maldonado, Washington and Villarreal Rural",114,101,0.109,Económica,1.9,5.19
+2023,La Guajira,Bryant Inc Rural,135,130,0.033,Migración,2.0,0.23
+2022,Meta,Black PLC Rural,67,61,0.077,Trabajo infantil,1.0,0.93
+2024,Meta,Hernandez-Thomas Rural,147,133,0.089,Otro,2.0,0.68
+2021,Guaviare,Contreras-Rodriguez Rural,200,179,0.103,Económica,1.3,1.41
+2024,Cauca,Ward-Smith Rural,129,122,0.047,Migración,2.1,2.22
+2021,Cauca,Wolfe-Jones Rural,65,55,0.149,Migración,1.6,0.4
+2022,Nariño,Crawford PLC Rural,88,88,0.0,Acceso,1.3,0.02
+2020,Nariño,Reyes-Johnson Rural,286,240,0.158,Otro,2.5,2.64
+2023,Putumayo,Gray-Mora Rural,84,69,0.169,Trabajo infantil,1.5,3.36
+2020,Guaviare,Robinson-Sandoval Rural,252,231,0.082,Acceso,2.0,2.04
+2022,Amazonas,Mcneil LLC Rural,108,97,0.097,Trabajo infantil,1.5,0.97
+2021,Guaviare,Jones and Sons Rural,63,51,0.177,Migración,2.2,1.89
+2021,Casanare,"Nixon, Morales and English Rural",183,158,0.133,Trabajo infantil,1.3,2.5
+2020,Cauca,Smith-Andrade Rural,272,249,0.084,Acceso,1.1,0.99
+2021,Amazonas,"Walker, Curry and Miller Rural",212,193,0.089,Migración,2.4,7.99
+2021,Cauca,"Hopkins, Mann and Zamora Rural",94,82,0.126,Otro,1.8,3.22
+2021,Nariño,Morales-Valencia Rural,179,143,0.197,Económica,1.6,12.78
+2023,Chocó,Hicks-Davidson Rural,92,83,0.091,Migración,1.4,2.15
+2021,Nariño,Carey Group Rural,127,116,0.082,Trabajo infantil,1.9,7.63
+2021,Chocó,Scott-Small Rural,270,242,0.102,Acceso,1.1,1.27
+2022,Casanare,Mcguire-Mcguire Rural,146,130,0.103,Migración,1.7,2.55
+2023,Guaviare,"Brown, Jones and Sheppard Rural",206,182,0.116,Acceso,2.1,1.0
+2023,Amazonas,Reeves PLC Rural,245,221,0.097,Acceso,1.6,8.03
+2020,Chocó,Hughes and Sons Rural,202,169,0.161,Otro,1.2,2.72
+2021,Chocó,Hall Group Rural,147,138,0.056,Acceso,1.5,4.32
+2022,Casanare,"Travis, Turner and Owens Rural",193,169,0.122,Otro,1.7,10.07
+2022,La Guajira,Scott Ltd Rural,233,204,0.124,Acceso,1.3,0.31
+2021,Amazonas,"Collins, Holland and Dickerson Rural",53,49,0.06,Otro,2.1,2.69
+2022,Meta,Bridges Inc Rural,153,134,0.121,Acceso,2.4,3.98
+2022,Casanare,"Guzman, Suarez and Irwin Rural",175,153,0.125,Trabajo infantil,2.0,28.31
+2024,Cauca,Hall-Pace Rural,154,154,0.0,Económica,2.5,0.73
+2020,Casanare,Clark LLC Rural,288,273,0.052,Otro,1.2,0.71
+2023,Chocó,Acosta LLC Rural,247,202,0.181,Trabajo infantil,1.8,0.86
+2023,Putumayo,Hart PLC Rural,228,211,0.071,Económica,2.0,5.53
+2023,Nariño,Thompson-Patel Rural,112,107,0.041,Acceso,1.1,3.31
+2022,Amazonas,"Kelley, Gomez and Brown Rural",228,226,0.008,Migración,1.4,4.5
+2023,La Guajira,"Rich, Bowers and Garrison Rural",115,109,0.047,Migración,1.9,4.29
+2021,Amazonas,"Hobbs, Smith and Green Rural",79,71,0.095,Económica,2.0,4.03
+2023,Casanare,Mckenzie Inc Rural,230,221,0.038,Otro,2.5,4.22
+2020,Guaviare,"Compton, Anderson and Hunt Rural",282,244,0.134,Migración,2.3,0.13
+2021,Casanare,"Horton, Ingram and Gardner Rural",114,107,0.059,Trabajo infantil,1.8,2.19
+2024,Casanare,"Williams, Green and Hart Rural",200,176,0.117,Trabajo infantil,2.1,1.51
+2020,Cauca,"Scott, Cowan and Kirby Rural",212,175,0.173,Otro,2.2,5.94
+2022,La Guajira,"Calhoun, King and Mejia Rural",118,98,0.169,Migración,2.4,6.64
+2023,Chocó,"Perez, Martinez and Cook Rural",51,45,0.116,Migración,2.2,4.71
+2020,Cauca,Nunez LLC Rural,67,64,0.044,Acceso,1.8,1.51
+2022,Casanare,Ramirez PLC Rural,93,83,0.098,Migración,1.6,2.72
+2021,Nariño,Martinez-Anderson Rural,174,153,0.117,Migración,1.8,1.7
+2020,Meta,Johnson Group Rural,195,150,0.226,Migración,1.3,0.03
